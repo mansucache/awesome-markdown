@@ -89,16 +89,17 @@ Want to recommend a Markdown tool or resource? Open an [Issue](https://github.co
 > Editors that provide a smooth, efficient Markdown writing experience.
 
 - [Typora](https://typora.io/) - A WYSIWYG Markdown editor with seamless source-preview switching, outline view, full-text search, and multi-format export. ![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg) [![](./imgs/doc.svg)](https://github.com/mansucache/awesome-typora)
-  - [Typora Plugin](https://github.com/obgnail/typora_plugin) - A collection of plugins that extend Typora with tag management, file search, auto-numbering, and chart support. ![](./imgs/github.svg)
-  - [VLOOK](https://github.com/MadMaxChow/VLOOK) - An elegant theme package and enhancement plugin for Typora, adding rich layouts, content navigation, and presentation aids. ![](./imgs/github.svg)![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
+  - [Typora Plugin](https://github.com/obgnail/typora_plugin) - A collection of plugins that extend Typora with tag management, file search, auto-numbering, and chart support. ![](./imgs/github.svg) ![](./imgs/typora.svg)
+
+  - [VLOOK](https://github.com/MadMaxChow/VLOOK) - An elegant theme package and enhancement plugin for Typora, adding rich layouts, content navigation, and presentation aids. ![](./imgs/github.svg) ![](./imgs/typora.svg) ![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
 
 - [Bear](https://bear.app/) - A Markdown note app for the Apple ecosystem, known for its powerful tagging system, elegant interface, and seamless sync. ![](./imgs/mac.svg) ![](./imgs/iphone.svg)
-- [Markdown Monster](https://github.com/RickStrahl/MarkdownMonster) - A feature-rich Windows Markdown editor with syntax highlighting, live preview, Git integration, and direct publishing to blog platforms. ![](./imgs/github.svg)![](./imgs/windows.svg)
+- [Markdown Monster](https://github.com/RickStrahl/MarkdownMonster) - A feature-rich Windows Markdown editor with syntax highlighting, live preview, Git integration, and direct publishing to blog platforms. ![](./imgs/github.svg) ![](./imgs/windows.svg)
 - [Markor](https://github.com/gsantner/markor) - A lightweight Android editor supporting Markdown, todo.txt, and Zim, with full offline use, preview, sync, and encryption. ![](./imgs/github.svg) ![](./imgs/android.svg)
-- [MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - A fast, privacy-focused open-source Markdown editor for macOS, extensible via scripts and CodeMirror. ![](./imgs/github.svg)![](./imgs/mac.svg)
+- [MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - A fast, privacy-focused open-source Markdown editor for macOS, extensible via scripts and CodeMirror. ![](./imgs/github.svg) ![](./imgs/mac.svg)
 - [Cmd Markdown](https://www.zybuluo.com/mdeditor) - A powerful online Markdown editor with real-time preview, cloud storage, version history, and support for flowcharts, sequence diagrams, and LaTeX. ![](./imgs/free.svg) ![](./imgs/web.svg)
 - [Effie](https://www.effie.co/) - A writing tool that combines a WYSIWYG Markdown editor with mind mapping, supporting cross-platform sync. ![](./imgs/free.svg)
-- [iA Writer](https://ia.net/writer) - A distraction-free Markdown editor focused on plain-text writing, with cross-device sync and multi-format export. ![](./imgs/mac.svg) ![](./imgs/windows.svg)![](./imgs/iphone.svg)
+- [iA Writer](https://ia.net/writer) - A distraction-free Markdown editor focused on plain-text writing, with cross-device sync and multi-format export. ![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/iphone.svg)
 - [Lightpaper](https://getlightpaper.com/) - A lightweight Markdown editor for Mac with folder navigation, live preview, and unique Shadow Notes and Scratch Notes features. ![](./imgs/mac.svg)
 - [Ulysses](https://ulysses.app/) - An Apple-ecosystem writing app with the Markdown XL syntax, iCloud sync, and export to PDF, Word, and EPUB. ![](./imgs/mac.svg) ![](./imgs/iphone.svg)
 - [MarkText](https://github.com/marktext/marktext) - A simple, elegant open-source Markdown editor for Linux, macOS, and Windows, with live preview and multiple themes. ![](./imgs/github.svg) ![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
@@ -106,15 +107,15 @@ Want to recommend a Markdown tool or resource? Open an [Issue](https://github.co
 - [MacDown](https://github.com/MacDownApp/macdown) - An open-source Markdown editor for macOS inspired by Mou, with live preview and customizable rendering. ![](./imgs/github.svg) ![](./imgs/mac.svg)
 - [Marked 2](https://marked2app.com/) - A Markdown previewer for macOS with multiple rendering engines, custom styles, and export. ![](./imgs/mac.svg)
 
-- [MarkFlowy](https://github.com/drl990114/MarkFlowy) - A Markdown writer with both source and WYSIWYG modes, a built-in ChatGPT assistant, and export to PDF and HTML. ![](./imgs/github.svg)![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
+- [MarkFlowy](https://github.com/drl990114/MarkFlowy) - A Markdown writer with both source and WYSIWYG modes, a built-in ChatGPT assistant, and export to PDF and HTML. ![](./imgs/github.svg) ![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
 
-- [mkeditor](https://github.com/versyxdigital/mkeditor) - A minimalist desktop Markdown editor for Windows, macOS, and Linux with a web version, following the CommonMark spec. ![](./imgs/github.svg)![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg) ![](./imgs/web.svg)
+- [mkeditor](https://github.com/versyxdigital/mkeditor) - A minimalist desktop Markdown editor for Windows, macOS, and Linux with a web version, following the CommonMark spec. ![](./imgs/github.svg) ![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg) ![](./imgs/web.svg)
 
-- [PanWriter](https://github.com/mb21/panwriter) - A desktop Markdown editor deeply integrated with Pandoc, featuring a unique preview pane showing page layout and pagination. ![](./imgs/github.svg)![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
+- [PanWriter](https://github.com/mb21/panwriter) - A desktop Markdown editor deeply integrated with Pandoc, featuring a unique preview pane showing page layout and pagination. ![](./imgs/github.svg) ![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
 
 - [Quillpad](https://github.com/quillpad/quillpad) - A free, open-source, privacy-focused note app supporting Markdown notes, task lists, reminders, and attachments. ![](./imgs/github.svg) ![](./imgs/android.svg)
 
-- [Ghostwriter](https://github.com/KDE/ghostwriter) - An open-source distraction-free Markdown editor with focus mode, Hemingway mode, and export to HTML and PDF. ![](./imgs/github.svg)![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
+- [Ghostwriter](https://github.com/KDE/ghostwriter) - An open-source distraction-free Markdown editor with focus mode, Hemingway mode, and export to HTML and PDF. ![](./imgs/github.svg) ![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
 
 ### Notes and Knowledge Management
 
@@ -123,27 +124,27 @@ Want to recommend a Markdown tool or resource? Open an [Issue](https://github.co
 - [Persona](https://github.com/jayamitkatariya/personacli) - A local-first personal workspace for notes, tasks, and AI chat, stored as plain Markdown files with no accounts or cloud. ![](./imgs/github.svg) ![](./imgs/terminal.svg)
 - [Obsidian](https://obsidian.md/) - A powerful local-first Markdown note app with bidirectional links and a graph view, helping you build a "second brain". ![](./imgs/free.svg) ![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg) ![](./imgs/android.svg) ![](./imgs/iphone.svg)
 - [Notion](https://www.notion.com/) - An all-in-one workspace for notes, tasks, databases, and project management with Markdown support and customizable blocks. ![](./imgs/free.svg) ![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg) ![](./imgs/android.svg) ![](./imgs/iphone.svg) ![](./imgs/web.svg)
-- [AFFiNE](https://github.com/toeverything/AFFiNE) - An open-source, local-first workspace merging documents, whiteboards, and databases, with deep Markdown support. ![](./imgs/github.svg)![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg) ![](./imgs/web.svg)
+- [AFFiNE](https://github.com/toeverything/AFFiNE) - An open-source, local-first workspace merging documents, whiteboards, and databases, with deep Markdown support. ![](./imgs/github.svg) ![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg) ![](./imgs/web.svg)
 - [Yuque](https://www.yuque.com/) - A document and knowledge base tool from Ant Group with "book-like" structured knowledge management and strong team collaboration. ![](./imgs/free.svg)
 - [Youdao Note](https://note.youdao.com/) - A multi-platform note app from NetEase with Markdown support, AI assistance, and cloud sync. ![](./imgs/free.svg)
 - [Yinxiang Biji](https://www.yinxiang.com/) - A cross-device knowledge management tool with Markdown support, live preview, and web clipping. ![](./imgs/free.svg)
 - [Memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking app with lightweight Markdown support. ![](./imgs/github.svg) ![](./imgs/web.svg)
-- [Logseq](https://github.com/logseq/logseq) - A privacy-first, open-source outliner with deep Markdown support, bidirectional links, PDF annotation, and whiteboards. ![](./imgs/github.svg)![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg) ![](./imgs/android.svg)
-- [SiYuan](https://github.com/siyuan-note/siyuan) - A privacy-focused personal knowledge management system with block-level references and a WYSIWYG Markdown experience. ![](./imgs/github.svg)![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
-- [VNote](https://github.com/vnotex/vnote) - A free, open-source Qt-based note app focused on Markdown, with syntax highlighting, live preview, and full-text search. ![](./imgs/github.svg)![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
-- [Zettlr](https://github.com/Zettlr/Zettlr) - A professional Markdown writing tool for Zettelkasten method and academic writing, with citation management and multi-format export. ![](./imgs/github.svg)![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
-- [NoteGen](https://github.com/codexu/note-gen) - A lightweight cross-platform Markdown note app powered by AI, turning fragmented knowledge into structured notes with GitHub sync and RAG. ![](./imgs/github.svg)![](./imgs/mac.svg)![](./imgs/windows.svg) ![](./imgs/linux.svg) ![](./imgs/android.svg) ![](./imgs/iphone.svg)
-- [MiaoYan](https://github.com/tw93/MiaoYan) - A native macOS Markdown note app built with Swift 5, offering syntax highlighting, dark mode, LaTeX, and Mermaid support. ![](./imgs/github.svg)![](./imgs/mac.svg)
-- [Yank Note](https://github.com/purocean/yn) - A Monaco-powered Markdown editor with version control, encryption, runnable code blocks, chart embedding, and AI Copilot. ![](./imgs/github.svg)![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
-- [QOwnNotes](https://github.com/pbek/QOwnNotes) - An open-source note and todo manager storing notes as plain Markdown files, syncing with Nextcloud and other cloud services. ![](./imgs/github.svg)![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg) ![](./imgs/android.svg) ![](./imgs/iphone.svg)
-- [MindForger](https://github.com/dvorka/mindforger) - A human-mind-inspired personal knowledge management tool combining a Markdown editor with a knowledge graph navigator. ![](./imgs/github.svg)![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
-- [Joplin](https://github.com/laurent22/joplin) - A privacy-focused, open-source note app with Markdown, end-to-end encryption, and sync to Nextcloud, Dropbox, and OneDrive. ![](./imgs/github.svg)![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg) ![](./imgs/android.svg) ![](./imgs/iphone.svg)
+- [Logseq](https://github.com/logseq/logseq) - A privacy-first, open-source outliner with deep Markdown support, bidirectional links, PDF annotation, and whiteboards. ![](./imgs/github.svg) ![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg) ![](./imgs/android.svg)
+- [SiYuan](https://github.com/siyuan-note/siyuan) - A privacy-focused personal knowledge management system with block-level references and a WYSIWYG Markdown experience. ![](./imgs/github.svg) ![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
+- [VNote](https://github.com/vnotex/vnote) - A free, open-source Qt-based note app focused on Markdown, with syntax highlighting, live preview, and full-text search. ![](./imgs/github.svg) ![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
+- [Zettlr](https://github.com/Zettlr/Zettlr) - A professional Markdown writing tool for Zettelkasten method and academic writing, with citation management and multi-format export. ![](./imgs/github.svg) ![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
+- [NoteGen](https://github.com/codexu/note-gen) - A lightweight cross-platform Markdown note app powered by AI, turning fragmented knowledge into structured notes with GitHub sync and RAG. ![](./imgs/github.svg) ![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg) ![](./imgs/android.svg) ![](./imgs/iphone.svg)
+- [MiaoYan](https://github.com/tw93/MiaoYan) - A native macOS Markdown note app built with Swift 5, offering syntax highlighting, dark mode, LaTeX, and Mermaid support. ![](./imgs/github.svg) ![](./imgs/mac.svg)
+- [Yank Note](https://github.com/purocean/yn) - A Monaco-powered Markdown editor with version control, encryption, runnable code blocks, chart embedding, and AI Copilot. ![](./imgs/github.svg) ![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
+- [QOwnNotes](https://github.com/pbek/QOwnNotes) - An open-source note and todo manager storing notes as plain Markdown files, syncing with Nextcloud and other cloud services. ![](./imgs/github.svg) ![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg) ![](./imgs/android.svg) ![](./imgs/iphone.svg)
+- [MindForger](https://github.com/dvorka/mindforger) - A human-mind-inspired personal knowledge management tool combining a Markdown editor with a knowledge graph navigator. ![](./imgs/github.svg) ![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
+- [Joplin](https://github.com/laurent22/joplin) - A privacy-focused, open-source note app with Markdown, end-to-end encryption, and sync to Nextcloud, Dropbox, and OneDrive. ![](./imgs/github.svg) ![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg) ![](./imgs/android.svg) ![](./imgs/iphone.svg)
 - [Inkdrop](https://www.inkdrop.app/) - A cross-platform Markdown note app for developers, with end-to-end encryption and a customizable plugin ecosystem. ![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg) ![](./imgs/android.svg) ![](./imgs/iphone.svg)
 - [Tangent Notes](https://www.tangentnotes.com/) - A permanently free, open-source note app with "tangent writing" and visual thought branches, storing notes as local Markdown files. ![](./imgs/free.svg) ![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
 - [ima.copilot](https://ima.qq.com/) - Tencent's intelligent workspace, a "thinking knowledge base" that answers questions from the web and your own knowledge base, with Markdown support. ![](./imgs/free.svg) ![](./imgs/all.svg)
-- [Notable](https://github.com/notable/notable) - A Markdown-based note app with a VS Code-like editor, dark theme, focus mode, and infinitely nestable tags. ![](./imgs/github.svg)![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
-- [Khoj](https://github.com/khoj-ai/khoj) - An open-source personal AI app that chats with LLMs locally or in the cloud and answers from your Markdown notes via semantic search. ![](./imgs/github.svg)![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg) ![](./imgs/android.svg) ![](./imgs/obsidian.svg)
-- [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - An open-source Notion alternative built with Flutter and Rust, prioritizing data privacy with native Markdown support. ![](./imgs/github.svg)![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg) ![](./imgs/android.svg)
+- [Notable](https://github.com/notable/notable) - A Markdown-based note app with a VS Code-like editor, dark theme, focus mode, and infinitely nestable tags. ![](./imgs/github.svg) ![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
+- [Khoj](https://github.com/khoj-ai/khoj) - An open-source personal AI app that chats with LLMs locally or in the cloud and answers from your Markdown notes via semantic search. ![](./imgs/github.svg) ![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg) ![](./imgs/android.svg) ![](./imgs/obsidian.svg)
+- [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - An open-source Notion alternative built with Flutter and Rust, prioritizing data privacy with native Markdown support. ![](./imgs/github.svg) ![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg) ![](./imgs/android.svg)
 
 ### Long-form Writing
 
@@ -159,18 +160,19 @@ Want to recommend a Markdown tool or resource? Open an [Issue](https://github.co
 
 - [Feishu Docs](https://www.feishu.cn/product/docs) - ByteDance's enterprise collaboration platform with deep Markdown support, real-time co-editing, comments, and version history. ![](./imgs/free.svg) ![](./imgs/all.svg)
 - [WeCom Docs](https://doc.weixin.qq.com/) - WeCom's built-in online collaboration suite with Markdown support, real-time co-editing, and enterprise permission management. ![](./imgs/free.svg) ![](./imgs/all.svg)
-- [Shimo](https://shimo.im/) - A cloud-based real-time collaboration office suite with Markdown support and export, covering docs, sheets, slides, and mind maps. ![](./imgs/free.svg)![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg) ![](./imgs/android.svg) ![](./imgs/iphone.svg)
+- [Shimo](https://shimo.im/) - A cloud-based real-time collaboration office suite with Markdown support and export, covering docs, sheets, slides, and mind maps. ![](./imgs/free.svg) ![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg) ![](./imgs/android.svg) ![](./imgs/iphone.svg)
 - [Tencent Docs](https://docs.qq.com/) - Tencent's cloud collaboration suite with native Markdown support and a built-in AI writing assistant. ![](./imgs/free.svg) ![](./imgs/all.svg)
 - [Confluence](https://www.atlassian.com/software/confluence) - Atlassian's team collaboration and knowledge management platform with basic Markdown support converted to rich text as you type. ![](./imgs/web.svg)
-- [Boardmix](https://boardmix.com/) - An online collaborative whiteboard whose document feature supports Markdown formatting and export to files compatible with Obsidian. ![](./imgs/free.svg) ![](./imgs/mac.svg)  ![](./imgs/windows.svg) ![](./imgs/web.svg)
+- [Boardmix](https://boardmix.com/) - An online collaborative whiteboard whose document feature supports Markdown formatting and export to files compatible with Obsidian. ![](./imgs/free.svg) ![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/web.svg)
 - [Jupyter](https://github.com/jupyter/jupyter) - A non-profit project for interactive computing, combining live code, LaTeX math, visualizations, and Markdown text cells in notebooks. ![](./imgs/github.svg) ![](./imgs/all.svg)
 - [HedgeDoc](https://github.com/hedgedoc/hedgedoc) - An open-source collaborative Markdown editor with real-time co-editing, diagrams, and slide mode, self-hostable. ![](./imgs/github.svg) ![](./imgs/web.svg)
-- [ONLYOFFICE Desktop Editors](https://github.com/ONLYOFFICE/DesktopEditors) - An open-source desktop office suite with cloud collaboration and format conversion, including Markdown. ![](./imgs/github.svg)![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
+- [ONLYOFFICE Desktop Editors](https://github.com/ONLYOFFICE/DesktopEditors) - An open-source desktop office suite with cloud collaboration and format conversion, including Markdown. ![](./imgs/github.svg) ![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
 - [Seafile](https://github.com/haiwen/seafile) - An open-source, self-hosted file sync and collaboration platform with a built-in Markdown wiki. ![](./imgs/github.svg)
 
 ### Mind Mapping
 
-- [markmap](https://github.com/markmap/markmap) - A tool that visualizes Markdown's hierarchical structure as interactive mind maps, available as a web app, CLI, and VS Code and Obsidian plugins. ![](./imgs/github.svg)
+- [markmap](https://github.com/markmap/markmap) - A tool that visualizes Markdown's hierarchical structure as interactive mind maps, available as a web app, CLI, and VS Code and Obsidian plugins. ![](./imgs/github.svg) ![](./imgs/vscode.svg) ![](./imgs/obsidian.svg)
+
 - [XMind](https://xmind.com/) - A powerful mind mapping and brainstorming app that imports and exports Markdown, supporting fishbone diagrams, org charts, and timelines. ![](./imgs/free.svg) ![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg) ![](./imgs/android.svg) ![](./imgs/iphone.svg)
 - [Drawnix](https://github.com/plait-board/drawnix) - An open-source whiteboard built on the Plait framework, converting Markdown to mind maps and Mermaid to flowcharts. ![](./imgs/github.svg) ![](./imgs/web.svg)
 
@@ -181,15 +183,18 @@ Want to recommend a Markdown tool or resource? Open an [Issue](https://github.co
 - [reveal.js](https://github.com/hakimel/reveal.js) - An open-source HTML presentation framework with Markdown authoring, vertical nesting, speaker notes, and PDF export. ![](./imgs/github.svg)
 
 - [Marp](https://github.com/marp-team/marp) - A Markdown-powered presentation ecosystem with the Marpit framework and Marp CLI, exporting to PDF and PPTX. ![](./imgs/github.svg)
-- [presenterm](https://github.com/mfontanini/presenterm) - A powerful terminal presentation tool using Markdown slides, with code highlighting, images, Mermaid charts, and LaTeX. ![](./imgs/github.svg)
-- [mdp](https://github.com/visit1985/mdp) - A lightweight command-line presentation tool that converts Markdown files into terminal slides separated by horizontal rules. ![](./imgs/github.svg)
-- [deck](https://github.com/k1LoW/deck) - A command-line tool that converts Markdown documents into Google Slides presentations, decoupling content from design. ![](./imgs/github.svg)
+- [presenterm](https://github.com/mfontanini/presenterm) - A powerful terminal presentation tool using Markdown slides, with code highlighting, images, Mermaid charts, and LaTeX. ![](./imgs/github.svg) ![](./imgs/terminal.svg)
+
+- [mdp](https://github.com/visit1985/mdp) - A lightweight command-line presentation tool that converts Markdown files into terminal slides separated by horizontal rules. ![](./imgs/github.svg) ![](./imgs/terminal.svg)
+
+- [deck](https://github.com/k1LoW/deck) - A command-line tool that converts Markdown documents into Google Slides presentations, decoupling content from design. ![](./imgs/github.svg) ![](./imgs/terminal.svg)
+
 
 ### Notes and Task Lists
 
-- [Smartisan Notes](https://cloud.smartisan.com/apps/note/md.html) - An elegant note app with Markdown support and a signature feature that turns notes into beautiful shareable images. ![](./imgs/free.svg)![](./imgs/web.svg) ![](./imgs/android.svg) ![](./imgs/iphone.svg)
-- [flomo](https://flomoapp.com/) - A card-based note app built on the idea of "capture ideas, not organize them", with Markdown, tags, and bidirectional links. ![](./imgs/free.svg)![](./imgs/all.svg)
-- [TickTick](https://dida365.com/webapp) - A powerful productivity tool combining todos, calendar, habit tracking, and Pomodoro, with Markdown support in task details. ![](./imgs/free.svg)![](./imgs/all.svg)
+- [Smartisan Notes](https://cloud.smartisan.com/apps/note/md.html) - An elegant note app with Markdown support and a signature feature that turns notes into beautiful shareable images. ![](./imgs/free.svg) ![](./imgs/web.svg) ![](./imgs/android.svg) ![](./imgs/iphone.svg)
+- [flomo](https://flomoapp.com/) - A card-based note app built on the idea of "capture ideas, not organize them", with Markdown, tags, and bidirectional links. ![](./imgs/free.svg) ![](./imgs/all.svg)
+- [TickTick](https://dida365.com/webapp) - A powerful productivity tool combining todos, calendar, habit tracking, and Pomodoro, with Markdown support in task details. ![](./imgs/free.svg) ![](./imgs/all.svg)
 - [Tasks.md](https://github.com/BaldissaraMatheus/Tasks.md) - A self-hosted Kanban-style task manager based on Markdown files, creating cards, lanes, and tags via a modern web interface. ![](./imgs/github.svg)
 
 ## Website Generation and Typesetting
@@ -214,14 +219,17 @@ Want to recommend a Markdown tool or resource? Open an [Issue](https://github.co
 
 > Generate and read e-books.
 
-- [mdBook](https://github.com/rust-lang/mdBook) - A Rust CLI for creating modern online books from Markdown, with full-text search and syntax highlighting, used by the Rust project. ![](./imgs/github.svg)
-- [HonKit](https://github.com/honkit/honkit) - A modern fork of GitBook for building websites, PDFs, and e-books from Markdown, with plugins and LaTeX support. ![](./imgs/github.svg)
+- [mdBook](https://github.com/rust-lang/mdBook) - A Rust CLI for creating modern online books from Markdown, with full-text search and syntax highlighting, used by the Rust project. ![](./imgs/github.svg) ![](./imgs/terminal.svg)
+
+- [HonKit](https://github.com/honkit/honkit) - A modern fork of GitBook for building websites, PDFs, and e-books from Markdown, with plugins and LaTeX support. ![](./imgs/github.svg) ![](./imgs/terminal.svg)
+
 - [GitBook](https://github.com/GitbookIO/gitbook) - A platform for building and managing technical documentation, with Git-like version control and real-time publishing. ![](./imgs/github.svg)
 - [bookdown](https://github.com/rstudio/bookdown) - An open-source R package for writing books and long-form articles with R Markdown, supporting PDF, HTML, EPUB, and Word output. ![](./imgs/github.svg)
-- [Crowbook](https://github.com/crowdagger/crowbook) - A Rust tool for novels and fiction, converting Markdown books to HTML, LaTeX/PDF, and EPUB with automatic typesetting. ![](./imgs/github.svg)
-- [Koodo Reader](https://github.com/koodo-reader/koodo-reader) - A cross-platform e-book reader supporting EPUB, PDF, and Markdown, with cloud sync and AI-assisted reading. ![](./imgs/github.svg)![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
+- [Crowbook](https://github.com/crowdagger/crowbook) - A Rust tool for novels and fiction, converting Markdown books to HTML, LaTeX/PDF, and EPUB with automatic typesetting. ![](./imgs/github.svg) ![](./imgs/terminal.svg)
+
+- [Koodo Reader](https://github.com/koodo-reader/koodo-reader) - A cross-platform e-book reader supporting EPUB, PDF, and Markdown, with cloud sync and AI-assisted reading. ![](./imgs/github.svg) ![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
 - [calibre](https://github.com/kovidgoyal/calibre) - The "Swiss Army knife" of e-books: library management, format conversion (including Markdown), editing, and syncing. ![](./imgs/github.svg) ![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
-- [lue](https://github.com/superstarryeyes/lue) - A terminal e-book reader for EPUB, PDF, and Markdown with text-to-speech, smart progress saving, and a customizable interface. ![](./imgs/github.svg)![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
+- [lue](https://github.com/superstarryeyes/lue) - A terminal e-book reader for EPUB, PDF, and Markdown with text-to-speech, smart progress saving, and a customizable interface. ![](./imgs/github.svg) ![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
 
 ### Templates
 
@@ -241,17 +249,20 @@ Want to recommend a Markdown tool or resource? Open an [Issue](https://github.co
 ### Programming Tools
 
 - [VS Code](https://github.com/microsoft/vscode) - A lightweight but powerful code editor with comprehensive built-in Markdown support, extensible via plugins. ![](./imgs/github.svg) ![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
-  - [Foam](https://github.com/foambubble/foam) - A personal knowledge management system built on VS Code and GitHub, with bidirectional links and a knowledge graph. ![](./imgs/github.svg)
-  - [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown) - A VS Code extension adding keyboard shortcuts, table of contents generation, table formatting, math support, and batch HTML export. ![](./imgs/github.svg)
-  - [Marp for VS Code](https://github.com/marp-team/marp-vscode) - A VS Code extension that turns the editor into a slide deck creator with Marp Markdown, exporting to PDF, PPTX, and HTML. ![](./imgs/github.svg)
+  - [Foam](https://github.com/foambubble/foam) - A personal knowledge management system built on VS Code and GitHub, with bidirectional links and a knowledge graph. ![](./imgs/github.svg) ![](./imgs/vscode.svg)
+
+  - [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown) - A VS Code extension adding keyboard shortcuts, table of contents generation, table formatting, math support, and batch HTML export. ![](./imgs/github.svg) ![](./imgs/vscode.svg)
+
+  - [Marp for VS Code](https://github.com/marp-team/marp-vscode) - A VS Code extension that turns the editor into a slide deck creator with Marp Markdown, exporting to PDF, PPTX, and HTML. ![](./imgs/github.svg) ![](./imgs/vscode.svg)
+
 - [Trae](https://www.trae.cn/) - ByteDance's AI IDE that helps developers complete tasks from coding to deployment through natural language. ![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
 - [Cursor](https://cursor.com/) - An AI-first code editor with chat, code completion, and intelligent rewriting powered by large language models. ![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
-- [RStudio](https://github.com/rstudio/rstudio) - An open-source IDE for R with deep R Markdown integration, producing reproducible reports, slides, and websites. ![](./imgs/github.svg)![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
+- [RStudio](https://github.com/rstudio/rstudio) - An open-source IDE for R with deep R Markdown integration, producing reproducible reports, slides, and websites. ![](./imgs/github.svg) ![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
 
 ### Code Snippet Management
 
 - [massCode](https://github.com/massCodeIO/massCode) - A free, open-source snippet manager for developers, supporting Markdown, syntax highlighting, folder organization, and cloud sync. ![](./imgs/github.svg)
-- [Lepton](https://github.com/hackjutsu/Lepton) - A GitHub Gist-based snippet manager with Markdown rendering and Jupyter Notebook support. ![](./imgs/github.svg)![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
+- [Lepton](https://github.com/hackjutsu/Lepton) - A GitHub Gist-based snippet manager with Markdown rendering and Jupyter Notebook support. ![](./imgs/github.svg) ![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
 
 ### Development Components
 
@@ -279,10 +290,13 @@ Want to recommend a Markdown tool or resource? Open an [Issue](https://github.co
   - [Eisvogel](https://github.com/Wandmalfarbe/pandoc-latex-template) - A clean, beautiful Pandoc LaTeX template for converting Markdown to PDF or LaTeX. ![](./imgs/github.svg)
   - [patat](https://github.com/jaspervdj/patat) - (Presentations Atop The ANSI Terminal) A command-line presentation tool built on Pandoc, with code highlighting and speaker notes. ![](./imgs/github.svg)
 
-- [feishu2md](https://github.com/Wsine/feishu2md) - A Go tool that converts Feishu documents to Markdown files, available via CLI, Docker, and online. ![](./imgs/github.svg)
+- [feishu2md](https://github.com/Wsine/feishu2md) - A Go tool that converts Feishu documents to Markdown files, available via CLI, Docker, and online. ![](./imgs/github.svg) ![](./imgs/terminal.svg)
+
 - [noted.md](https://github.com/tejas-raskar/noted.md) - A CLI tool that uses LLMs to convert handwritten notes (PDFs and images) into Markdown, recognizing math as LaTeX. ![](./imgs/github.svg) ![](./imgs/terminal.svg)
-- [MarkItDown](https://github.com/microsoft/markitdown) - Microsoft's Python tool for converting PDF, Word, Excel, and more into Markdown, ideal for LLM training data preparation. ![](./imgs/github.svg)
-- [Jupytext](https://github.com/mwouts/jupytext) - An open-source tool that converts Jupyter notebooks to plain text like Markdown, enabling Git version control of notebooks. ![](./imgs/github.svg)
+- [MarkItDown](https://github.com/microsoft/markitdown) - Microsoft's Python tool for converting PDF, Word, Excel, and more into Markdown, ideal for LLM training data preparation. ![](./imgs/github.svg) ![](./imgs/terminal.svg)
+
+- [Jupytext](https://github.com/mwouts/jupytext) - An open-source tool that converts Jupyter notebooks to plain text like Markdown, enabling Git version control of notebooks. ![](./imgs/github.svg) ![](./imgs/terminal.svg)
+
 - [keep-it-markdown (KIM)](https://github.com/djsudduth/keep-it-markdown) - A Python CLI that batch-converts Google Keep notes to Markdown for import into Obsidian, Logseq, Notion, and more. ![](./imgs/github.svg) ![](./imgs/terminal.svg)
 - [YARLE (Yet Another RLE)](https://github.com/akosbalasko/yarle) - A powerful tool that converts Evernote .enex files to fully customizable Markdown with metadata, internal links, and attachments. ![](./imgs/github.svg) ![](./imgs/terminal.svg)
 - [Trafilatura](https://github.com/adbar/trafilatura) - A Python CLI and library for extracting text and metadata from web pages, with output to CSV, JSON, HTML, and Markdown. ![](./imgs/github.svg) ![](./imgs/terminal.svg)
@@ -302,7 +316,7 @@ Want to recommend a Markdown tool or resource? Open an [Issue](https://github.co
 
 > Use Markdown in the terminal.
 
-- [mdq](https://github.com/yshavit/mdq) - A command-line tool for querying Markdown documents like jq queries JSON, extracting headings, code blocks, links, and tables. ![](./imgs/github.svg) ![](./imgs/terminal.svg)![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
+- [mdq](https://github.com/yshavit/mdq) - A command-line tool for querying Markdown documents like jq queries JSON, extracting headings, code blocks, links, and tables. ![](./imgs/github.svg) ![](./imgs/terminal.svg) ![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
 - [Glow](https://github.com/charmbracelet/glow) - A command-line Markdown reader that renders Markdown beautifully in the terminal, with local and Git repo discovery. ![](./imgs/github.svg) ![](./imgs/terminal.svg) ![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
 - [nb](https://github.com/xwmx/nb) - A command-line and local web note app storing plain-text notes with Markdown support, Git versioning, and encryption. ![](./imgs/github.svg) ![](./imgs/terminal.svg) ![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
 - [doxx](https://github.com/bgreenwell/doxx) - A terminal .docx file viewer that renders Word documents in the command line and exports to Markdown, CSV, and JSON. ![](./imgs/github.svg) ![](./imgs/terminal.svg) ![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
@@ -310,7 +324,8 @@ Want to recommend a Markdown tool or resource? Open an [Issue](https://github.co
 ### Checking and Assistance
 
 - [markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js static analysis tool for Markdown syntax and style, with integrations for VS Code, Vim, and Emacs. ![](./imgs/github.svg)
-- [textlint](https://github.com/textlint/textlint) - A lint tool for natural language, similar to ESLint, checking grammar, spelling, and style in Markdown and plain text. ![](./imgs/github.svg)
+- [textlint](https://github.com/textlint/textlint) - A lint tool for natural language, similar to ESLint, checking grammar, spelling, and style in Markdown and plain text. ![](./imgs/github.svg) ![](./imgs/terminal.svg)
+
 - [Marksman](https://github.com/artempyanykh/marksman) - An LSP-based tool bringing autocomplete, go-to-definition, and reference lookup to Markdown, including Zettelkasten wiki links. ![](./imgs/github.svg)
 
 ### AI-related Tools
