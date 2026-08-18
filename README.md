@@ -95,6 +95,8 @@ Markdown 是一种简单易学的轻量级标记语言，它让排版变得轻�
 
 ### 笔记与知识管理软件
 
+- [Persona](https://github.com/jayamitkatariya/personacli) - Local-first personal workspace: notes, tasks and AI chat. Plain markdown files, no accounts, no cloud. MIT.
+
 > 将知识管理与 Markdown 相结合
 
 - [Obsidian](https://obsidian.md/) - 一款强大的本地优先 **Markdown** 笔记应用。它以独特的双向链接和图形化知识网络功能，帮助用户构建和管理“第二大脑”，将零散的笔记连接成一个有机的知识体系。它还支持丰富的插件生态系统和高度自定义，非常适合需要深度知识管理、技术写作和学术研究的用户。![](./imgs/free.svg) ![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg) ![](./imgs/android.svg) ![](./imgs/iphone.svg)
