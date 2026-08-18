@@ -241,6 +241,7 @@ Markdown 是一种简单易学的轻量级标记语言，它让排版变得轻�
 - [OverType](https://github.com/panphora/overtype) - 一款轻量级的 **Markdown** 编辑器库，通过在预览层上叠加不可见的输入区域，实现了完美的所见即所得（WYSIWYG）体验，并提供了主题、快捷键和可选工具栏等功能。![](./imgs/github.svg)
 - [Turndown](https://github.com/mixmark-io/turndown) - 是一款使用 **JavaScript** 编写的 HTML 到 Markdown 转换器。它旨在与 [CommonMark](http://commonmark.org/) 兼容，并且提供了许多选项来定制输出样式，例如标题、水平线、列表项目符号和代码块样式等。![](./imgs/github.svg)
 - [Markdown UI](https://github.com/BlueprintLabIO/markdown-ui) - 一个用于创建互动式用户界面的库，它允许你直接在 **Markdown** 文档中嵌入动态 UI 组件，如按钮、下拉菜单和表单。通过简单的 DSL 语法，它能够将静态文档即时转变为交互式体验，并且与任何前端框架兼容，特别适用于由 AI 生成内容和快速原型构建的场景。![](./imgs/github.svg)
+- [Markstream](https://github.com/Simon-He95/markstream-vue) - 一个面向 AI 对话场景的流式 Markdown 渲染组件库，支持 Vue、Nuxt、React、Next.js、Svelte、Angular 和 Vue 2。它支持 Mermaid、KaTeX、Shiki、Monaco Editor 与安全 HTML，并针对逐段到达的 Markdown 内容减少重复渲染和页面抖动。![](./imgs/github.svg)
 
 ## 转换工具
 
