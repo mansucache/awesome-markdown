@@ -1,7 +1,7 @@
 # Awesome Markdown [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <p align="center">
-  <img src="./imgs/logo.svg" height="96">
+  <img src="./imgs/logo.svg" width="104">
   <p align="center">
     <a href="https://github.com/mansucache/awesome-markdown/blob/main/LICENSE">
       <img src="https://img.shields.io/github/license/mansucache/awesome-markdown?style=flat-square" alt="License">
