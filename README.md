@@ -24,7 +24,7 @@ Markdown 是一种简单易学的轻量级标记语言，它让排版变得轻�
 
 
 
-项目地址：https://github.com/bxiaopeng/awesome-markdown
+项目地址：https://github.com/mansucache/awesome-markdown
 
 
 
