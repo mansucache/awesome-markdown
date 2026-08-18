@@ -4,16 +4,16 @@
   <img src="./imgs/logo.svg" height="96">
   <h1 align="center">Awesome Markdown</h1>
   <p align="center">
-    <a href="https://github.com/bxiaopeng/awesome-markdown/blob/main/LICENSE">
-      <img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square" alt="License">
+    <a href="https://github.com/mansucache/awesome-markdown/blob/main/LICENSE">
+      <img src="https://img.shields.io/github/license/mansucache/awesome-markdown?style=flat-square" alt="License">
     </a>
-    <a href="https://github.com/bxiaopeng/awesome-markdown/stargazers">
-      <img src="https://img.shields.io/github/stars/bxiaopeng/awesome-markdown?style=flat-square" alt="Stars">
+    <a href="https://github.com/mansucache/awesome-markdown/stargazers">
+      <img src="https://img.shields.io/github/stars/mansucache/awesome-markdown?style=flat-square" alt="Stars">
     </a>
-    <a href="https://github.com/bxiaopeng/awesome-markdown/graphs/contributors">
-      <img src="https://img.shields.io/github/contributors/bxiaopeng/awesome-markdown?style=flat-square" alt="Contributors">
+    <a href="https://github.com/mansucache/awesome-markdown/graphs/contributors">
+      <img src="https://img.shields.io/github/contributors/mansucache/awesome-markdown?style=flat-square" alt="Contributors">
     </a>
-    <a href="https://github.com/bxiaopeng/awesome-markdown/pulls">
+    <a href="https://github.com/mansucache/awesome-markdown/pulls">
       <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome">
     </a>
   </p>
@@ -30,7 +30,7 @@ Markdown 是一种简单易学的轻量级标记语言，它让排版变得轻�
 
 本项目精心整理了关于 **Markdown 的扩展语法、专业软件、高效工具和最佳实践**，旨在成为你的一站式 Markdown 资源库。
 
-欢迎通过 [Issue](https://github.com/bxiaopeng/awesome-markdown/issues)  推荐你喜欢的 Markdown 工具或资源，让我们一起完善这个项目！
+欢迎通过 [Issue](https://github.com/mansucache/awesome-markdown/issues)  推荐你喜欢的 Markdown 工具或资源，让我们一起完善这个项目！
 
 ----
 
@@ -56,7 +56,7 @@ Markdown 是一种简单易学的轻量级标记语言，它让排版变得轻�
 
 > 为 Markdown 语言增加新功能或提供清晰规范的扩展语法。
 
-- [CommonMark](https://github.com/thephpleague/commonmark) - 一个旨在为 Markdown 语法提供清晰、无歧义规范的项目。它通过制定一套统一的规则和测试套件，解决了不同解析器之间的兼容性问题，确保了 **Markdown** 文档在不同平台和工具中的一致性呈现。![](./imgs/github.svg)
+- [CommonMark](https://commonmark.org/) - 一个旨在为 Markdown 语法提供清晰、无歧义规范的项目。它通过制定一套统一的规则和测试套件，解决了不同解析器之间的兼容性问题，确保了 **Markdown** 文档在不同平台和工具中的一致性呈现。![](./imgs/github.svg)
 - [GFM (GitHub Flavored Markdown)](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - 是 **GitHub** 平台使用的 **Markdown** 方言，它是 **CommonMark** 的一个严格超集。它在基础语法之上增加了表格、任务列表、删除线、自动链接等扩展功能，极大提升了 **Markdown** 在项目协作和文档编写中的表现力与实用性。
 - [Obsidian Flavored Markdown](https://help.obsidian.md/obsidian-flavored-markdown) -  Obsidian 笔记软件所采用的 **Markdown** 变体。它结合了 **CommonMark** 和 **GitHub Flavored Markdown** 的核心语法，并在此基础上增加了独特的扩展功能，如 **Wiki** 风格的双向链接、嵌入式引用、**LaTeX** 公式和 **Mermaid** 图表，使其成为构建个人知识库和数字花园的理想选择。
 - [Pandoc's Markdown](https://pandoc.org/MANUAL.html#pandocs-markdown) - 一种基于 **John Gruber** 原始语法的 **Markdown** 变体，增加了对表格、脚注和定义列表等多种新功能的支持。它旨在确保文档作为纯文本发布时仍保持可读性，同时提供非 **HTML** 的方式来表示重要的文档元素。用户可通过启用或禁用扩展来精细控制语法行为，实现从 **Markdown** 到多种输出格式（如 **Word**、**PDF**、**ePub**）的灵活转换。
@@ -69,7 +69,7 @@ Markdown 是一种简单易学的轻量级标记语言，它让排版变得轻�
 
 >  这些编辑器提供流畅、高效的 Markdown 写作体验。
 
-- [Typora](https://typora.io/) - 一款所见即所得的 **Markdown** 编辑器，提供无缝的源代码与预览切换体验。它集成了大纲视图、全文检索和多格式导出功能（如 **PDF、HTML、Word**），并支持主题自定义与禅模式，为技术写作、博客和论文创作提供沉浸式专业体验。![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg) [![](./imgs/doc.svg)](https://github.com/bxiaopeng/awesome-typora)
+- [Typora](https://typora.io/) - 一款所见即所得的 **Markdown** 编辑器，提供无缝的源代码与预览切换体验。它集成了大纲视图、全文检索和多格式导出功能（如 **PDF、HTML、Word**），并支持主题自定义与禅模式，为技术写作、博客和论文创作提供沉浸式专业体验。![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg) [![](./imgs/doc.svg)](https://github.com/mansucache/awesome-typora)
   - [Typora Plugin](https://github.com/obgnail/typora_plugin) - 一系列为 **Typora** 设计的插件，旨在增强其原生功能和使用体验。这些插件提供了诸如标签管理、文件搜索、自动编号和图表支持等功能，将一个纯粹的 **Markdown** 编辑器扩展为高度定制化的个人知识管理系统，适用于需要更多高级功能和工作流优化的用户。![](./imgs/github.svg)
   - [VLOOK](https://github.com/MadMaxChow/VLOOK) - 一款专为 **Typora** 设计的优雅 **Markdown** 主题包和增强插件。它提供了丰富的文档布局、内容标记、内容导航和演示辅助功能，旨在全方位提升 **Markdown** 文档的阅读和写作体验。该工具支持将文档导出为带有更多交互特性的 **HTML** 格式，特别适合技术文档、知识库和在线分享。![](./imgs/github.svg)![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
 
@@ -266,7 +266,6 @@ Markdown 是一种简单易学的轻量级标记语言，它让排版变得轻�
 
 - [MD2Card](https://md2card.com/zh) - 一个在线工具，可以将 **Markdown** 文档**一键转换为精美的知识卡片**。其核心特色在于提供**超过 20 种卡片风格**，并支持完整的 **Markdown 语法**，包括表格、代码块和数学公式。该工具支持实时预览、图片导出和 **API 调用**，非常适合个人用户将学习笔记和内容整理成美观的卡片，也为企业和团队提供了私有部署方案。![](./imgs/web.svg)
 
-- [md.hi-dhl.com](https://md.hi-dhl.com/) - 一个可以将 **Markdown** 文档**一键转换成“小红书风格”海报**的在线工具。其核心特色在于**自动适配排版、提供多种精美模板**，并能将 Markdown 文档中的标题、列表、图片等元素美化为引人注目的视觉内容，极大地简化了社交媒体内容的制作流程。![](./imgs/free.svg) ![](./imgs/web.svg)
 - [Markdown To Image](https://github.com/gcui-art/markdown-to-image/tree/main) - 一款用于将 Markdown 文本渲染为漂亮图片的工具，尤其适合用于社交媒体分享。其核心特色在于能够将纯文本内容快速转化为具有视觉吸引力的图像，支持自定义样式、主题和排版，让用户可以轻松创建并分享美观的代码片段、笔记或文章。![](./imgs/github.svg)
 - [Markdown To Image Serve](https://github.com/wxingheng/markdown-to-image-serve) - 一款高效的 Markdown 转图片服务，主要通过 API 接口将 Markdown 内容转换为精美图片。该服务基于 Go 语言和 JavaScript 开发，其核心特色在于能够作为独立的微服务部署，提供快速、稳定的图片生成能力，特别适合需要批量处理或在应用中集成 Markdown 渲染功能的场景。![](./imgs/github.svg)
 - [html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - 一款功能强大的 HTML 到 Markdown 转换工具。它支持将复杂的 HTML 结构（包括整个网站）转换为简洁、可读的 Markdown。其核心特色在于提供了 Go 语言库、命令行工具、REST API 和在线演示，并能精确处理列表、表格、代码块等多种元素，同时支持定制化选项和插件，为开发者提供了灵活、高效的转换方案。![](./imgs/github.svg)
