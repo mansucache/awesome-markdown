@@ -1,8 +1,7 @@
-# Awesome Markdown
+# Awesome Markdown [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <p align="center">
   <img src="./imgs/logo.svg" height="96">
-  <h1 align="center">Awesome Markdown</h1>
   <p align="center">
     <a href="https://github.com/mansucache/awesome-markdown/blob/main/LICENSE">
       <img src="https://img.shields.io/github/license/mansucache/awesome-markdown?style=flat-square" alt="License">
@@ -32,21 +31,19 @@ Markdown 是一种简单易学的轻量级标记语言，它让排版变得轻�
 
 欢迎通过 [Issue](https://github.com/mansucache/awesome-markdown/issues)  推荐你喜欢的 Markdown 工具或资源，让我们一起完善这个项目！
 
-----
+---
 
-**图标说明**：
+#### 图标说明
 
-- ![](./imgs/github.svg) 表示 **开源软件** ，单击名称可进入 **开源** 仓库；<br>
-- ![](./imgs/free.svg) 表示 **免费** 使用，或者个人 **免费** ，或大部分功能 **免费**。<br>
-- ![](./imgs/doc.svg) 表示 **教程**，单击图标可打开 教程 地址。
+![](./imgs/github.svg) 表示 **开源软件**，单击名称可进入 **开源** 仓库；<br>![](./imgs/free.svg) 表示 **免费** 使用，或者个人 **免费**，或大部分功能 **免费**。<br>![](./imgs/doc.svg) 表示 **教程**，单击图标可打开 教程 地址。
 
-----
+---
 
-**平台支持**：
+#### 平台支持
 
 ![](./imgs/mac.svg) = **macOS**   ![](./imgs/windows.svg) =  **Windows** ![](./imgs/linux.svg) =  **Linux**  ![](./imgs/iphone.svg) =  **iPhone** ![](./imgs/android.svg) =  **Android** ![](./imgs/web.svg) = Web ![](./imgs/all.svg) =  **全平台**
 
-**工具支持：**
+#### 工具支持
 
 ![](./imgs/obsidian.svg) = Obsidian ![](./imgs/vscode.svg) = VS code  ![](./imgs/typora.svg)= Typora  ![](./imgs/terminal.svg) = 命令行工具
 
@@ -57,9 +54,9 @@ Markdown 是一种简单易学的轻量级标记语言，它让排版变得轻�
 > 为 Markdown 语言增加新功能或提供清晰规范的扩展语法。
 
 - [CommonMark](https://commonmark.org/) - 一个旨在为 Markdown 语法提供清晰、无歧义规范的项目。它通过制定一套统一的规则和测试套件，解决了不同解析器之间的兼容性问题，确保了 **Markdown** 文档在不同平台和工具中的一致性呈现。![](./imgs/github.svg)
-- [GFM (GitHub Flavored Markdown)](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - 是 **GitHub** 平台使用的 **Markdown** 方言，它是 **CommonMark** 的一个严格超集。它在基础语法之上增加了表格、任务列表、删除线、自动链接等扩展功能，极大提升了 **Markdown** 在项目协作和文档编写中的表现力与实用性。
-- [Obsidian Flavored Markdown](https://help.obsidian.md/obsidian-flavored-markdown) -  Obsidian 笔记软件所采用的 **Markdown** 变体。它结合了 **CommonMark** 和 **GitHub Flavored Markdown** 的核心语法，并在此基础上增加了独特的扩展功能，如 **Wiki** 风格的双向链接、嵌入式引用、**LaTeX** 公式和 **Mermaid** 图表，使其成为构建个人知识库和数字花园的理想选择。
-- [Pandoc's Markdown](https://pandoc.org/MANUAL.html#pandocs-markdown) - 一种基于 **John Gruber** 原始语法的 **Markdown** 变体，增加了对表格、脚注和定义列表等多种新功能的支持。它旨在确保文档作为纯文本发布时仍保持可读性，同时提供非 **HTML** 的方式来表示重要的文档元素。用户可通过启用或禁用扩展来精细控制语法行为，实现从 **Markdown** 到多种输出格式（如 **Word**、**PDF**、**ePub**）的灵活转换。
+- [GFM (GitHub Flavored Markdown)](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - 是 **GitHub** 平台使用的 **Markdown** 方言，它是 **CommonMark** 的一个严格超集。它在基础语法之上增加了表格、任务列表、删除线、自动链接等扩展功能，极大提升了 **Markdown** 在项目协作和文档编写中的表现力与实用性。 ![](./imgs/doc.svg)
+- [Obsidian Flavored Markdown](https://help.obsidian.md/obsidian-flavored-markdown) -  Obsidian 笔记软件所采用的 **Markdown** 变体。它结合了 **CommonMark** 和 **GitHub Flavored Markdown** 的核心语法，并在此基础上增加了独特的扩展功能，如 **Wiki** 风格的双向链接、嵌入式引用、**LaTeX** 公式和 **Mermaid** 图表，使其成为构建个人知识库和数字花园的理想选择。 ![](./imgs/doc.svg)
+- [Pandoc's Markdown](https://pandoc.org/MANUAL.html#pandocs-markdown) - 一种基于 **John Gruber** 原始语法的 **Markdown** 变体，增加了对表格、脚注和定义列表等多种新功能的支持。它旨在确保文档作为纯文本发布时仍保持可读性，同时提供非 **HTML** 的方式来表示重要的文档元素。用户可通过启用或禁用扩展来精细控制语法行为，实现从 **Markdown** 到多种输出格式（如 **Word**、**PDF**、**ePub**）的灵活转换。 ![](./imgs/doc.svg)
 - [R Markdown](https://github.com/rstudio/rmarkdown) - 一个 **R** 语言包，它允许用户在 **Markdown** 文档中嵌入 **R** 代码块及其输出结果，从而创建动态的、可重复的文档、报告、幻灯片和网页。它支持多种输出格式，如 **HTML、PDF** 和 **Word**，为数据科学家和分析师提供了一个将代码、结果与叙述性文本结合的强大工具。![](./imgs/github.svg)
 - [Quarkdown](https://github.com/iamgio/quarkdown) - 一款现代化的 Markdown 排版系统，它在 **CommonMark** 和 **GFM** 基础上引入了函数、变量和脚本等图灵完备的扩展语法。该工具赋予 **Markdown** 强大的动态处理能力，能将内容无缝编译成书籍、文章或演示文稿等多种格式，适用于需要复杂排版和高度定制化的技术文档、学术论文和项目报告。![](./imgs/github.svg)
 
@@ -67,16 +64,16 @@ Markdown 是一种简单易学的轻量级标记语言，它让排版变得轻�
 
 ### 专业 Markdown 编辑器
 
->  这些编辑器提供流畅、高效的 Markdown 写作体验。
+> 这些编辑器提供流畅、高效的 Markdown 写作体验。
 
 - [Typora](https://typora.io/) - 一款所见即所得的 **Markdown** 编辑器，提供无缝的源代码与预览切换体验。它集成了大纲视图、全文检索和多格式导出功能（如 **PDF、HTML、Word**），并支持主题自定义与禅模式，为技术写作、博客和论文创作提供沉浸式专业体验。![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg) [![](./imgs/doc.svg)](https://github.com/mansucache/awesome-typora)
   - [Typora Plugin](https://github.com/obgnail/typora_plugin) - 一系列为 **Typora** 设计的插件，旨在增强其原生功能和使用体验。这些插件提供了诸如标签管理、文件搜索、自动编号和图表支持等功能，将一个纯粹的 **Markdown** 编辑器扩展为高度定制化的个人知识管理系统，适用于需要更多高级功能和工作流优化的用户。![](./imgs/github.svg)
   - [VLOOK](https://github.com/MadMaxChow/VLOOK) - 一款专为 **Typora** 设计的优雅 **Markdown** 主题包和增强插件。它提供了丰富的文档布局、内容标记、内容导航和演示辅助功能，旨在全方位提升 **Markdown** 文档的阅读和写作体验。该工具支持将文档导出为带有更多交互特性的 **HTML** 格式，特别适合技术文档、知识库和在线分享。![](./imgs/github.svg)![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
 
 - [Bear](https://bear.app/) - 一款适用于 **Apple** 生态的笔记应用，采用 **Markdown** 语法，以其强大的标签系统、优雅的界面和无缝的同步功能而闻名。它支持笔记内链接、丰富的自定义主题和多种格式导出，为个人知识管理、技术写作和日常记录提供流畅的沉浸式体验。![](./imgs/mac.svg) ![](./imgs/iphone.svg)
-- [Markdown Monster](https://github.com/RickStrahl/MarkdownMonster) -一款功能丰富的 **Windows** 专属 **Markdown** 编辑器。它提供语法高亮、实时同步预览、内置文件浏览器和 **Git** 集成，并支持将文档直接发布到支持 **MetaWeblog** 和 **WordPress** 等协议的博客平台，适合需要高效写作、技术文档管理和博客发布的专业用户。![](./imgs/github.svg)![](./imgs/windows.svg)
+- [Markdown Monster](https://github.com/RickStrahl/MarkdownMonster) - 一款功能丰富的 **Windows** 专属 **Markdown** 编辑器。它提供语法高亮、实时同步预览、内置文件浏览器和 **Git** 集成，并支持将文档直接发布到支持 **MetaWeblog** 和 **WordPress** 等协议的博客平台，适合需要高效写作、技术文档管理和博客发布的专业用户。![](./imgs/github.svg)![](./imgs/windows.svg)
 - [Markor](https://github.com/gsantner/markor) -  一款轻量级的 **Android** 文本编辑器，支持 **Markdown**、**todo.txt** 和 **Zim** 等多种格式。它提供完全离线的使用体验，并集成语法高亮、预览、文件同步和加密功能，旨在为用户提供简单高效的笔记和待办事项管理，特别适合移动设备上的快速记录和整理。![](./imgs/github.svg) ![](./imgs/android.svg)
-- [MarkEdit](https://github.com/MarkEdit-app/MarkEdit) -一款为 **macOS** 设计的开源 **Markdown** 编辑器。它提供类似 **macOS** 原生 **TextEdit** 的简洁、快速体验，强调隐私保护和轻量化设计。用户可通过脚本和 **CodeMirror** 扩展进行定制，如添加预览窗格或自定义主题，适合偏好原生应用体验并追求简洁、高效写作环境的用户。![](./imgs/github.svg)![](./imgs/mac.svg)
+- [MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - 一款为 **macOS** 设计的开源 **Markdown** 编辑器。它提供类似 **macOS** 原生 **TextEdit** 的简洁、快速体验，强调隐私保护和轻量化设计。用户可通过脚本和 **CodeMirror** 扩展进行定制，如添加预览窗格或自定义主题，适合偏好原生应用体验并追求简洁、高效写作环境的用户。![](./imgs/github.svg)![](./imgs/mac.svg)
 - [Cmd Markdown](https://www.zybuluo.com/mdeditor) - 一款强大的在线 **Markdown** 编辑器，提供实时预览、云端存储和版本历史功能。它支持流程图、时序图、甘特图、**LaTeX** 公式等扩展语法，并能将文档导出为 **PDF、HTML** 等格式，适用于需要跨平台同步、多人协作和专业文档排版的场景。![](./imgs/free.svg) ![](./imgs/web.svg)
 - [Effie](https://www.effie.co/) - 一款整合了所见即所得 **Markdown** 编辑器和思维导图功能的写作工具。它提供了简洁的界面，支持多种文件格式的导入和导出，并提供跨平台同步。该工具旨在帮助用户在写作和思维整理之间无缝切换，特别适合创意写作、知识梳理和项目规划。![](./imgs/free.svg)
 - [iA Writer](https://ia.net/writer) - 一款专注于纯文本写作的 **Markdown** 编辑器，以其独特的“专注模式”和简洁界面为用户提供无干扰的写作环境。它通过 **Markdown** 简化文档格式化，并支持跨设备文件同步、多种格式导出（如 **PDF、HTML**），是作家、博主和技术文档作者理想的专业工具。![](./imgs/mac.svg) ![](./imgs/windows.svg)![](./imgs/iphone.svg)
@@ -95,23 +92,22 @@ Markdown 是一种简单易学的轻量级标记语言，它让排版变得轻�
 
 ### 笔记与知识管理软件
 
-- [Persona](https://github.com/jayamitkatariya/personacli) - Local-first personal workspace: notes, tasks and AI chat. Plain markdown files, no accounts, no cloud. MIT.
-
 > 将知识管理与 Markdown 相结合
 
+- [Persona](https://github.com/jayamitkatariya/personacli) - 一款本地优先的个人工作空间，集笔记、任务与 AI 聊天于一体，以纯 **Markdown** 文件存储，无需账号与云服务。![](./imgs/github.svg) ![](./imgs/terminal.svg)
 - [Obsidian](https://obsidian.md/) - 一款强大的本地优先 **Markdown** 笔记应用。它以独特的双向链接和图形化知识网络功能，帮助用户构建和管理“第二大脑”，将零散的笔记连接成一个有机的知识体系。它还支持丰富的插件生态系统和高度自定义，非常适合需要深度知识管理、技术写作和学术研究的用户。![](./imgs/free.svg) ![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg) ![](./imgs/android.svg) ![](./imgs/iphone.svg)
 - [Notion](https://www.notion.com/) - 一款集笔记、任务、数据库和项目管理于一体的一站式工作空间。它支持 **Markdown** 语法，用户可通过可定制的“区块”（Blocks）灵活组合各种功能，构建个性化的工作流和知识库。**Notion** 适用于个人知识管理、团队协作、项目规划等多种场景，帮助用户在一个平台上高效组织和管理所有信息。![](./imgs/free.svg) ![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg) ![](./imgs/android.svg) ![](./imgs/iphone.svg) ![](./imgs/web.svg)
 - [AFFiNE](https://github.com/toeverything/AFFiNE) - 一款开源、本地优先的一体化工作空间，它融合了文档、白板和数据库功能。该工具深度支持 **Markdown** 语法，旨在为用户提供类似 **Notion** 和 **Miro** 的无缝协作体验，非常适合团队协作、项目管理和知识库构建。![](./imgs/github.svg)![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg) ![](./imgs/web.svg)
 - [语雀](https://www.yuque.com/) - 蚂蚁集团旗下的一款文档与知识库工具，以“像书一样”的结构化知识管理方式和强大的团队协作能力而闻名。它深度支持 **Markdown** 语法，并提供了丰富的扩展功能，如流程图、时序图、**LaTeX** 公式等，适用于个人笔记、团队文档、知识库构建和项目协作。![](./imgs/free.svg)
 - [有道云笔记](https://note.youdao.com/) - 网易出品的一款多平台笔记应用，支持**Markdown**语法，提供“实时同步预览”和“所见即所得”两种编辑模式。它集成了强大的 **AI** 功能，可进行内容创作、润色、摘要提炼等，同时还支持扫描、语音速记、多格式导入导出和云端同步，适用于个人知识管理、内容创作和团队协作。![](./imgs/free.svg)
-- [印象笔记](https://www.yinxiangbiji.com/) - 一款支持跨设备同步的知识管理工具，它支持 **Markdown** 语法，提供实时预览功能，用户可快速创建和编辑笔记。它能帮助用户一键收集网页、微信文章等各类信息，并进行高效整理和分享，适用于个人知识库构建、文档管理和团队协作。![](./imgs/free.svg)
+- [印象笔记](https://www.yinxiang.com/) - 一款支持跨设备同步的知识管理工具，它支持 **Markdown** 语法，提供实时预览功能，用户可快速创建和编辑笔记。它能帮助用户一键收集网页、微信文章等各类信息，并进行高效整理和分享，适用于个人知识库构建、文档管理和团队协作。![](./imgs/free.svg)
 - [Memos](https://github.com/usememos/memos) - 一款现代、开源的自托管知识管理和笔记应用。它提供轻量而强大的 **Markdown** 支持，并能私密地捕捉和分享想法。Memos 强调快捷记录和**碎片化知识管理**，并支持标签、全文搜索和 RESTful API，是个人搭建专属知识库、进行**轻量级微博客**或**日志记录**的理想选择。![](./imgs/github.svg) ![](./imgs/web.svg)
 - [Logseq](https://github.com/logseq/logseq) - 一款以隐私为先的开源知识管理工具，它以大纲笔记为核心，并深度支持 **Markdown** 语法。该工具通过双向链接、**PDF** 标注和白板功能，帮助用户构建和连接知识网络，特别适合用于每日日志、项目管理和学术研究。![](./imgs/github.svg)![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg) ![](./imgs/android.svg)
 - [思源笔记](https://github.com/siyuan-note/siyuan) - 一款注重隐私的个人知识管理系统，它支持细粒度的块级引用和双向链接，为用户提供所见即所得的 **Markdown** 编辑体验。该工具内置大纲、表格、图表、**LaTeX** 公式等丰富功能，并支持本地存储和跨平台同步，适用于深度知识整理和项目管理。![](./imgs/github.svg)![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg) 
 - [VNote](https://github.com/vnotex/vnote) - 一款基于 **Qt** 的免费开源笔记应用，专注于 **Markdown** 格式。它提供优秀的编辑体验和笔记管理功能，如语法高亮、实时预览、大纲视图和全文检索，适用于技术写作、代码笔记和日常文档整理。![](./imgs/github.svg)![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
 - [Zettlr](https://github.com/Zettlr/Zettlr) - 一款专业的 **Markdown** 写作工具，专注于 **Zettelkasten** 笔记法和学术写作。它集成了引文管理、多格式导出功能（如 **LaTeX**、**PDF**），并支持强大的全文搜索，帮助用户系统地管理笔记、参考文献和学术文档，适用于学生、研究人员和内容创作者。![](./imgs/github.svg)![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
 - [NoteGen](https://github.com/codexu/note-gen) - 一款轻量级跨平台 **Markdown** 笔记应用。它以 **AI** 为核心，支持多种记录方式，能将碎片化知识整理成结构化的可读笔记，并提供 **GitHub** 同步和 **RAG** 等高级功能。该工具旨在通过 **AI** 辅助，帮助用户快速捕捉、整理和检索信息，适用于内容创作者、开发者和知识管理爱好者。![](./imgs/github.svg)![](./imgs/mac.svg)![](./imgs/windows.svg) ![](./imgs/linux.svg) ![](./imgs/android.svg) ![](./imgs/iphone.svg)
-- [妙言](https://github.com/tw93/MiaoYan)- 一款为 macOS 设计的原生 **Markdown** 笔记应用，它采用 **Swift 5** 开发，提供安全、纯本地的编辑体验。它支持语法高亮、黑暗模式、**PPT** 模式、**LaTeX** 和 **Mermaid** 等丰富功能，为追求美观与极简的 **macOS** 用户提供高效、稳定的写作环境，特别适合技术文档、笔记整理和日常写作。![](./imgs/github.svg)![](./imgs/mac.svg)
+- [妙言](https://github.com/tw93/MiaoYan) - 一款为 macOS 设计的原生 **Markdown** 笔记应用，它采用 **Swift 5** 开发，提供安全、纯本地的编辑体验。它支持语法高亮、黑暗模式、**PPT** 模式、**LaTeX** 和 **Mermaid** 等丰富功能，为追求美观与极简的 **macOS** 用户提供高效、稳定的写作环境，特别适合技术文档、笔记整理和日常写作。![](./imgs/github.svg)![](./imgs/mac.svg)
 - [Yank Note](https://github.com/purocean/yn) - 一款基于 **Monaco** 内核的 **Markdown** 编辑器，提供了类似 **VS Code** 的高度可扩展编辑体验。它支持版本控制、文档加密、代码块运行、多种图表嵌入以及 **AI Copilot** 等丰富功能，旨在通过集成化工具链提高开发者的写作与文档管理效率。![](./imgs/github.svg)![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
 - [QOwnNotes](https://github.com/pbek/QOwnNotes) - 一款开源的笔记和待办事项管理工具，它将笔记以 **Markdown** 纯文本文件存储，并能与 **Nextcloud/ownCloud** 等多个云服务无缝同步。它提供版本控制、标签管理和全文搜索等功能，确保了数据的安全性和可访问性，适用于注重隐私保护和跨平台同步的用户。![](./imgs/github.svg)![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg) ![](./imgs/android.svg) ![](./imgs/iphone.svg)
 - [MindForger](https://github.com/dvorka/mindforger) - 一款受人脑思维启发的个人知识管理工具，集成了 **Markdown** 编辑器和知识图谱导航器。这款开源软件旨在帮助用户高效地管理和组织笔记、想法，并提供大纲、拼写检查、标签和多种导出格式，以确保用户隐私并提升知识管理效率，适用于深度学习、研究和个人知识库的构建。![](./imgs/github.svg)![](./imgs/mac.svg)![](./imgs/windows.svg) ![](./imgs/linux.svg)
@@ -123,11 +119,11 @@ Markdown 是一种简单易学的轻量级标记语言，它让排版变得轻�
 - [Khoj](https://github.com/khoj-ai/khoj) - 一个开源的个人 AI 应用，它能在本地或云端与大型语言模型（LLM）对话，并支持通过语义搜索从包括 **Markdown** 在内的多种文档中获取答案，可跨平台使用，并能创建定制化的 AI 代理。![](./imgs/github.svg)![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg) ![](./imgs/android.svg) ![](./imgs/obsidian.svg)
 - [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - 一个开源的 **Notion** 替代品，它提供了集笔记、项目管理和数据库于一体的工作区。该工具由 **Flutter** 和 **Rust** 构建，注重数据隐私和本地控制，并原生支持 **Markdown** 语法。![](./imgs/github.svg)![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg) ![](./imgs/android.svg)
 
-#### 长篇写作
+### 长篇写作
 
 - [novelWriter](https://github.com/vkbo/novelWriter) - 一款专为小说和长篇写作设计的应用。它使用一种受 **Markdown** 启发的极简格式语法，并支持元数据、注释、大纲和交叉引用。该应用将整个项目分解为多个小型文本文件，便于组织和版本控制，适用于需要复杂结构管理的小说家和专业作者。![](./imgs/github.svg) ![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
 
-- [WonderPen（妙笔）](https://www.tominlab.com/wonderpen)-  一款专为长篇写作设计的应用，它通过树状目录组织文档，支持无限层级，便于管理复杂的项目。该工具支持 **Markdown** 格式，并提供多种导出格式（如 **PDF、Word、Epub**），还具备离线优先、云同步、文档快照和打字统计等功能，旨在为小说家、编剧和技术作者提供高效的创作环境。![](./imgs/free.svg) ![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
+- [WonderPen（妙笔）](https://www.tominlab.com/wonderpen) - 一款专为长篇写作设计的应用，它通过树状目录组织文档，支持无限层级，便于管理复杂的项目。该工具支持 **Markdown** 格式，并提供多种导出格式（如 **PDF、Word、Epub**），还具备离线优先、云同步、文档快照和打字统计等功能，旨在为小说家、编剧和技术作者提供高效的创作环境。![](./imgs/free.svg) ![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
 
 ## 办公与协作工具
 
@@ -135,12 +131,12 @@ Markdown 是一种简单易学的轻量级标记语言，它让排版变得轻�
 
 ### 文档协同
 
-- **飞书文档** - 字节跳动开发的一款企业协作与管理平台，深度支持 **Markdown** 语法，用户可利用快捷键快速创建标题、列表和代码块等，专注于内容创作。它提供多人实时协作、评论、版本历史和权限管理等功能，适用于团队文档、知识库和项目管理。![](./imgs/free.svg) ![](./imgs/all.svg)
-- **企业微信文档** - 一套集成在企业微信中的在线协同办公工具。它深度支持 **Markdown** 语法，用户可通过智能工具或直接输入语法快速排版，方便创建和编辑文档。该工具支持多人实时协作、版本历史和权限管理，非常适合在企业内部进行团队文档、会议纪要和项目方案的编写与共享。![](./imgs/free.svg) ![](./imgs/all.svg)
+- [飞书文档](https://www.feishu.cn/product/docs) - 字节跳动开发的一款企业协作与管理平台，深度支持 **Markdown** 语法，用户可利用快捷键快速创建标题、列表和代码块等，专注于内容创作。它提供多人实时协作、评论、版本历史和权限管理等功能，适用于团队文档、知识库和项目管理。![](./imgs/free.svg) ![](./imgs/all.svg)
+- [企业微信文档](https://doc.weixin.qq.com/) - 一套集成在企业微信中的在线协同办公工具。它深度支持 **Markdown** 语法，用户可通过智能工具或直接输入语法快速排版，方便创建和编辑文档。该工具支持多人实时协作、版本历史和权限管理，非常适合在企业内部进行团队文档、会议纪要和项目方案的编写与共享。![](./imgs/free.svg) ![](./imgs/all.svg)
 - [石墨文档](https://shimo.im/) - 一款以**云端实时协作**为核心的在线办公服务软件。它支持**Markdown**语法，可实现标题、列表、引用和代码块等基础排版，并支持将文档导出为**Markdown**格式。石墨文档致力于为企业和组织提供全面的办公套件，包括文档、表格、幻灯片、白板和思维导图等，并强调数据安全和多终端同步。![](./imgs/free.svg)![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg) ![](./imgs/android.svg) ![](./imgs/iphone.svg)
 - [腾讯文档](https://docs.qq.com/) - 一款由腾讯公司推出的**云端实时协作**办公套件。它集成了在线文档、表格、幻灯片等多种工具，支持多人实时编辑和评论，内容自动同步至云端。在 Markdown 方面，它原生支持基础语法，用户输入时会即时转换为富文本格式。此外，还内置了 **AI 写作助手**，帮助用户高效创作。![](./imgs/free.svg) ![](./imgs/all.svg)
 - [Confluence](https://www.atlassian.com/software/confluence) - Atlassian 旗下的团队协作与知识管理平台。它为团队提供共享工作空间，用于创建、组织和分享项目文档、知识库和会议纪要等。Confluence 支持基础的 **Markdown** 语法，但会在输入时实时转换为富文本，方便快速排版，特别适合企业内部的知识沉淀与文档管理。 ![](./imgs/web.svg)
-- [Boardmix](https://boardmix.com/)（博思白板）- 一款集多种创意工具于一体的在线协作白板。它在其文档功能中支持 **Markdown** 语法，方便用户进行快速排版，如创建标题、列表和代码块。用户还可以将文档导出为 **Markdown** 格式的文件，便于与 **Obsidian** 等其他应用互通，适用于团队头脑风暴、项目规划和知识整理。![](./imgs/free.svg) ![](./imgs/mac.svg)  ![](./imgs/windows.svg) ![](./imgs/web.svg)
+- [Boardmix（博思白板）](https://boardmix.com/) - 一款集多种创意工具于一体的在线协作白板。它在其文档功能中支持 **Markdown** 语法，方便用户进行快速排版，如创建标题、列表和代码块。用户还可以将文档导出为 **Markdown** 格式的文件，便于与 **Obsidian** 等其他应用互通，适用于团队头脑风暴、项目规划和知识整理。![](./imgs/free.svg) ![](./imgs/mac.svg)  ![](./imgs/windows.svg) ![](./imgs/web.svg)
 - [Jupyter](https://github.com/jupyter/jupyter) - 一个旨在为交互式计算开发开源软件和服务的非营利项目。其核心产品是 **Jupyter Notebook**，一个基于网页的应用。它通过**Markdown**格式的文本单元格，支持用户创建和分享包含**实时代码、数学公式（LaTeX）、可视化图表和解释性文本**的文档。这为数据科学、机器学习和科学计算提供了强大的交互式开发环境。![](./imgs/mac.svg)
 - [ONLYOFFICE DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) - 一款开源的桌面办公套件，集成了文档、电子表格、演示文稿和 PDF 编辑器，并支持云端协作和多种格式转换，其中包括将文档转换为 **Markdown**。![](./imgs/github.svg)![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
 - [Seafile](https://github.com/haiwen/seafile) - 一款开源的企业级文件同步、共享和协作平台，旨在作为 Dropbox 和 Google Drive 的私有化替代方案。它提供文件同步、在线编辑和版本控制，并内置了支持 **Markdown** 的文档工具和知识库（Wiki）功能，专注于数据安全与用户隐私。![](./imgs/github.svg)
@@ -166,7 +162,7 @@ Markdown 是一种简单易学的轻量级标记语言，它让排版变得轻�
 
 - [锤子便签](https://cloud.smartisan.com/apps/note/md.html) - 一款以其优雅设计和独特功能而闻名的笔记应用。它支持 **Markdown** 格式，方便用户进行快速排版，并支持插入图片实现图文混排。其特色功能包括将笔记内容生成精美长图并分享到社交平台，以及云端同步，适用于日常记录、灵感捕捉和社交分享。![](./imgs/free.svg)![](./imgs/web.svg) ![](./imgs/android.svg) ![](./imgs/iphone.svg)
 - [flomo](https://flomoapp.com/) - 一款专注于“卡片笔记”的笔记应用，其核心理念是“记录想法，而非整理想法”。它支持 **Markdown**，鼓励用户以简短、原子化的方式快速捕捉灵感，并通过标签和双向链接来组织和回顾内容。它非常适合进行碎片化知识管理和个人思考沉淀。![](./imgs/free.svg)![](./imgs/all.svg)
-- [滴答清单](https://dida365.com/webapp)- 一款功能强大的效率工具，它将待办事项、日历、习惯追踪和番茄工作法等功能集于一身。在任务详情中，该工具支持使用 **Markdown** 语法进行排版，方便用户创建结构化的笔记和备注，帮助高效地管理时间和任务。![](./imgs/free.svg)![](./imgs/all.svg)
+- [滴答清单](https://dida365.com/webapp) - 一款功能强大的效率工具，它将待办事项、日历、习惯追踪和番茄工作法等功能集于一身。在任务详情中，该工具支持使用 **Markdown** 语法进行排版，方便用户创建结构化的笔记和备注，帮助高效地管理时间和任务。![](./imgs/free.svg)![](./imgs/all.svg)
 - [Tasks.md](https://github.com/BaldissaraMatheus/Tasks.md) - 一款基于 **Markdown** 文件的自托管看板式任务管理工具，它通过现代化的 Web 界面来创建卡片、泳道和标签，并将任务以文件夹和文件的形式存储在本地。![](./imgs/github.svg)
 
 ## 网站生成与排版
@@ -194,7 +190,7 @@ Markdown 是一种简单易学的轻量级标记语言，它让排版变得轻�
 - [HonKit](https://github.com/honkit/honkit) - 一个命令行工具，用于将 **Markdown** 文档生成为网站、**PDF** 或电子书，它是 **GitBook** 的一个现代化分支。它支持多语言书籍、搜索功能、自定义主题、插件扩展以及 **LaTeX** 公式等，并提供了简单易用的命令行界面，非常适合创建技术文档、教程和产品手册。。![](./imgs/github.svg)
 - [GitBook](https://github.com/GitbookIO/gitbook) - 一个用于构建和管理技术文档的平台，它提供了强大的在线协作、分支工作流以及将 **Markdown** 文档转换成美观网站的功能。其核心特色在于**直观的编辑器、强大的版本控制**（类似于 Git）以及**实时发布**，非常适合团队协作撰写产品文档、API 手册和知识库。![](./imgs/github.svg)
 - [bookdown](https://github.com/rstudio/bookdown) - 一个开源的 **R 语言包**，旨在帮助用户使用 **R Markdown** 轻松编写书籍和长篇文章。它的核心特色是支持多种输出格式（如 **PDF、HTML、EPUB** 和 **Word**），并能包含动态图表和交互式应用。此外，它支持多种编程语言（不限于 R），允许作者将代码、文本、公式和图表无缝集成，是编写技术书籍、论文和教程的理想工具。![](./imgs/github.svg)
-- [Crowbook](https://github.com/crowdagger/crowbook) - Crowbook - 一款用 **Rust** 语言编写的工具，专为小说和虚构文学而设计。它可以将 **Markdown** 格式的书籍转换为 **HTML、LaTeX/PDF** 和 **EPUB**。其核心特色在于**自动处理排版细节**，如标题、章节和目录的生成，让作者可以专注于创作内容，无需为复杂的格式问题分心。![](./imgs/github.svg)
+- [Crowbook](https://github.com/crowdagger/crowbook) - 一款用 **Rust** 语言编写的工具，专为小说和虚构文学而设计。它可以将 **Markdown** 格式的书籍转换为 **HTML、LaTeX/PDF** 和 **EPUB**。其核心特色在于**自动处理排版细节**，如标题、章节和目录的生成，让作者可以专注于创作内容，无需为复杂的格式问题分心。![](./imgs/github.svg)
 - [Koodo Reader](https://github.com/koodo-reader/koodo-reader) - 一款跨平台电子书阅读器，支持 **EPUB、PDF、Markdown** 等多种格式。其核心特色在于**云同步**、**AI 辅助阅读**和高度可定制的阅读界面。它允许用户在不同设备上无缝阅读，并提供强大的批注、高亮和笔记功能，是管理个人数字图书馆的理想工具。![](./imgs/github.svg)![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
 - [calibre](https://github.com/kovidgoyal/calibre) - 一款跨平台的开源电子书管理软件，被誉为电子书界的“瑞士军刀”。其核心功能包括电子书库管理、强大的**格式转换**、编辑和同步。它支持将 **Markdown**、PDF、Word 等多种文件格式转换成 **EPUB、MOBI** 等电子书格式。此外，它还内置了新闻下载和阅读器，可以轻松管理个人数字图书馆。![](./imgs/github.svg) ![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
 - [lue](https://github.com/superstarryeyes/lue) - 一款为命令行爱好者设计的**终端电子书阅读器**，支持 EPUB、PDF、**Markdown** 等多种格式，并集成了文本转语音功能、智能进度保存和高度可定制的终端界面，提供高效且沉浸式的阅读体验。![](./imgs/github.svg)![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
@@ -295,8 +291,8 @@ Markdown 是一种简单易学的轻量级标记语言，它让排版变得轻�
 
 - [ScrapeGraphAI](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - 一款基于 **Python** 的网络爬虫库，它利用大型语言模型（LLM）和图逻辑来为网站、文档和 XML 文件创建爬取管道。它最突出的一个功能是 **Markdownify**，能够将任何网页转换为干净、格式化的 **Markdown**。![](./imgs/github.svg)
 
-----
+---
 
 ## 书籍
 
-- [《了不起的 Markdown：大语言模型时代的通用语言》](https://book.douban.com/subject/37478156/) - 一本系统介绍大语言模型时代写作通用语言的实践指南，以“排版技巧—应用场景—语法规范—工具赋能—知识管理—智能协作”为主线，深度整合 Markdown 核心语法、工具生态与 AI 应用。也是国内第一本全面介绍 Obsidian 功能和实践的书籍。
+- [《了不起的 Markdown：大语言模型时代的通用语言》](https://book.douban.com/subject/37478156/) - 一本系统介绍大语言模型时代写作通用语言的实践指南，以“排版技巧—应用场景—语法规范—工具赋能—知识管理—智能协作”为主线，深度整合 Markdown 核心语法、工具生态与 AI 应用。也是国内第一本全面介绍 Obsidian 功能和实践的书籍。 ![](./imgs/doc.svg)
