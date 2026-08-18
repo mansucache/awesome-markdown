@@ -101,6 +101,10 @@ Want to recommend a Markdown tool or resource? Open an [Issue](https://github.co
 - [iA Writer](https://ia.net/writer) - A distraction-free Markdown editor focused on plain-text writing, with cross-device sync and multi-format export. ![](./imgs/mac.svg) ![](./imgs/windows.svg)![](./imgs/iphone.svg)
 - [Lightpaper](https://getlightpaper.com/) - A lightweight Markdown editor for Mac with folder navigation, live preview, and unique Shadow Notes and Scratch Notes features. ![](./imgs/mac.svg)
 - [Ulysses](https://ulysses.app/) - An Apple-ecosystem writing app with the Markdown XL syntax, iCloud sync, and export to PDF, Word, and EPUB. ![](./imgs/mac.svg) ![](./imgs/iphone.svg)
+- [MarkText](https://github.com/marktext/marktext) - A simple, elegant open-source Markdown editor for Linux, macOS, and Windows, with live preview and multiple themes. ![](./imgs/github.svg) ![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
+- [StackEdit](https://github.com/benweet/stackedit) - An open-source in-browser Markdown editor with cloud sync to Google Drive and GitHub. ![](./imgs/github.svg) ![](./imgs/web.svg)
+- [MacDown](https://github.com/MacDownApp/macdown) - An open-source Markdown editor for macOS inspired by Mou, with live preview and customizable rendering. ![](./imgs/github.svg) ![](./imgs/mac.svg)
+- [Marked 2](https://marked2app.com/) - A Markdown previewer for macOS with multiple rendering engines, custom styles, and export. ![](./imgs/mac.svg)
 
 - [MarkFlowy](https://github.com/drl990114/MarkFlowy) - A Markdown writer with both source and WYSIWYG modes, a built-in ChatGPT assistant, and export to PDF and HTML. ![](./imgs/github.svg)![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
 
@@ -160,6 +164,7 @@ Want to recommend a Markdown tool or resource? Open an [Issue](https://github.co
 - [Confluence](https://www.atlassian.com/software/confluence) - Atlassian's team collaboration and knowledge management platform with basic Markdown support converted to rich text as you type. ![](./imgs/web.svg)
 - [Boardmix](https://boardmix.com/) - An online collaborative whiteboard whose document feature supports Markdown formatting and export to files compatible with Obsidian. ![](./imgs/free.svg) ![](./imgs/mac.svg)  ![](./imgs/windows.svg) ![](./imgs/web.svg)
 - [Jupyter](https://github.com/jupyter/jupyter) - A non-profit project for interactive computing, combining live code, LaTeX math, visualizations, and Markdown text cells in notebooks. ![](./imgs/github.svg) ![](./imgs/all.svg)
+- [HedgeDoc](https://github.com/hedgedoc/hedgedoc) - An open-source collaborative Markdown editor with real-time co-editing, diagrams, and slide mode, self-hostable. ![](./imgs/github.svg) ![](./imgs/web.svg)
 - [ONLYOFFICE Desktop Editors](https://github.com/ONLYOFFICE/DesktopEditors) - An open-source desktop office suite with cloud collaboration and format conversion, including Markdown. ![](./imgs/github.svg)![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
 - [Seafile](https://github.com/haiwen/seafile) - An open-source, self-hosted file sync and collaboration platform with a built-in Markdown wiki. ![](./imgs/github.svg)
 
@@ -263,6 +268,8 @@ Want to recommend a Markdown tool or resource? Open an [Issue](https://github.co
 - [Turndown](https://github.com/mixmark-io/turndown) - An HTML-to-Markdown converter in JavaScript, CommonMark-compatible with many output customization options. ![](./imgs/github.svg)
 - [Markdown UI](https://github.com/BlueprintLabIO/markdown-ui) - A library for embedding dynamic UI components like buttons, dropdowns, and forms directly in Markdown documents. ![](./imgs/github.svg)
 - [Markstream](https://github.com/Simon-He95/markstream-vue) - A streaming Markdown rendering component library for AI chat scenarios, supporting Vue, React, Svelte, and more. ![](./imgs/github.svg)
+- [Editor.md](https://github.com/pandao/editor.md) - An open-source embeddable online Markdown editor component with live preview, flowcharts, and LaTeX math. ![](./imgs/github.svg)
+- [Markdown Here](https://github.com/adam-p/markdown-here) - A Chrome, Firefox, and Thunderbird extension for writing email in Markdown and rendering it before sending. ![](./imgs/github.svg)
 
 ## Conversion Tools
 
