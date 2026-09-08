@@ -1,0 +1,21 @@
+name: "Correct an entry / 纠正条目"
+description: "Report outdated or inaccurate information. 反馈过时或不准确的信息。"
+body:
+  - type: textarea
+    id: entry
+    attributes:
+      label: "Entry URL / 条目链接"
+    validations:
+      required: true
+  - type: textarea
+    id: change
+    attributes:
+      label: "Current claim and correction / 原描述与建议修改"
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: "Official source or reproduction / 官方来源或复现步骤"
+    validations:
+      required: true

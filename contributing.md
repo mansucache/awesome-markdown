@@ -1,45 +1,28 @@
-# 贡献指南
+# Contributing
 
-感谢你对 **Awesome Markdown** 的关注！欢迎通过 Issue 或 Pull Request 推荐工具、修正错误，让我们一起完善这个资源库。
+**English** | [简体中文](contributing.zh-CN.md)
 
-## 推荐新工具
+Recommend tools, correct descriptions or share a reproducible experience through [an issue](https://github.com/mansucache/awesome-markdown/issues/new/choose). Issues may be written in English or Chinese. Authors are welcome to recommend their own work; disclose your affiliation.
 
-最快捷的方式是提交 [Issue](https://github.com/mansucache/awesome-markdown/issues)，包含以下信息：
+## What belongs here
 
-- 工具名称与官方链接
-- 一句话中文介绍（1-2 句）
-- 支持平台、是否开源 / 免费
+We cover the Markdown ecosystem: writing, knowledge management, development, collaboration, conversion and publishing, including applications, libraries, extensions, services and specifications. A resource must have a clear Markdown use case, an official link and a concrete distinction from existing entries. Popularity is not an admission requirement.
 
-## 条目格式规范
+Describe what the tool does and when it helps. Distinguish native Markdown files, typing shortcuts, import, export and rendering. State relevant limits; do not infer the whole product is open source because one repository is public. Avoid unsupported claims about pricing, platforms, quality or compatibility. Link to primary documentation for claims that need checking.
 
-每个条目遵循以下格式：
+## Submit a change
 
-```
-- [工具名](官方链接) - 一句话中文介绍，结尾使用句号。图标（放在描述末尾）
-```
+1. Use Node.js 22 or newer and run `npm ci --ignore-scripts`.
+2. Edit `data/catalog.json`. Keep existing IDs stable. Add both English and Chinese names and descriptions, a category, supported labels and dated review evidence. Follow a similar existing entry; label definitions live in `scripts/validate.mjs`.
+3. Run `npm run build` to regenerate both homepages, the old English entry point and review/history pages.
+4. Run `npm run verify`. Include the reason for the change and source links in your pull request.
 
-要求：
+If you cannot provide both translations, open an issue with the information you have. Maintainers can help complete the record before merging. Do not edit generated files alone: the next build replaces them.
 
-- 描述 1-2 句，简洁客观，突出工具的核心特色
-- 图标放在描述末尾，名称后与描述之间用 ` - ` 分隔（空格-短横线-空格）
-- 条目放入最合适的分类，一个 PR 只做一件事
-- 提交前确认链接可以正常访问
+## Evidence and corrections
 
-## 图标系统
+`metadata` means a basic source check, `source-review` means the noted capability was checked against sources, and `tested` requires reproducible steps with versions and results. A reachable URL alone is not a test. Use `needs-review` with `pending` for unresolved entries. Withdrawn records stay in the data with a reason and sources, so decisions can be revisited.
 
-| 图标 | 含义 |
-| --- | --- |
-| ![](./imgs/github.svg) | 开源软件，单击名称可进入开源仓库 |
-| ![](./imgs/free.svg) | 免费使用（或个人免费、大部分功能免费） |
-| ![](./imgs/doc.svg) | 教程，单击图标可打开教程地址 |
-| ![](./imgs/mac.svg) / ![](./imgs/windows.svg) / ![](./imgs/linux.svg) | 支持 macOS / Windows / Linux |
-| ![](./imgs/iphone.svg) / ![](./imgs/android.svg) / ![](./imgs/web.svg) | 支持 iPhone / Android / Web |
-| ![](./imgs/all.svg) | 全平台 |
-| ![](./imgs/obsidian.svg) / ![](./imgs/vscode.svg) / ![](./imgs/typora.svg) / ![](./imgs/terminal.svg) | Obsidian / VS Code / Typora / 命令行工具 |
+For experiences, include the tool version, environment, a small input, expected result and actual result. Remove personal data from examples. See [maintenance](docs/maintenance.md) and the [review log](docs/review-log.md).
 
-## 提交 Pull Request
-
-1. Fork 本仓库，在你的分支上修改
-2. 保持条目格式与上文规范一致
-3. 在 PR 描述中简要说明推荐理由
-4. 提交后等待维护者审核，通常会在几天内回复
+Contributions to this list are released under [CC0-1.0](LICENSE). Each linked tool retains its own license.
