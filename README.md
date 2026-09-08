@@ -54,6 +54,7 @@ Markdown 是一种简单易学的轻量级标记语言，它让排版变得轻�
   - [代码片段管理](#代码片段管理)
   - [开发组件](#开发组件)
 - [转换工具](#转换工具)
+  - [转成 Markdown](#转成-markdown)
   - [转成图片](#转成图片)
 - [其他工具](#其他工具)
   - [命令行工具](#命令行工具)
@@ -101,6 +102,7 @@ Markdown 是一种简单易学的轻量级标记语言，它让排版变得轻�
 
   - [VLOOK](https://github.com/MadMaxChow/VLOOK) - 专为 Typora 设计的主题包和增强插件，提供丰富的文档布局、内容导航和演示辅助。 ![](./imgs/github.svg) ![](./imgs/typora.svg) ![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
 
+- [mdedit.ai](https://mdedit.ai/) - 一款面向技术写作的 Markdown 工作区，支持实时预览、Mermaid 图表、AI 辅助写作、协作和发布，提供免费基础编辑功能。 ![](./imgs/free.svg) ![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg) ![](./imgs/web.svg)
 - [Bear](https://bear.app/) - 一款 Apple 生态的 Markdown 笔记应用，以强大的标签系统、优雅的界面和无缝同步而闻名。 ![](./imgs/mac.svg) ![](./imgs/iphone.svg)
 - [Markdown Monster](https://github.com/RickStrahl/MarkdownMonster) - 一款功能丰富的 Windows 专属 Markdown 编辑器，支持语法高亮、实时预览、Git 集成和博客发布。 ![](./imgs/github.svg) ![](./imgs/windows.svg)
 - [Markor](https://github.com/gsantner/markor) - 一款轻量级的 Android 文本编辑器，支持 Markdown、todo.txt 和 Zim，可完全离线使用并支持加密。 ![](./imgs/github.svg) ![](./imgs/android.svg)
@@ -297,6 +299,10 @@ Markdown 是一种简单易学的轻量级标记语言，它让排版变得轻�
   - [Eisvogel](https://github.com/Wandmalfarbe/pandoc-latex-template) - 一款简洁美观的 Pandoc LaTeX 模板，用于将 Markdown 转换为 PDF 或 LaTeX。 ![](./imgs/github.svg)
   - [patat](https://github.com/jaspervdj/patat) - (Presentations Atop The ANSI Terminal) 一款基于 Pandoc 的命令行演示工具，支持代码高亮和演讲者笔记。 ![](./imgs/github.svg)
 
+### 转成 Markdown
+
+- [doc2md](https://github.com/sakuraqqq/doc2md) - 一款在浏览器本地将 PDF、DOCX、XLSX、图片（OCR）、TXT 和 HTML 转为 Markdown 的工具，文件无需上传，支持 PWA 安装及资源缓存后的离线使用。 ![](./imgs/github.svg) ![](./imgs/free.svg) ![](./imgs/web.svg)
+
 - [feishu2md](https://github.com/Wsine/feishu2md) - 一款 Go 语言工具，可将飞书文档转换为 Markdown 文件，支持 CLI、Docker 和在线使用。 ![](./imgs/github.svg) ![](./imgs/terminal.svg)
 
 - [noted.md](https://github.com/tejas-raskar/noted.md) - 一个利用 LLM 将手写笔记（PDF、图片）转换为 Markdown 的命令行工具，可识别数学公式为 LaTeX。 ![](./imgs/github.svg) ![](./imgs/terminal.svg)
@@ -309,13 +315,14 @@ Markdown 是一种简单易学的轻量级标记语言，它让排版变得轻�
 - [Trafilatura](https://github.com/adbar/trafilatura) - 一个基于 Python 的网页文本提取工具，输出支持 CSV、JSON、HTML 和 Markdown 等格式。 ![](./imgs/github.svg) ![](./imgs/terminal.svg)
 - [Zotero Better Notes](https://github.com/windingwind/zotero-better-notes) - 一款 Zotero 插件，支持 Markdown 粘贴、模板生成笔记并导出为 Markdown、Word、PDF。 ![](./imgs/github.svg)
 
+- [html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - 一款 Go 语言 HTML 到 Markdown 转换工具，可将复杂 HTML 结构甚至整个网站转换为干净的 Markdown。 ![](./imgs/github.svg)
+
 ### 转成图片
 
 - [MD2Card](https://md2card.com/zh) - 一个在线工具，将 Markdown 一键转换为精美知识卡片，提供 20 多种卡片风格和 API。 ![](./imgs/web.svg)
 
 - [Markdown To Image](https://github.com/gcui-art/markdown-to-image/tree/main) - 一款将 Markdown 渲染为精美图片的工具，支持自定义样式和主题，适合社交媒体分享。 ![](./imgs/github.svg)
 - [Markdown To Image Serve](https://github.com/wxingheng/markdown-to-image-serve) - 一款基于 Go 的 Markdown 转图片服务，可通过 API 批量生成图片。 ![](./imgs/github.svg)
-- [html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - 一款 Go 语言 HTML 到 Markdown 转换工具，可将复杂 HTML 结构甚至整个网站转换为干净的 Markdown。 ![](./imgs/github.svg)
 
 ## 其他工具
 

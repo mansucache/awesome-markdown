@@ -48,6 +48,7 @@ Want to recommend a Markdown tool or resource? Open an [Issue](https://github.co
   - [Code Snippet Management](#code-snippet-management)
   - [Development Components](#development-components)
 - [Conversion Tools](#conversion-tools)
+  - [To Markdown](#to-markdown)
   - [Image Generation](#image-generation)
 - [Miscellaneous](#miscellaneous)
   - [Command-line Tools](#command-line-tools)
@@ -93,6 +94,7 @@ Want to recommend a Markdown tool or resource? Open an [Issue](https://github.co
 
   - [VLOOK](https://github.com/MadMaxChow/VLOOK) - An elegant theme package and enhancement plugin for Typora, adding rich layouts, content navigation, and presentation aids. ![](./imgs/github.svg) ![](./imgs/typora.svg) ![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
 
+- [mdedit.ai](https://mdedit.ai/) - A Markdown workspace for technical writing with live preview, Mermaid diagrams, AI-assisted writing, collaboration, and publishing; core editing is free. ![](./imgs/free.svg) ![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg) ![](./imgs/web.svg)
 - [Bear](https://bear.app/) - A Markdown note app for the Apple ecosystem, known for its powerful tagging system, elegant interface, and seamless sync. ![](./imgs/mac.svg) ![](./imgs/iphone.svg)
 - [Markdown Monster](https://github.com/RickStrahl/MarkdownMonster) - A feature-rich Windows Markdown editor with syntax highlighting, live preview, Git integration, and direct publishing to blog platforms. ![](./imgs/github.svg) ![](./imgs/windows.svg)
 - [Markor](https://github.com/gsantner/markor) - A lightweight Android editor supporting Markdown, todo.txt, and Zim, with full offline use, preview, sync, and encryption. ![](./imgs/github.svg) ![](./imgs/android.svg)
@@ -290,6 +292,10 @@ Want to recommend a Markdown tool or resource? Open an [Issue](https://github.co
   - [Eisvogel](https://github.com/Wandmalfarbe/pandoc-latex-template) - A clean, beautiful Pandoc LaTeX template for converting Markdown to PDF or LaTeX. ![](./imgs/github.svg)
   - [patat](https://github.com/jaspervdj/patat) - (Presentations Atop The ANSI Terminal) A command-line presentation tool built on Pandoc, with code highlighting and speaker notes. ![](./imgs/github.svg)
 
+### To Markdown
+
+- [doc2md](https://github.com/sakuraqqq/doc2md) - A browser-based tool that converts PDF, DOCX, XLSX, images (OCR), TXT, and HTML to Markdown locally without uploading files, with PWA installation and offline use after resources are cached. ![](./imgs/github.svg) ![](./imgs/free.svg) ![](./imgs/web.svg)
+
 - [feishu2md](https://github.com/Wsine/feishu2md) - A Go tool that converts Feishu documents to Markdown files, available via CLI, Docker, and online. ![](./imgs/github.svg) ![](./imgs/terminal.svg)
 
 - [noted.md](https://github.com/tejas-raskar/noted.md) - A CLI tool that uses LLMs to convert handwritten notes (PDFs and images) into Markdown, recognizing math as LaTeX. ![](./imgs/github.svg) ![](./imgs/terminal.svg)
@@ -302,13 +308,14 @@ Want to recommend a Markdown tool or resource? Open an [Issue](https://github.co
 - [Trafilatura](https://github.com/adbar/trafilatura) - A Python CLI and library for extracting text and metadata from web pages, with output to CSV, JSON, HTML, and Markdown. ![](./imgs/github.svg) ![](./imgs/terminal.svg)
 - [Zotero Better Notes](https://github.com/windingwind/zotero-better-notes) - A Zotero plugin that optimizes literature note workflows, with Markdown paste, template notes, and export. ![](./imgs/github.svg)
 
+- [html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - A Go tool that converts complex HTML structures, including whole websites, into clean, readable Markdown. ![](./imgs/github.svg)
+
 ### Image Generation
 
 - [MD2Card](https://md2card.com/zh) - An online tool that converts Markdown documents into beautiful knowledge cards with one click, offering 20+ card styles and API access. ![](./imgs/web.svg)
 
 - [Markdown To Image](https://github.com/gcui-art/markdown-to-image/tree/main) - A tool that renders Markdown into beautiful images for social media sharing, with customizable styles and themes. ![](./imgs/github.svg)
 - [Markdown To Image Serve](https://github.com/wxingheng/markdown-to-image-serve) - A fast Markdown-to-image service in Go, deployable as a microservice for batch processing. ![](./imgs/github.svg)
-- [html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - A Go tool that converts complex HTML structures, including whole websites, into clean, readable Markdown. ![](./imgs/github.svg)
 
 ## Miscellaneous
 
