@@ -1,0 +1,27 @@
+name: "Recommend a tool / 推荐工具"
+description: "Suggest a Markdown resource with official evidence. 推荐有明确 Markdown 用途的资源。"
+body:
+  - type: textarea
+    id: tool
+    attributes:
+      label: "Name and official URL / 名称与官方链接"
+    validations:
+      required: true
+  - type: textarea
+    id: task
+    attributes:
+      label: "Task and difference / 解决什么任务，与已有条目有何区别"
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: "Evidence and limits / 官方依据、支持范围与限制"
+    validations:
+      required: true
+  - type: textarea
+    id: affiliation
+    attributes:
+      label: "Affiliation / 你与项目的关系"
+    validations:
+      required: true

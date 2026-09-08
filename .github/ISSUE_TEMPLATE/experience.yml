@@ -1,0 +1,27 @@
+name: "Share an experience / 分享体验"
+description: "Describe one concrete Markdown workflow. 分享一个具体使用场景。"
+body:
+  - type: textarea
+    id: tool
+    attributes:
+      label: "Tool, version and environment / 工具、版本与环境"
+    validations:
+      required: true
+  - type: textarea
+    id: task
+    attributes:
+      label: "Task and sample input / 任务与最小输入"
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: "Expected and actual output / 预期与实际输出"
+    validations:
+      required: true
+  - type: textarea
+    id: limits
+    attributes:
+      label: "Limitations and affiliation / 限制及项目关系"
+    validations:
+      required: false

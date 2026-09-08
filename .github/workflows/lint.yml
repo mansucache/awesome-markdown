@@ -1,22 +1,21 @@
-name: Lint
-
+name: Catalog checks
 on:
   push:
     branches: [main]
   pull_request:
-
+permissions:
+  contents: read
+concurrency:
+  group: catalog-${{ github.ref }}
+  cancel-in-progress: true
 jobs:
-  awesome-lint:
+  verify:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-
-      - name: Lint Chinese README
-        run: npx -y awesome-lint README.md
-
-      - name: Lint English README
-        run: npx -y awesome-lint readme.en.md
+          cache: npm
+      - run: npm ci --ignore-scripts
+      - run: npm run verify
