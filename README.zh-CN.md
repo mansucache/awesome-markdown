@@ -135,6 +135,9 @@ Markdown 原生文件、Markdown 输入快捷语法、Markdown 导入导出是�
 - [MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - 面向 macOS 的开源 Markdown 编辑器，可通过脚本和 CodeMirror 扩展定制，适合需要自行调整编辑行为的用户。<br>
   <span>`开源` · `macOS`</span>
 
+- [轻阅 Markdown（Quillite Markdown）](https://github.com/liuhang798/quillite-markdown) - 以阅读为先的本地 Markdown 桌面应用，支持分栏编辑、图表、公式与文档导出。Windows 和 macOS 构建未签名；每日匿名活跃统计独立于产品改进计划开关。<br>
+  <span>`开源` · `Windows` · `macOS` · `Linux` · [官网](https://qm.ssssa.cn/)</span>
+
 - [Cmd Markdown](https://www.zybuluo.com/mdeditor) - 在浏览器中编辑和预览 Markdown，提供云端存储、版本历史及流程图等扩展语法，适合在线写作与文档整理。<br>
   <span>`提供免费方案` · `Web`</span>
 

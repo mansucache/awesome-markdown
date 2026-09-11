@@ -799,6 +799,49 @@
       }
     },
     {
+      "id": "quillite-markdown",
+      "name": {
+        "en": "Quillite Markdown",
+        "zh": "轻阅 Markdown（Quillite Markdown）"
+      },
+      "url": "https://github.com/liuhang798/quillite-markdown",
+      "category": "dedicated-markdown-editors",
+      "parent": null,
+      "description": {
+        "en": "A reading-first desktop app for local Markdown files, with split-pane editing, diagrams, math and document export. Windows and macOS builds are unsigned; daily anonymous activity telemetry is independent of the product improvement opt-in.",
+        "zh": "以阅读为先的本地 Markdown 桌面应用，支持分栏编辑、图表、公式与文档导出。Windows 和 macOS 构建未签名；每日匿名活跃统计独立于产品改进计划开关。"
+      },
+      "tags": [
+        "open-source",
+        "windows",
+        "macos",
+        "linux"
+      ],
+      "links": [
+        {
+          "url": "https://qm.ssssa.cn/",
+          "label": {
+            "en": "Website",
+            "zh": "官网"
+          }
+        }
+      ],
+      "status": "active",
+      "review": {
+        "date": "2026-09-12",
+        "level": "source-review",
+        "sources": [
+          "https://github.com/liuhang798/quillite-markdown",
+          "https://github.com/liuhang798/quillite-markdown/releases/tag/v2.7.4",
+          "https://github.com/liuhang798/quillite-markdown/blob/main/LICENSE"
+        ],
+        "note": {
+          "en": "Checked README, MIT license and v2.7.4 assets for Windows x64, macOS Universal and Linux x64; not an application test. README documents unsigned Windows/macOS builds and daily activity telemetry independent of the error-report opt-in.",
+          "zh": "已核对 README、MIT 许可证及 v2.7.4 的 Windows x64、macOS Universal、Linux x64 安装包，未进行应用实测。README 说明 Windows/macOS 构建未签名，每日活跃统计不受错误日志上报开关控制。"
+        }
+      }
+    },
+    {
       "id": "cmd-markdown",
       "name": {
         "en": "Cmd Markdown",
