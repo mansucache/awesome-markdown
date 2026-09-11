@@ -20,6 +20,7 @@
 | Markdown Monster | 2026-09-08 | 专项来源核对 | 已就所述能力或修正核对列出的来源，未进行应用功能实测。 | [1](https://github.com/RickStrahl/MarkdownMonster) [2](https://markdownmonster.west-wind.com/purchase) |
 | Markor | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/gsantner/markor) |
 | MarkEdit | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/MarkEdit-app/MarkEdit) |
+| 轻阅 Markdown（Quillite Markdown） | 2026-09-12 | 专项来源核对 | 已核对 README、MIT 许可证及 v2.7.4 的 Windows x64、macOS Universal、Linux x64 安装包，未进行应用实测。README 说明 Windows/macOS 构建未签名，每日活跃统计不受错误日志上报开关控制。 | [1](https://github.com/liuhang798/quillite-markdown) [2](https://github.com/liuhang798/quillite-markdown/releases/tag/v2.7.4) [3](https://github.com/liuhang798/quillite-markdown/blob/main/LICENSE) |
 | Cmd Markdown | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://www.zybuluo.com/mdeditor) |
 | Effie | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://www.effie.co/) |
 | iA Writer | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://ia.net/writer) |

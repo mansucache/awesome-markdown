@@ -143,6 +143,9 @@ Choose source editing, WYSIWYG or a separate previewer first; then compare docum
 - [MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - An open-source macOS Markdown editor that can be customized with scripts and CodeMirror extensions.<br>
   <span>`Open source` · `macOS`</span>
 
+- [Quillite Markdown](https://github.com/liuhang798/quillite-markdown) - A reading-first desktop app for local Markdown files, with split-pane editing, diagrams, math and document export. Windows and macOS builds are unsigned; daily anonymous activity telemetry is independent of the product improvement opt-in.<br>
+  <span>`Open source` · `Windows` · `macOS` · `Linux` · [Website](https://qm.ssssa.cn/)</span>
+
 - [Cmd Markdown](https://www.zybuluo.com/mdeditor) - A browser Markdown editor with live preview, cloud storage, version history and diagram syntax for online writing.<br>
   <span>`Free option` · `Web`</span>
 
