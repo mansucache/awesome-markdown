@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="zh-CN"><meta charset="utf-8"><title>Markdown conversion fixture</title>
+<style>
+@page {size:A4;margin:18mm} body{font:14px/1.6 sans-serif;color:#111;max-width:174mm;margin:20px auto} section{break-after:page} section:last-child{break-after:auto} h1{font-size:24px}h2{font-size:18px} table{border-collapse:collapse;width:100%}td,th{border:1px solid #888;padding:6px;text-align:left} .columns{display:grid;grid-template-columns:1fr 1fr;gap:24px} pre{white-space:pre-wrap;background:#eee;padding:12px}svg{max-width:100%;height:auto}.small{font-size:11px}
+</style>
+<section>
+<h1>转换样本 / Conversion fixture</h1>
+<p>Fixture v1. Fictional data / 本文件全部为虚构数据，无外部资源或网络请求。</p>
+<h2>1. 数字、顺序与引用 / Values and references</h2>
+<p>保留这些内容：订单编号 MD-007，价格 ¥1,234.50，折扣 -12.5%，交付日期 2026-09-12。English punctuation: “quoted”, A/B, and C++.</p>
+<ol><li>接收 / Receive</li><li>检查 / Inspect<ul><li>表格 / Table</li><li>附件 / Attachment</li></ul></li><li>归档 / Archive</li></ol>
+<p>链接 / Link: <a href="https://commonmark.org/">CommonMark</a>。脚注引用 / Footnote reference: [1].</p>
+<table><caption>表 1：虚构采购单 / Table 1: fictional order</caption><thead><tr><th>项目 / Item</th><th>数量 / Quantity</th><th>金额 / Amount</th></tr></thead><tbody><tr><td>纸张 / Paper</td><td>3</td><td>¥36.00</td></tr><tr><td>文件夹 / Folder</td><td>2</td><td>¥18.50</td></tr><tr><td>合计 / Total</td><td>5</td><td>¥54.50</td></tr></tbody></table>
+<h2>2. 公式与代码 / Formula and code</h2>
+<p>公式 / Formula: E = mc<sup>2</sup>. 化学式 / Chemical formula: H<sub>2</sub>O.</p>
+<pre><code>def total(prices):
+    return sum(prices)
+
+print(total([36.00, 18.50]))</code></pre>
+<p class="small">[1] Fictional reference / 虚构参考条目：Example author, Conversion Notes, 2026.</p>
+</section>
+<section>
+<h1>3. 双栏阅读顺序 / Two-column reading order</h1>
+<div class="columns"><div><p>LEFT-1：左栏第一段，讲需求。First left-column paragraph: requirements.</p><p>LEFT-2：左栏第二段，讲输入。Second left-column paragraph: input.</p><p>LEFT-3：左栏第三段，讲检查。Third left-column paragraph: checks.</p></div><div><p>RIGHT-1：右栏第一段，讲结果。First right-column paragraph: results.</p><p>RIGHT-2：右栏第二段，讲限制。Second right-column paragraph: limits.</p><p>RIGHT-3：右栏第三段，讲交付。Third right-column paragraph: delivery.</p></div></div>
+<h2>4. 合并单元格与图形 / Merged cells and graphics</h2>
+<table><tr><th colspan="2">Plan A / 方案 A</th><th>Plan B / 方案 B</th></tr><tr><td>Input / 输入</td><td>Review / 核对</td><td>Export / 导出</td></tr></table>
+<figure><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 100" role="img" aria-label="Receive then inspect then archive"><rect x="5" y="20" width="130" height="50" fill="none" stroke="black"/><text x="22" y="51" font-size="16">Receive</text><path d="M135 45H180l-10 -7m10 7l-10 7" fill="none" stroke="black"/><rect x="185" y="20" width="130" height="50" fill="none" stroke="black"/><text x="206" y="51" font-size="16">Inspect</text><path d="M315 45H360l-10 -7m10 7l-10 7" fill="none" stroke="black"/><rect x="365" y="20" width="130" height="50" fill="none" stroke="black"/><text x="383" y="51" font-size="16">Archive</text></svg><figcaption>Figure 1 / 图 1：Receive → Inspect → Archive.</figcaption></figure>
+<p>文档结束标记 / End marker: END-042.</p>
+</section></html>

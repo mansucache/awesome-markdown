@@ -50,9 +50,13 @@ The English catalog is now the default [README](README.md). [简体中文](READM
 
 [Static Site Generators](README.md#static-site-generators)
 
-## E-books
+<a id="e-books"></a>
 
-[E-books](README.md#e-books)
+<a id="电子书"></a>
+
+## Books and Technical Publishing
+
+[Books and Technical Publishing](README.md#books-and-technical-publishing)
 
 ## Templates
 
@@ -106,6 +110,14 @@ The English catalog is now the default [README](README.md). [简体中文](READM
 
 [AI-related Tools](README.md#ai-related-tools)
 
-## Books
+## Diagrams and Math
 
-[Books](README.md#books)
+[Diagrams and Math](README.md#diagrams-and-math)
+
+<a id="books"></a>
+
+<a id="书籍"></a>
+
+## Learning Resources
+
+[Learning Resources](README.md#learning-resources)

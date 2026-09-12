@@ -162,12 +162,12 @@
       "level": 3,
       "parent": "website-generation-and-typesetting",
       "name": {
-        "en": "E-books",
-        "zh": "电子书"
+        "en": "Books and Technical Publishing",
+        "zh": "书籍与技术出版"
       },
       "intro": {
-        "en": "Includes book builders and reading managers. Check output formats when you need a publication file.",
-        "zh": "本节同时收录书稿生成与阅读管理工具；需要出版文件时，先核对输出格式。"
+        "en": "Build books and reproducible reports, or manage reading. Compare output formats, citations and code execution requirements.",
+        "zh": "生成书籍与可复现报告，或管理阅读资料；先比较输出格式、引文和代码执行需求。"
       }
     },
     {
@@ -244,8 +244,8 @@
         "zh": "开发组件"
       },
       "intro": {
-        "en": "Identify the needed layer: editing interface, Markdown parsing, HTML conversion or streaming rendering.",
-        "zh": "先区分要接入的是编辑界面、Markdown 解析、HTML 转换还是流式渲染；它们承担不同环节。"
+        "en": "Identify the needed layer: editing interface, parsing and conversion, or rendering and display. See the [developer guide](guides/markdown-for-developers.md) for task-based choices.",
+        "zh": "区分编辑器组件、解析与转换、渲染与展示三个环节，按任务选择的例子见[开发者指南](guides/markdown-for-developers.zh-CN.md)。"
       }
     },
     {
@@ -340,16 +340,29 @@
       }
     },
     {
+      "id": "diagrams-and-math",
+      "level": 3,
+      "parent": "miscellaneous",
+      "name": {
+        "en": "Diagrams and Math",
+        "zh": "图表与公式"
+      },
+      "intro": {
+        "en": "These tools need renderer integration; a language-tagged code fence alone does not create a diagram.",
+        "zh": "这些能力需要渲染器接入；代码围栏标注语言，并不代表目标工具会生成图表。"
+      }
+    },
+    {
       "id": "books",
       "level": 2,
       "parent": null,
       "name": {
-        "en": "Books",
-        "zh": "书籍"
+        "en": "Learning Resources",
+        "zh": "学习资源"
       },
       "intro": {
-        "en": "For readers who prefer a chapter-based introduction to Markdown and related workflows.",
-        "zh": "适合希望按章节学习 Markdown 与相关工作流的读者。"
+        "en": "Start with a syntax reference or follow a book-length introduction to Markdown workflows.",
+        "zh": "从语法参考入门，或按书籍章节学习 Markdown 工作流。"
       }
     }
   ],
@@ -532,6 +545,47 @@
         "note": {
           "en": "Official page or repository metadata checked; not an application test.",
           "zh": "已检查官方页面或仓库元数据，未进行应用功能实测。"
+        }
+      }
+    },
+    {
+      "id": "mdx",
+      "name": {
+        "en": "MDX",
+        "zh": "MDX"
+      },
+      "url": "https://github.com/mdx-js/mdx",
+      "category": "syntax-specifications-and-extensions",
+      "parent": null,
+      "description": {
+        "en": "Combines Markdown with JSX components for interactive documentation. Compile trusted content; MDX can contain executable JavaScript.",
+        "zh": "将 Markdown 与 JSX 组件结合，用于交互式文档。编译前确认内容可信，MDX 可以包含可执行 JavaScript。"
+      },
+      "tags": [
+        "open-source",
+        "javascript"
+      ],
+      "links": [
+        {
+          "url": "https://mdxjs.com/",
+          "label": {
+            "en": "Website",
+            "zh": "官网"
+          }
+        }
+      ],
+      "status": "active",
+      "review": {
+        "date": "2026-09-12",
+        "level": "source-review",
+        "sources": [
+          "https://github.com/mdx-js/mdx",
+          "https://mdxjs.com/",
+          "https://mdxjs.com/packages/mdx/#security"
+        ],
+        "note": {
+          "en": "Official documentation and repository activity reviewed; default-branch commit observed on 2026-07-05. This is source review, not a functional or performance test.",
+          "zh": "已核对官方资料与仓库活动，观察到默认分支于 2026-07-05 有提交。此为来源核验，不是功能或性能实测。"
         }
       }
     },
@@ -3116,6 +3170,86 @@
       }
     },
     {
+      "id": "starlight",
+      "name": {
+        "en": "Starlight",
+        "zh": "Starlight"
+      },
+      "url": "https://github.com/withastro/starlight",
+      "category": "static-site-generators",
+      "parent": null,
+      "description": {
+        "en": "An Astro-based documentation framework with Markdown and MDX pages, navigation, search and internationalization for product and project documentation.",
+        "zh": "基于 Astro 的文档框架，支持 Markdown 与 MDX 页面，提供导航、搜索和多语言能力，适合产品及项目文档。"
+      },
+      "tags": [
+        "open-source",
+        "nodejs"
+      ],
+      "links": [
+        {
+          "url": "https://starlight.astro.build/",
+          "label": {
+            "en": "Website",
+            "zh": "官网"
+          }
+        }
+      ],
+      "status": "active",
+      "review": {
+        "date": "2026-09-12",
+        "level": "source-review",
+        "sources": [
+          "https://github.com/withastro/starlight",
+          "https://starlight.astro.build/"
+        ],
+        "note": {
+          "en": "Official documentation and repository activity reviewed; default-branch commit observed on 2026-09-08. This is source review, not a functional or performance test.",
+          "zh": "已核对官方资料与仓库活动，观察到默认分支于 2026-09-08 有提交。此为来源核验，不是功能或性能实测。"
+        }
+      }
+    },
+    {
+      "id": "quartz",
+      "name": {
+        "en": "Quartz",
+        "zh": "Quartz"
+      },
+      "url": "https://github.com/jackyzha0/quartz",
+      "category": "static-site-generators",
+      "parent": null,
+      "description": {
+        "en": "Publishes Markdown collections as websites with linked-note navigation, useful for digital gardens and public knowledge bases. Check note extensions before migration.",
+        "zh": "将 Markdown 内容集合发布为带笔记关联导航的网站，适合数字花园与公开知识库；迁移前需检查笔记扩展语法。"
+      },
+      "tags": [
+        "open-source",
+        "nodejs"
+      ],
+      "links": [
+        {
+          "url": "https://quartz.jzhao.xyz/",
+          "label": {
+            "en": "Website",
+            "zh": "官网"
+          }
+        }
+      ],
+      "status": "active",
+      "review": {
+        "date": "2026-09-12",
+        "level": "source-review",
+        "sources": [
+          "https://github.com/jackyzha0/quartz",
+          "https://quartz.jzhao.xyz/"
+        ],
+        "note": {
+          "en": "Official documentation and repository activity reviewed; default-branch commit observed on 2026-09-06. This is source review, not a functional or performance test.",
+          "zh": "已核对官方资料与仓库活动，观察到默认分支于 2026-09-06 有提交。此为来源核验，不是功能或性能实测。"
+        }
+      }
+    },
+    {
       "id": "mdbook",
       "name": {
         "en": "mdBook",
@@ -3369,6 +3503,45 @@
         "note": {
           "en": "Reviewed the cited source for the stated capability or correction; application behavior was not tested.",
           "zh": "已就所述能力或修正核对列出的来源，未进行应用功能实测。"
+        }
+      }
+    },
+    {
+      "id": "quarto",
+      "name": {
+        "en": "Quarto",
+        "zh": "Quarto"
+      },
+      "url": "https://github.com/quarto-dev/quarto-cli",
+      "category": "e-books",
+      "parent": null,
+      "description": {
+        "en": "Publishes Markdown and executable notebooks as reports, books, websites and presentations. Output formats and code execution may require additional engines or tools.",
+        "zh": "将 Markdown 与可执行笔记本发布为报告、书籍、网站和演示文稿；不同输出格式与代码执行可能需要额外引擎或工具。"
+      },
+      "tags": [
+        "cli"
+      ],
+      "links": [
+        {
+          "url": "https://quarto.org/",
+          "label": {
+            "en": "Website",
+            "zh": "官网"
+          }
+        }
+      ],
+      "status": "active",
+      "review": {
+        "date": "2026-09-12",
+        "level": "source-review",
+        "sources": [
+          "https://github.com/quarto-dev/quarto-cli",
+          "https://quarto.org/"
+        ],
+        "note": {
+          "en": "Official documentation and repository activity reviewed; default-branch commit observed on 2026-09-11. This is source review, not a functional or performance test.",
+          "zh": "已核对官方资料与仓库活动，观察到默认分支于 2026-09-11 有提交。此为来源核验，不是功能或性能实测。"
         }
       }
     },
@@ -3685,6 +3858,36 @@
         "note": {
           "en": "Official page or repository metadata checked; not an application test.",
           "zh": "已检查官方页面或仓库元数据，未进行应用功能实测。"
+        }
+      }
+    },
+    {
+      "id": "render-markdown-nvim",
+      "name": {
+        "en": "render-markdown.nvim",
+        "zh": "render-markdown.nvim"
+      },
+      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim",
+      "category": "programming-tools",
+      "parent": null,
+      "description": {
+        "en": "Improves Markdown display inside Neovim with in-buffer rendering. Requires a compatible Neovim setup and the documented parser dependencies.",
+        "zh": "在 Neovim 缓冲区中改善 Markdown 的显示效果；需要兼容的 Neovim 环境及文档列出的解析依赖。"
+      },
+      "tags": [
+        "open-source"
+      ],
+      "links": [],
+      "status": "active",
+      "review": {
+        "date": "2026-09-12",
+        "level": "source-review",
+        "sources": [
+          "https://github.com/MeanderingProgrammer/render-markdown.nvim"
+        ],
+        "note": {
+          "en": "Official documentation and repository activity reviewed; default-branch commit observed on 2026-08-11. This is source review, not a functional or performance test.",
+          "zh": "已核对官方资料与仓库活动，观察到默认分支于 2026-08-11 有提交。此为来源核验，不是功能或性能实测。"
         }
       }
     },
@@ -4159,6 +4362,116 @@
       }
     },
     {
+      "id": "remark",
+      "name": {
+        "en": "remark",
+        "zh": "remark"
+      },
+      "url": "https://github.com/remarkjs/remark",
+      "category": "development-components",
+      "parent": null,
+      "description": {
+        "en": "Processes Markdown as a syntax tree with plugins for inspection and transformation. It is a content-processing pipeline, not an editing interface.",
+        "zh": "通过语法树与插件检查、转换 Markdown，适合构建内容处理流程；本身不提供编辑界面。"
+      },
+      "tags": [
+        "open-source",
+        "javascript"
+      ],
+      "links": [
+        {
+          "url": "https://remark.js.org/",
+          "label": {
+            "en": "Website",
+            "zh": "官网"
+          }
+        }
+      ],
+      "status": "active",
+      "review": {
+        "date": "2026-09-12",
+        "level": "source-review",
+        "sources": [
+          "https://github.com/remarkjs/remark",
+          "https://remark.js.org/"
+        ],
+        "note": {
+          "en": "Official documentation and repository activity reviewed; default-branch commit observed on 2026-09-01. This is source review, not a functional or performance test.",
+          "zh": "已核对官方资料与仓库活动，观察到默认分支于 2026-09-01 有提交。此为来源核验，不是功能或性能实测。"
+        }
+      }
+    },
+    {
+      "id": "react-markdown",
+      "name": {
+        "en": "react-markdown",
+        "zh": "react-markdown"
+      },
+      "url": "https://github.com/remarkjs/react-markdown",
+      "category": "development-components",
+      "parent": null,
+      "description": {
+        "en": "Renders Markdown as React components with configurable elements and plugins. GFM and math require the corresponding extensions.",
+        "zh": "将 Markdown 渲染为 React 组件，可定制元素并接入插件；GFM 与公式需配置相应扩展。"
+      },
+      "tags": [
+        "open-source",
+        "react"
+      ],
+      "links": [],
+      "status": "active",
+      "review": {
+        "date": "2026-09-12",
+        "level": "source-review",
+        "sources": [
+          "https://github.com/remarkjs/react-markdown"
+        ],
+        "note": {
+          "en": "Official documentation and repository activity reviewed; default-branch commit observed on 2026-09-01. This is source review, not a functional or performance test.",
+          "zh": "已核对官方资料与仓库活动，观察到默认分支于 2026-09-01 有提交。此为来源核验，不是功能或性能实测。"
+        }
+      }
+    },
+    {
+      "id": "streamdown",
+      "name": {
+        "en": "Streamdown",
+        "zh": "Streamdown"
+      },
+      "url": "https://github.com/vercel/streamdown",
+      "category": "development-components",
+      "parent": null,
+      "description": {
+        "en": "Renders streaming Markdown for React-based AI interfaces, including unfinished blocks. Configure optional code, math and diagram plugins for the features you need.",
+        "zh": "为 React AI 界面渲染流式 Markdown，处理尚未闭合的内容块；代码、公式与图表等能力按需配置插件。"
+      },
+      "tags": [
+        "react"
+      ],
+      "links": [
+        {
+          "url": "https://streamdown.ai/",
+          "label": {
+            "en": "Website",
+            "zh": "官网"
+          }
+        }
+      ],
+      "status": "active",
+      "review": {
+        "date": "2026-09-12",
+        "level": "source-review",
+        "sources": [
+          "https://github.com/vercel/streamdown",
+          "https://streamdown.ai/"
+        ],
+        "note": {
+          "en": "Official documentation and repository activity reviewed; default-branch commit observed on 2026-09-10. This is source review, not a functional or performance test.",
+          "zh": "已核对官方资料与仓库活动，观察到默认分支于 2026-09-10 有提交。此为来源核验，不是功能或性能实测。"
+        }
+      }
+    },
+    {
       "id": "pandoc",
       "name": {
         "en": "pandoc",
@@ -4571,6 +4884,161 @@
       }
     },
     {
+      "id": "docling",
+      "name": {
+        "en": "Docling",
+        "zh": "Docling"
+      },
+      "url": "https://github.com/docling-project/docling",
+      "category": "to-markdown",
+      "parent": null,
+      "description": {
+        "en": "Parses PDF and Office documents into structured content and exports Markdown. OCR, model downloads and resource needs depend on the selected pipeline.",
+        "zh": "将 PDF、Office 文档解析为结构化内容并导出 Markdown；OCR、模型下载与运行资源取决于所选处理流程。"
+      },
+      "tags": [
+        "open-source",
+        "python",
+        "cli"
+      ],
+      "links": [
+        {
+          "url": "https://docling-project.github.io/docling/",
+          "label": {
+            "en": "Website",
+            "zh": "官网"
+          }
+        }
+      ],
+      "status": "active",
+      "review": {
+        "date": "2026-09-12",
+        "level": "source-review",
+        "sources": [
+          "https://github.com/docling-project/docling",
+          "https://docling-project.github.io/docling/"
+        ],
+        "note": {
+          "en": "Official documentation and repository activity reviewed; default-branch commit observed on 2026-09-11. This is source review, not a functional or performance test.",
+          "zh": "已核对官方资料与仓库活动，观察到默认分支于 2026-09-11 有提交。此为来源核验，不是功能或性能实测。"
+        }
+      }
+    },
+    {
+      "id": "mineru",
+      "name": {
+        "en": "MinerU",
+        "zh": "MinerU"
+      },
+      "url": "https://github.com/opendatalab/MinerU",
+      "category": "to-markdown",
+      "parent": null,
+      "description": {
+        "en": "Extracts text, tables and formulas from complex documents into Markdown or JSON. Backend requirements vary; its custom license includes additional conditions.",
+        "zh": "从复杂文档中提取文本、表格与公式，输出 Markdown 或 JSON；不同后端的运行要求不同，自定义许可证包含附加条件。"
+      },
+      "tags": [
+        "python",
+        "cli"
+      ],
+      "links": [
+        {
+          "url": "https://mineru.net/",
+          "label": {
+            "en": "Website",
+            "zh": "官网"
+          }
+        }
+      ],
+      "status": "active",
+      "review": {
+        "date": "2026-09-12",
+        "level": "source-review",
+        "sources": [
+          "https://github.com/opendatalab/MinerU",
+          "https://mineru.net/",
+          "https://github.com/opendatalab/MinerU/blob/master/LICENSE.md"
+        ],
+        "note": {
+          "en": "Official documentation and repository activity reviewed; default-branch commit observed on 2026-08-14. This is source review, not a functional or performance test. Custom license; no unrestricted open-source label applied.",
+          "zh": "已核对官方资料与仓库活动，观察到默认分支于 2026-08-14 有提交。此为来源核验，不是功能或性能实测。 使用自定义许可证，未添加无条件的开源标签。"
+        }
+      }
+    },
+    {
+      "id": "marker",
+      "name": {
+        "en": "Marker",
+        "zh": "Marker"
+      },
+      "url": "https://github.com/datalab-to/marker",
+      "category": "to-markdown",
+      "parent": null,
+      "description": {
+        "en": "Converts PDF and other documents into Markdown or JSON, with optional LLM assistance. Code and model weights use separate licenses; runtime requirements depend on mode and hardware.",
+        "zh": "将 PDF 等文档转为 Markdown 或 JSON，可选用 LLM 辅助。代码与模型权重采用不同许可证，运行依赖取决于模式和硬件。"
+      },
+      "tags": [
+        "open-source",
+        "python",
+        "cli"
+      ],
+      "links": [],
+      "status": "active",
+      "review": {
+        "date": "2026-09-12",
+        "level": "source-review",
+        "sources": [
+          "https://github.com/datalab-to/marker",
+          "https://github.com/datalab-to/marker/blob/master/LICENSE",
+          "https://github.com/datalab-to/marker/blob/master/MODEL_LICENSE"
+        ],
+        "note": {
+          "en": "Official documentation and repository activity reviewed; default-branch commit observed on 2026-09-09. This is source review, not a functional or performance test. The open-source label refers to code, not model-weight terms.",
+          "zh": "已核对官方资料与仓库活动，观察到默认分支于 2026-09-09 有提交。此为来源核验，不是功能或性能实测。 开源标签对应代码，不概括模型权重条款。"
+        }
+      }
+    },
+    {
+      "id": "obsidian-web-clipper",
+      "name": {
+        "en": "Obsidian Web Clipper",
+        "zh": "Obsidian Web Clipper"
+      },
+      "url": "https://github.com/obsidianmd/obsidian-clipper",
+      "category": "to-markdown",
+      "parent": null,
+      "description": {
+        "en": "An official browser extension that saves web content and highlights as Markdown, with templates for repeatable clipping workflows.",
+        "zh": "官方浏览器剪藏扩展，将网页内容与高亮保存为 Markdown，并通过模板统一资料采集格式。"
+      },
+      "tags": [
+        "open-source"
+      ],
+      "links": [
+        {
+          "url": "https://obsidian.md/clipper",
+          "label": {
+            "en": "Website",
+            "zh": "官网"
+          }
+        }
+      ],
+      "status": "active",
+      "review": {
+        "date": "2026-09-12",
+        "level": "source-review",
+        "sources": [
+          "https://github.com/obsidianmd/obsidian-clipper",
+          "https://obsidian.md/clipper"
+        ],
+        "note": {
+          "en": "Official documentation and repository activity reviewed; default-branch commit observed on 2026-09-04. This is source review, not a functional or performance test.",
+          "zh": "已核对官方资料与仓库活动，观察到默认分支于 2026-09-04 有提交。此为来源核验，不是功能或性能实测。"
+        }
+      }
+    },
+    {
       "id": "md2card",
       "name": {
         "en": "MD2Card",
@@ -4894,6 +5362,87 @@
       }
     },
     {
+      "id": "prettier",
+      "name": {
+        "en": "Prettier",
+        "zh": "Prettier"
+      },
+      "url": "https://github.com/prettier/prettier",
+      "category": "checking-and-assistance",
+      "parent": null,
+      "description": {
+        "en": "Formats Markdown and MDX consistently across a project. Configure prose wrapping and review the diff; formatting does not verify content or links.",
+        "zh": "统一项目内 Markdown 与 MDX 的格式；可配置正文换行，执行后需检查差异，格式化不等于内容或链接核验。"
+      },
+      "tags": [
+        "open-source",
+        "nodejs",
+        "cli"
+      ],
+      "links": [
+        {
+          "url": "https://prettier.io/docs/options#prose-wrap",
+          "label": {
+            "en": "Documentation",
+            "zh": "文档"
+          }
+        }
+      ],
+      "status": "active",
+      "review": {
+        "date": "2026-09-12",
+        "level": "source-review",
+        "sources": [
+          "https://github.com/prettier/prettier",
+          "https://prettier.io/docs/options#prose-wrap"
+        ],
+        "note": {
+          "en": "Official documentation and repository activity reviewed; default-branch commit observed on 2026-09-12. This is source review, not a functional or performance test.",
+          "zh": "已核对官方资料与仓库活动，观察到默认分支于 2026-09-12 有提交。此为来源核验，不是功能或性能实测。"
+        }
+      }
+    },
+    {
+      "id": "lychee",
+      "name": {
+        "en": "lychee",
+        "zh": "lychee"
+      },
+      "url": "https://github.com/lycheeverse/lychee",
+      "category": "checking-and-assistance",
+      "parent": null,
+      "description": {
+        "en": "Checks links in Markdown, HTML and other inputs from the command line or CI. Access blocks and timeouts require review rather than automatic link removal.",
+        "zh": "在命令行或 CI 中检查 Markdown、HTML 等输入中的链接；访问受阻或超时需要人工判断，不能直接据此删链接。"
+      },
+      "tags": [
+        "open-source",
+        "cli"
+      ],
+      "links": [
+        {
+          "url": "https://lychee.cli.rs/",
+          "label": {
+            "en": "Website",
+            "zh": "官网"
+          }
+        }
+      ],
+      "status": "active",
+      "review": {
+        "date": "2026-09-12",
+        "level": "source-review",
+        "sources": [
+          "https://github.com/lycheeverse/lychee",
+          "https://lychee.cli.rs/"
+        ],
+        "note": {
+          "en": "Official documentation and repository activity reviewed; default-branch commit observed on 2026-09-07. This is source review, not a functional or performance test.",
+          "zh": "已核对官方资料与仓库活动，观察到默认分支于 2026-09-07 有提交。此为来源核验，不是功能或性能实测。"
+        }
+      }
+    },
+    {
       "id": "readmeai",
       "name": {
         "en": "ReadmeAI",
@@ -4986,6 +5535,46 @@
       }
     },
     {
+      "id": "mermaid",
+      "name": {
+        "en": "Mermaid",
+        "zh": "Mermaid"
+      },
+      "url": "https://github.com/mermaid-js/mermaid",
+      "category": "diagrams-and-math",
+      "parent": null,
+      "description": {
+        "en": "Generates flowcharts, sequence diagrams and other diagrams from text. Markdown hosts must integrate Mermaid to render its code fences as graphics.",
+        "zh": "通过文本生成流程图、时序图等图表；Markdown 所在工具需接入 Mermaid，才能把代码围栏渲染成图形。"
+      },
+      "tags": [
+        "open-source",
+        "javascript"
+      ],
+      "links": [
+        {
+          "url": "https://mermaid.js.org/",
+          "label": {
+            "en": "Website",
+            "zh": "官网"
+          }
+        }
+      ],
+      "status": "active",
+      "review": {
+        "date": "2026-09-12",
+        "level": "source-review",
+        "sources": [
+          "https://github.com/mermaid-js/mermaid",
+          "https://mermaid.js.org/"
+        ],
+        "note": {
+          "en": "Official documentation and repository activity reviewed; default-branch commit observed on 2026-09-10. This is source review, not a functional or performance test.",
+          "zh": "已核对官方资料与仓库活动，观察到默认分支于 2026-09-10 有提交。此为来源核验，不是功能或性能实测。"
+        }
+      }
+    },
+    {
       "id": "markdown",
       "name": {
         "en": "《了不起的 Markdown：大语言模型时代的通用语言》",
@@ -5012,6 +5601,45 @@
         "note": {
           "en": "Official page or repository metadata checked; not an application test.",
           "zh": "已检查官方页面或仓库元数据，未进行应用功能实测。"
+        }
+      }
+    },
+    {
+      "id": "markdown-guide",
+      "name": {
+        "en": "Markdown Guide",
+        "zh": "Markdown Guide"
+      },
+      "url": "https://github.com/mattcone/markdown-guide",
+      "category": "books",
+      "parent": null,
+      "description": {
+        "en": "A learning resource with getting-started material, basic and extended syntax, and a cheat sheet. Extension support still depends on the target tool.",
+        "zh": "提供入门教程、基础与扩展语法及速查表的学习资源；扩展语法是否可用仍取决于目标工具。"
+      },
+      "tags": [
+        "docs"
+      ],
+      "links": [
+        {
+          "url": "https://www.markdownguide.org/",
+          "label": {
+            "en": "Website",
+            "zh": "官网"
+          }
+        }
+      ],
+      "status": "active",
+      "review": {
+        "date": "2026-09-12",
+        "level": "source-review",
+        "sources": [
+          "https://github.com/mattcone/markdown-guide",
+          "https://www.markdownguide.org/"
+        ],
+        "note": {
+          "en": "Official documentation and repository activity reviewed; default-branch commit observed on 2026-07-21. This is source review, not a functional or performance test.",
+          "zh": "已核对官方资料与仓库活动，观察到默认分支于 2026-07-21 有提交。此为来源核验，不是功能或性能实测。"
         }
       }
     }
