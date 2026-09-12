@@ -1,5 +1,11 @@
 # Changelog / 更新记录
 
+## 2026-09-12
+
+- Added 16 resources covering MDX, developer components, document extraction, publishing, diagrams, formatting, link checks and learning. 新增 16 项资源，补齐开发、转换、出版与学习入口。
+- Added bilingual developer and document-conversion guides, with an original conversion fixture, acceptance checklist and blank scorecard. 新增双语开发者选型与文档转换指南，附原创共用样本、验收清单和空白记录表；未宣称完成转换器实测。
+- Broadened the books categories and retained their former anchors; added a diagrams and math category. 扩展书籍相关分类并保留旧锚点，新增图表与公式分类。
+
 ## 2026-09-08
 
 - English is now the default homepage, with a visible Chinese switch and the old English path retained. 英文作为首页，提供中文切换，保留旧英文入口及原中文分类锚点。

@@ -31,7 +31,7 @@ Markdown 工具全景导航，覆盖写作、知识管理、开发、协作、�
   - [便签与清单](#便签与清单)
 - [网站生成与排版](#网站生成与排版)
   - [静态网站](#静态网站)
-  - [电子书](#电子书)
+  - [书籍与技术出版](#书籍与技术出版)
   - [模板](#模板)
   - [公众号](#公众号)
 - [编码与开发工具](#编码与开发工具)
@@ -45,7 +45,8 @@ Markdown 工具全景导航，覆盖写作、知识管理、开发、协作、�
   - [命令行工具](#命令行工具)
   - [检查与辅助](#检查与辅助)
   - [AI 相关工具](#ai-相关工具)
-- [书籍](#书籍)
+  - [图表与公式](#图表与公式)
+- [学习资源](#学习资源)
 - [参与完善](#参与完善)
 - [更新](#更新)
 
@@ -61,9 +62,10 @@ Markdown 工具全景导航，覆盖写作、知识管理、开发、协作、�
 | 在应用中解析、编辑或渲染 Markdown | [开发组件](#开发组件)                                                                 |
 | 处理 AI 输出、提取文档与网页内容    | [AI 相关工具](#ai-相关工具) · [转成 Markdown](#转成-markdown)                             |
 | 转换文档格式、生成内容图片         | [转换工具](#转换工具) · [转成图片](#转成图片)                                                 |
-| 制作网站、电子书、幻灯片或公众号文章    | [静态网站](#静态网站) · [电子书](#电子书) · [幻灯片](#幻灯片) · [公众号](#公众号)                       |
+| 制作网站、电子书、幻灯片或公众号文章    | [静态网站](#静态网站) · [书籍与技术出版](#书籍与技术出版) · [幻灯片](#幻灯片) · [公众号](#公众号)               |
+| 渲染图表与公式               | [图表与公式](#图表与公式)                                                               |
 | 在终端阅读、查询和处理文档         | [命令行工具](#命令行工具)                                                               |
-| 查语法、找模板和学习资料          | [语法规范与扩展](#语法规范与扩展) · [模板](#模板) · [书籍](#书籍)                                   |
+| 查语法、找模板和学习资料          | [语法规范与扩展](#语法规范与扩展) · [模板](#模板) · [学习资源](#学习资源)                               |
 
 ## 如何选择
 
@@ -81,7 +83,7 @@ Markdown 原生文件、Markdown 输入快捷语法、Markdown 导入导出是�
 
 ## 通过实例做选择
 
-先看[场景选型指南](guides/choosing-tools.zh-CN.md)，再试试[同一份 Markdown 在三种解析配置中的差异](guides/markdown-compatibility.zh-CN.md)。示例提供输入、输出和可复现步骤。
+先看[场景选型指南](guides/choosing-tools.zh-CN.md)，再试试[同一份 Markdown 在三种解析配置中的差异](guides/markdown-compatibility.zh-CN.md)。示例提供输入、输出和可复现步骤。开发接入见[开发者选型](guides/markdown-for-developers.zh-CN.md)，文档提取见[文档转换比较](guides/document-to-markdown.zh-CN.md)。
 
 ## 语法规范与扩展
 
@@ -104,6 +106,9 @@ Markdown 原生文件、Markdown 输入快捷语法、Markdown 导入导出是�
 
 - [Quarkdown](https://github.com/iamgio/quarkdown) - 将函数、变量和脚本引入 Markdown 排版，可生成书籍、文章和演示文稿，适合需要程序化组织内容与布局的场景。<br>
   <span>`开源`</span>
+
+- [MDX](https://github.com/mdx-js/mdx) - 将 Markdown 与 JSX 组件结合，用于交互式文档。编译前确认内容可信，MDX 可以包含可执行 JavaScript。<br>
+  <span>`开源` · `JavaScript` · [官网](https://mdxjs.com/)</span>
 
 ## 写作与编辑环境
 
@@ -376,9 +381,18 @@ Markdown 原生文件、Markdown 输入快捷语法、Markdown 导入导出是�
 - [Docusaurus](https://github.com/facebook/docusaurus) - 基于 React 与 MDX 的文档网站生成器，提供版本管理、国际化和搜索，适合长期维护多个版本或语言的项目文档。<br>
   <span>`开源` · `React`</span>
 
-### 电子书
+- [Starlight](https://github.com/withastro/starlight) - 基于 Astro 的文档框架，支持 Markdown 与 MDX 页面，提供导航、搜索和多语言能力，适合产品及项目文档。<br>
+  <span>`开源` · `Node.js` · [官网](https://starlight.astro.build/)</span>
 
-本节同时收录书稿生成与阅读管理工具；需要出版文件时，先核对输出格式。
+- [Quartz](https://github.com/jackyzha0/quartz) - 将 Markdown 内容集合发布为带笔记关联导航的网站，适合数字花园与公开知识库；迁移前需检查笔记扩展语法。<br>
+  <span>`开源` · `Node.js` · [官网](https://quartz.jzhao.xyz/)</span>
+
+<a id="e-books"></a>
+<a id="电子书"></a>
+
+### 书籍与技术出版
+
+生成书籍与可复现报告，或管理阅读资料；先比较输出格式、引文和代码执行需求。
 
 - [mdBook](https://github.com/rust-lang/mdBook) - 通过命令行将 Markdown 章节生成在线书籍，集成搜索与代码高亮，适合技术教程和按章节阅读的文档。<br>
   <span>`开源` · `CLI`</span>
@@ -403,6 +417,9 @@ Markdown 原生文件、Markdown 输入快捷语法、Markdown 导入导出是�
 
 - [lue](https://github.com/paulilaaso/lue) - 在终端阅读 EPUB、PDF 与 Markdown 等文档，支持文本转语音和进度保存；Windows 通过 WSL 使用。<br>
   <span>`开源` · `CLI` · `macOS` · `Linux` · `Windows / WSL`</span>
+
+- [Quarto](https://github.com/quarto-dev/quarto-cli) - 将 Markdown 与可执行笔记本发布为报告、书籍、网站和演示文稿；不同输出格式与代码执行可能需要额外引擎或工具。<br>
+  <span>`CLI` · [官网](https://quarto.org/)</span>
 
 ### 模板
 
@@ -448,6 +465,9 @@ Markdown 原生文件、Markdown 输入快捷语法、Markdown 导入导出是�
 - [RStudio](https://github.com/rstudio/rstudio) - 面向 R 的开发环境，集成 R Markdown，可生成可复现的报告、幻灯片与网页，适合将分析过程与文字说明共同维护。<br>
   <span>`开源` · `macOS` · `Windows` · `Linux` · `R`</span>
 
+- [render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - 在 Neovim 缓冲区中改善 Markdown 的显示效果；需要兼容的 Neovim 环境及文档列出的解析依赖。<br>
+  <span>`开源`</span>
+
 ### 代码片段管理
 
 比较存储位置、分类方式以及代码与说明文字能否共同维护。
@@ -460,7 +480,7 @@ Markdown 原生文件、Markdown 输入快捷语法、Markdown 导入导出是�
 
 ### 开发组件
 
-先区分要接入的是编辑界面、Markdown 解析、HTML 转换还是流式渲染；它们承担不同环节。
+区分编辑器组件、解析与转换、渲染与展示三个环节，按任务选择的例子见[开发者指南](guides/markdown-for-developers.zh-CN.md)。
 
 - [Milkdown](https://github.com/Milkdown/milkdown) - 基于 ProseMirror 与 remark 的所见即所得 Markdown 编辑器，适合在应用中接入并扩展编辑体验。<br>
   <span>`开源` · `JavaScript`</span>
@@ -500,6 +520,15 @@ Markdown 原生文件、Markdown 输入快捷语法、Markdown 导入导出是�
 
 - [Markdown Here](https://github.com/adam-p/markdown-here) - 在 Chrome、Firefox 和 Thunderbird 等环境中，将输入的 Markdown 渲染为富文本，适合邮件与网页编辑场景。<br>
   <span>`开源`</span>
+
+- [remark](https://github.com/remarkjs/remark) - 通过语法树与插件检查、转换 Markdown，适合构建内容处理流程；本身不提供编辑界面。<br>
+  <span>`开源` · `JavaScript` · [官网](https://remark.js.org/)</span>
+
+- [react-markdown](https://github.com/remarkjs/react-markdown) - 将 Markdown 渲染为 React 组件，可定制元素并接入插件；GFM 与公式需配置相应扩展。<br>
+  <span>`开源` · `React`</span>
+
+- [Streamdown](https://github.com/vercel/streamdown) - 为 React AI 界面渲染流式 Markdown，处理尚未闭合的内容块；代码、公式与图表等能力按需配置插件。<br>
+  <span>`React` · [官网](https://streamdown.ai/)</span>
 
 ## 转换工具
 
@@ -548,6 +577,18 @@ Markdown 原生文件、Markdown 输入快捷语法、Markdown 导入导出是�
 - [html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - 基于 Go 将 HTML 结构转为 Markdown，适合在程序或批处理流程中转换网页内容。<br>
   <span>`开源` · `Go` · `CLI`</span>
 
+- [Docling](https://github.com/docling-project/docling) - 将 PDF、Office 文档解析为结构化内容并导出 Markdown；OCR、模型下载与运行资源取决于所选处理流程。<br>
+  <span>`开源` · `Python` · `CLI` · [官网](https://docling-project.github.io/docling/)</span>
+
+- [MinerU](https://github.com/opendatalab/MinerU) - 从复杂文档中提取文本、表格与公式，输出 Markdown 或 JSON；不同后端的运行要求不同，自定义许可证包含附加条件。<br>
+  <span>`Python` · `CLI` · [官网](https://mineru.net/)</span>
+
+- [Marker](https://github.com/datalab-to/marker) - 将 PDF 等文档转为 Markdown 或 JSON，可选用 LLM 辅助。代码与模型权重采用不同许可证，运行依赖取决于模式和硬件。<br>
+  <span>`开源` · `Python` · `CLI`</span>
+
+- [Obsidian Web Clipper](https://github.com/obsidianmd/obsidian-clipper) - 官方浏览器剪藏扩展，将网页内容与高亮保存为 Markdown，并通过模板统一资料采集格式。<br>
+  <span>`开源` · [官网](https://obsidian.md/clipper)</span>
+
 ### 转成图片
 
 单次制作关注排版预览，批量生成关注 API、部署方式与主题定制。
@@ -592,6 +633,12 @@ Markdown 原生文件、Markdown 输入快捷语法、Markdown 导入导出是�
 - [Marksman](https://github.com/artempyanykh/marksman) - 通过 LSP 为 Markdown 提供补全、跳转和 wiki 链接支持，适合为兼容 LSP 的编辑器增加文档导航能力。<br>
   <span>`开源`</span>
 
+- [Prettier](https://github.com/prettier/prettier) - 统一项目内 Markdown 与 MDX 的格式；可配置正文换行，执行后需检查差异，格式化不等于内容或链接核验。<br>
+  <span>`开源` · `Node.js` · `CLI` · [文档](https://prettier.io/docs/options#prose-wrap)</span>
+
+- [lychee](https://github.com/lycheeverse/lychee) - 在命令行或 CI 中检查 Markdown、HTML 等输入中的链接；访问受阻或超时需要人工判断，不能直接据此删链接。<br>
+  <span>`开源` · `CLI` · [官网](https://lychee.cli.rs/)</span>
+
 ### AI 相关工具
 
 区分内容生成与资料提取，并确认模型、API 或部署依赖。
@@ -605,12 +652,25 @@ Markdown 原生文件、Markdown 输入快捷语法、Markdown 导入导出是�
 - [ScrapeGraphAI](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - 基于 LLM 和图流程提取网页信息，可通过 Markdownify 将网页转为 Markdown，适合需要模型参与内容提取的流程。<br>
   <span>`开源` · `Python`</span>
 
-## 书籍
+### 图表与公式
 
-适合希望按章节学习 Markdown 与相关工作流的读者。
+这些能力需要渲染器接入；代码围栏标注语言，并不代表目标工具会生成图表。
+
+- [Mermaid](https://github.com/mermaid-js/mermaid) - 通过文本生成流程图、时序图等图表；Markdown 所在工具需接入 Mermaid，才能把代码围栏渲染成图形。<br>
+  <span>`开源` · `JavaScript` · [官网](https://mermaid.js.org/)</span>
+
+<a id="books"></a>
+<a id="书籍"></a>
+
+## 学习资源
+
+从语法参考入门，或按书籍章节学习 Markdown 工作流。
 
 - [《了不起的 Markdown：大语言模型时代的通用语言》](https://book.douban.com/subject/37478156/) - 介绍 Markdown 写作及其在大语言模型时代的应用，并涉及 Obsidian，适合希望通过中文书籍系统了解相关工作流的读者。<br>
   <span>`文档 / 教程`</span>
+
+- [Markdown Guide](https://github.com/mattcone/markdown-guide) - 提供入门教程、基础与扩展语法及速查表的学习资源；扩展语法是否可用仍取决于目标工具。<br>
+  <span>`文档 / 教程` · [官网](https://www.markdownguide.org/)</span>
 
 ## 参与完善
 

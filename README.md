@@ -30,7 +30,7 @@ Find editors, libraries, extensions, services, specifications and learning resou
   - [Notes and Task Lists](#notes-and-task-lists)
 - [Website Generation and Typesetting](#website-generation-and-typesetting)
   - [Static Site Generators](#static-site-generators)
-  - [E-books](#e-books)
+  - [Books and Technical Publishing](#books-and-technical-publishing)
   - [Templates](#templates)
   - [WeChat Official Account](#wechat-official-account)
 - [Coding and Development Tools](#coding-and-development-tools)
@@ -44,24 +44,26 @@ Find editors, libraries, extensions, services, specifications and learning resou
   - [Command-line Tools](#command-line-tools)
   - [Checking and Assistance](#checking-and-assistance)
   - [AI-related Tools](#ai-related-tools)
-- [Books](#books)
+  - [Diagrams and Math](#diagrams-and-math)
+- [Learning Resources](#learning-resources)
 - [Updates](#updates)
 
 <!-- lint enable awesome-list-item -->
 
 ## Find a tool for your task
 
-| Your task                                    | Browse                                                                                                                                                                  |
-| -------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Write and manage knowledge                   | [Dedicated Markdown Editors](#dedicated-markdown-editors) · [Notes and Knowledge Management](#notes-and-knowledge-management) · [Long-form Writing](#long-form-writing) |
-| Collaborate, map ideas and manage tasks      | [Document Collaboration](#document-collaboration) · [Mind Mapping](#mind-mapping) · [Notes and Task Lists](#notes-and-task-lists)                                       |
-| Maintain READMEs and technical documentation | [Programming Tools](#programming-tools) · [Checking and Assistance](#checking-and-assistance)                                                                           |
-| Build a Markdown editor or renderer          | [Development Components](#development-components)                                                                                                                       |
-| Handle AI output and extract source material | [AI-related Tools](#ai-related-tools) · [To Markdown](#to-markdown)                                                                                                     |
-| Convert files or create images               | [Conversion Tools](#conversion-tools) · [Image Generation](#image-generation)                                                                                           |
-| Publish a site, book or presentation         | [Static Site Generators](#static-site-generators) · [E-books](#e-books) · [Presentation](#presentation) · [WeChat Official Account](#wechat-official-account)           |
-| Work in the terminal                         | [Command-line Tools](#command-line-tools)                                                                                                                               |
-| Learn syntax and find templates              | [Syntax Specifications and Extensions](#syntax-specifications-and-extensions) · [Templates](#templates) · [Books](#books)                                               |
+| Your task                                    | Browse                                                                                                                                                                                                      |
+| -------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Write and manage knowledge                   | [Dedicated Markdown Editors](#dedicated-markdown-editors) · [Notes and Knowledge Management](#notes-and-knowledge-management) · [Long-form Writing](#long-form-writing)                                     |
+| Collaborate, map ideas and manage tasks      | [Document Collaboration](#document-collaboration) · [Mind Mapping](#mind-mapping) · [Notes and Task Lists](#notes-and-task-lists)                                                                           |
+| Maintain READMEs and technical documentation | [Programming Tools](#programming-tools) · [Checking and Assistance](#checking-and-assistance)                                                                                                               |
+| Build a Markdown editor or renderer          | [Development Components](#development-components)                                                                                                                                                           |
+| Handle AI output and extract source material | [AI-related Tools](#ai-related-tools) · [To Markdown](#to-markdown)                                                                                                                                         |
+| Convert files or create images               | [Conversion Tools](#conversion-tools) · [Image Generation](#image-generation)                                                                                                                               |
+| Publish a site, book or presentation         | [Static Site Generators](#static-site-generators) · [Books and Technical Publishing](#books-and-technical-publishing) · [Presentation](#presentation) · [WeChat Official Account](#wechat-official-account) |
+| Render diagrams and math                     | [Diagrams and Math](#diagrams-and-math)                                                                                                                                                                     |
+| Work in the terminal                         | [Command-line Tools](#command-line-tools)                                                                                                                                                                   |
+| Learn syntax and find templates              | [Syntax Specifications and Extensions](#syntax-specifications-and-extensions) · [Templates](#templates) · [Learning Resources](#learning-resources)                                                         |
 
 <a id="图标说明"></a>
 <a id="平台支持"></a>
@@ -83,7 +85,7 @@ Descriptions are based on source material, not a claim that every app has been t
 
 ## Choose with an example
 
-Start with the [scenario selection guide](guides/choosing-tools.md), then try [one Markdown file in three parser configurations](guides/markdown-compatibility.md). The example includes reproducible input, output and limitations.
+Start with the [scenario selection guide](guides/choosing-tools.md), then try [one Markdown file in three parser configurations](guides/markdown-compatibility.md). The example includes reproducible input, output and limitations. For implementation choices, see the [developer guide](guides/markdown-for-developers.md); for file extraction, see the [document conversion guide](guides/document-to-markdown.md).
 
 <a id="语法规范与扩展"></a>
 
@@ -108,6 +110,9 @@ Check the syntax specification used by the target tool. Extensions may render di
 
 - [Quarkdown](https://github.com/iamgio/quarkdown) - Adds functions, variables and scripting to Markdown typesetting to produce books, articles and presentations with programmable layouts.<br>
   <span>`Open source`</span>
+
+- [MDX](https://github.com/mdx-js/mdx) - Combines Markdown with JSX components for interactive documentation. Compile trusted content; MDX can contain executable JavaScript.<br>
+  <span>`Open source` · `JavaScript` · [Website](https://mdxjs.com/)</span>
 
 <a id="写作与编辑环境"></a>
 
@@ -402,11 +407,20 @@ Includes static builders and browser-loaded documentation tools. Choose by build
 - [Docusaurus](https://github.com/facebook/docusaurus) - A React- and MDX-based documentation generator with versioning, internationalization and search.<br>
   <span>`Open source` · `React`</span>
 
+- [Starlight](https://github.com/withastro/starlight) - An Astro-based documentation framework with Markdown and MDX pages, navigation, search and internationalization for product and project documentation.<br>
+  <span>`Open source` · `Node.js` · [Website](https://starlight.astro.build/)</span>
+
+- [Quartz](https://github.com/jackyzha0/quartz) - Publishes Markdown collections as websites with linked-note navigation, useful for digital gardens and public knowledge bases. Check note extensions before migration.<br>
+  <span>`Open source` · `Node.js` · [Website](https://quartz.jzhao.xyz/)</span>
+
+<a id="书籍与技术出版"></a>
+
+<a id="e-books"></a>
 <a id="电子书"></a>
 
-### E-books
+### Books and Technical Publishing
 
-Includes book builders and reading managers. Check output formats when you need a publication file.
+Build books and reproducible reports, or manage reading. Compare output formats, citations and code execution requirements.
 
 - [mdBook](https://github.com/rust-lang/mdBook) - Builds searchable online books from Markdown chapters, with code highlighting for tutorials and technical documentation.<br>
   <span>`Open source` · `CLI`</span>
@@ -431,6 +445,9 @@ Includes book builders and reading managers. Check output formats when you need 
 
 - [lue](https://github.com/paulilaaso/lue) - A terminal reader for EPUB, PDF, Markdown and other documents with text-to-speech and saved progress. Windows use is through WSL.<br>
   <span>`Open source` · `CLI` · `macOS` · `Linux` · `Windows via WSL`</span>
+
+- [Quarto](https://github.com/quarto-dev/quarto-cli) - Publishes Markdown and executable notebooks as reports, books, websites and presentations. Output formats and code execution may require additional engines or tools.<br>
+  <span>`CLI` · [Website](https://quarto.org/)</span>
 
 <a id="模板"></a>
 
@@ -484,6 +501,9 @@ Standalone development environments and extensions are listed separately. Start 
 - [RStudio](https://github.com/rstudio/rstudio) - An R development environment with R Markdown integration for reproducible reports, slides and web documents.<br>
   <span>`Open source` · `macOS` · `Windows` · `Linux` · `R`</span>
 
+- [render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Improves Markdown display inside Neovim with in-buffer rendering. Requires a compatible Neovim setup and the documented parser dependencies.<br>
+  <span>`Open source`</span>
+
 <a id="代码片段管理"></a>
 
 ### Code Snippet Management
@@ -500,7 +520,7 @@ Compare storage, organization and the ability to keep explanations beside code.
 
 ### Development Components
 
-Identify the needed layer: editing interface, Markdown parsing, HTML conversion or streaming rendering.
+Identify the needed layer: editing interface, parsing and conversion, or rendering and display. See the [developer guide](guides/markdown-for-developers.md) for task-based choices.
 
 - [Milkdown](https://github.com/Milkdown/milkdown) - A ProseMirror- and remark-based WYSIWYG Markdown editor framework for building an extensible editing interface.<br>
   <span>`Open source` · `JavaScript`</span>
@@ -540,6 +560,15 @@ Identify the needed layer: editing interface, Markdown parsing, HTML conversion 
 
 - [Markdown Here](https://github.com/adam-p/markdown-here) - A browser and Thunderbird extension that renders Markdown as rich text for email and web editors.<br>
   <span>`Open source`</span>
+
+- [remark](https://github.com/remarkjs/remark) - Processes Markdown as a syntax tree with plugins for inspection and transformation. It is a content-processing pipeline, not an editing interface.<br>
+  <span>`Open source` · `JavaScript` · [Website](https://remark.js.org/)</span>
+
+- [react-markdown](https://github.com/remarkjs/react-markdown) - Renders Markdown as React components with configurable elements and plugins. GFM and math require the corresponding extensions.<br>
+  <span>`Open source` · `React`</span>
+
+- [Streamdown](https://github.com/vercel/streamdown) - Renders streaming Markdown for React-based AI interfaces, including unfinished blocks. Configure optional code, math and diagram plugins for the features you need.<br>
+  <span>`React` · [Website](https://streamdown.ai/)</span>
 
 <a id="转换工具"></a>
 
@@ -591,6 +620,18 @@ Choose by input format and execution environment; check headings, tables, images
 
 - [html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - A Go library and CLI for converting HTML to Markdown with customizable rules.<br>
   <span>`Open source` · `Go` · `CLI`</span>
+
+- [Docling](https://github.com/docling-project/docling) - Parses PDF and Office documents into structured content and exports Markdown. OCR, model downloads and resource needs depend on the selected pipeline.<br>
+  <span>`Open source` · `Python` · `CLI` · [Website](https://docling-project.github.io/docling/)</span>
+
+- [MinerU](https://github.com/opendatalab/MinerU) - Extracts text, tables and formulas from complex documents into Markdown or JSON. Backend requirements vary; its custom license includes additional conditions.<br>
+  <span>`Python` · `CLI` · [Website](https://mineru.net/)</span>
+
+- [Marker](https://github.com/datalab-to/marker) - Converts PDF and other documents into Markdown or JSON, with optional LLM assistance. Code and model weights use separate licenses; runtime requirements depend on mode and hardware.<br>
+  <span>`Open source` · `Python` · `CLI`</span>
+
+- [Obsidian Web Clipper](https://github.com/obsidianmd/obsidian-clipper) - An official browser extension that saves web content and highlights as Markdown, with templates for repeatable clipping workflows.<br>
+  <span>`Open source` · [Website](https://obsidian.md/clipper)</span>
 
 <a id="转成图片"></a>
 
@@ -644,6 +685,12 @@ Formatting checks, natural-language rules and editor navigation solve different 
 - [Marksman](https://github.com/artempyanykh/marksman) - An LSP server providing Markdown completion, navigation and wiki-link support for compatible editors.<br>
   <span>`Open source`</span>
 
+- [Prettier](https://github.com/prettier/prettier) - Formats Markdown and MDX consistently across a project. Configure prose wrapping and review the diff; formatting does not verify content or links.<br>
+  <span>`Open source` · `Node.js` · `CLI` · [Documentation](https://prettier.io/docs/options#prose-wrap)</span>
+
+- [lychee](https://github.com/lycheeverse/lychee) - Checks links in Markdown, HTML and other inputs from the command line or CI. Access blocks and timeouts require review rather than automatic link removal.<br>
+  <span>`Open source` · `CLI` · [Website](https://lychee.cli.rs/)</span>
+
 <a id="ai-相关工具"></a>
 
 ### AI-related Tools
@@ -659,14 +706,29 @@ Distinguish content generation from extraction, and check model, API and deploym
 - [ScrapeGraphAI](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - A Python library using LLMs and graph-based extraction pipelines to turn web and document content into structured outputs.<br>
   <span>`Open source` · `Python`</span>
 
+<a id="图表与公式"></a>
+
+### Diagrams and Math
+
+These tools need renderer integration; a language-tagged code fence alone does not create a diagram.
+
+- [Mermaid](https://github.com/mermaid-js/mermaid) - Generates flowcharts, sequence diagrams and other diagrams from text. Markdown hosts must integrate Mermaid to render its code fences as graphics.<br>
+  <span>`Open source` · `JavaScript` · [Website](https://mermaid.js.org/)</span>
+
+<a id="学习资源"></a>
+
+<a id="books"></a>
 <a id="书籍"></a>
 
-## Books
+## Learning Resources
 
-For readers who prefer a chapter-based introduction to Markdown and related workflows.
+Start with a syntax reference or follow a book-length introduction to Markdown workflows.
 
 - [《了不起的 Markdown：大语言模型时代的通用语言》](https://book.douban.com/subject/37478156/) - A Chinese-language guide to Markdown writing, Obsidian and language-model-assisted workflows.<br>
   <span>`Documentation`</span>
+
+- [Markdown Guide](https://github.com/mattcone/markdown-guide) - A learning resource with getting-started material, basic and extended syntax, and a cheat sheet. Extension support still depends on the target tool.<br>
+  <span>`Documentation` · [Website](https://www.markdownguide.org/)</span>
 
 ## Contributing
 

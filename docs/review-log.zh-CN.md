@@ -12,6 +12,7 @@
 | Pandoc's Markdown | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://pandoc.org/MANUAL.html#pandocs-markdown) |
 | R Markdown | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/rstudio/rmarkdown) |
 | Quarkdown | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/iamgio/quarkdown) |
+| MDX | 2026-09-12 | 专项来源核对 | 已核对官方资料与仓库活动，观察到默认分支于 2026-07-05 有提交。此为来源核验，不是功能或性能实测。 | [1](https://github.com/mdx-js/mdx) [2](https://mdxjs.com/) [3](https://mdxjs.com/packages/mdx/#security) |
 | Typora | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://typora.io/) |
 | Typora Plugin | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/obgnail/typora_plugin) |
 | VLOOK | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/MadMaxChow/VLOOK) |
@@ -93,6 +94,8 @@
 | Hexo | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/hexojs/hexo) |
 | Pelican | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/getpelican/pelican) |
 | Docusaurus | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/facebook/docusaurus) |
+| Starlight | 2026-09-12 | 专项来源核对 | 已核对官方资料与仓库活动，观察到默认分支于 2026-09-08 有提交。此为来源核验，不是功能或性能实测。 | [1](https://github.com/withastro/starlight) [2](https://starlight.astro.build/) |
+| Quartz | 2026-09-12 | 专项来源核对 | 已核对官方资料与仓库活动，观察到默认分支于 2026-09-06 有提交。此为来源核验，不是功能或性能实测。 | [1](https://github.com/jackyzha0/quartz) [2](https://quartz.jzhao.xyz/) |
 | mdBook | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/rust-lang/mdBook) |
 | HonKit | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/honkit/honkit) |
 | GitBook | 2026-09-08 | 专项来源核对 | 已就所述能力或修正核对列出的来源，未进行应用功能实测。 | [1](https://github.com/GitbookIO/gitbook) |
@@ -101,6 +104,7 @@
 | Koodo Reader | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/koodo-reader/koodo-reader) |
 | calibre | 2026-09-08 | 专项来源核对 | 已核对官方转换手册与桌面端下载；未执行样本转换或输出保真度实测。 | [1](https://github.com/kovidgoyal/calibre) [2](https://manual.calibre-ebook.com/generated/en/ebook-convert.html#txt-input-options) [3](https://calibre-ebook.com/download) |
 | lue | 2026-09-08 | 专项来源核对 | 已就所述能力或修正核对列出的来源，未进行应用功能实测。 | [1](https://github.com/paulilaaso/lue) |
+| Quarto | 2026-09-12 | 专项来源核对 | 已核对官方资料与仓库活动，观察到默认分支于 2026-09-11 有提交。此为来源核验，不是功能或性能实测。 | [1](https://github.com/quarto-dev/quarto-cli) [2](https://quarto.org/) |
 | LapisCV | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/BingyanStudio/LapisCV) |
 | WeChat Markdown Editor(md) | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/doocs/md) |
 | Markdown Nice | 2026-09-08 | 专项来源核对 | 官方产品页确认 Markdown 写作、主题与复制粘贴到公众号的流程；未进行发布或应用实测。 | [1](https://product.mdnice.com/) |
@@ -111,6 +115,7 @@
 | Trae | 2026-09-08 | 专项来源核对 | 已核对官方 SOLO 文档与下载平台；未实测高级预览和扩展兼容性。 | [1](https://docs.trae.cn/ide_tool-panel) [2](https://www.trae.cn/download) |
 | Cursor | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://cursor.com/) |
 | RStudio | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/rstudio/rstudio) |
+| render-markdown.nvim | 2026-09-12 | 专项来源核对 | 已核对官方资料与仓库活动，观察到默认分支于 2026-08-11 有提交。此为来源核验，不是功能或性能实测。 | [1](https://github.com/MeanderingProgrammer/render-markdown.nvim) |
 | massCode | 2026-09-08 | 专项来源核对 | 已就所述能力或修正核对列出的来源，未进行应用功能实测。 | [1](https://github.com/massCodeIO/massCode) |
 | Lepton | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/hackjutsu/Lepton) |
 | Milkdown | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/Milkdown/milkdown) |
@@ -126,6 +131,9 @@
 | Markstream | 2026-09-08 | 专项来源核对 | 已就所述能力或修正核对列出的来源，未进行应用功能实测。 | [1](https://github.com/Simon-He95/markstream-vue) |
 | Editor.md | 2026-09-08 | 专项来源核对 | 已就所述能力或修正核对列出的来源，未进行应用功能实测。 | [1](https://github.com/pandao/editor.md) |
 | Markdown Here | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/adam-p/markdown-here) |
+| remark | 2026-09-12 | 专项来源核对 | 已核对官方资料与仓库活动，观察到默认分支于 2026-09-01 有提交。此为来源核验，不是功能或性能实测。 | [1](https://github.com/remarkjs/remark) [2](https://remark.js.org/) |
+| react-markdown | 2026-09-12 | 专项来源核对 | 已核对官方资料与仓库活动，观察到默认分支于 2026-09-01 有提交。此为来源核验，不是功能或性能实测。 | [1](https://github.com/remarkjs/react-markdown) |
+| Streamdown | 2026-09-12 | 专项来源核对 | 已核对官方资料与仓库活动，观察到默认分支于 2026-09-10 有提交。此为来源核验，不是功能或性能实测。 | [1](https://github.com/vercel/streamdown) [2](https://streamdown.ai/) |
 | pandoc | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/jgm/pandoc) |
 | Eisvogel | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/Wandmalfarbe/pandoc-latex-template) |
 | patat | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/jaspervdj/patat) |
@@ -139,6 +147,10 @@
 | Trafilatura | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/adbar/trafilatura) |
 | Zotero Better Notes | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/windingwind/zotero-better-notes) |
 | html-to-markdown | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/JohannesKaufmann/html-to-markdown) |
+| Docling | 2026-09-12 | 专项来源核对 | 已核对官方资料与仓库活动，观察到默认分支于 2026-09-11 有提交。此为来源核验，不是功能或性能实测。 | [1](https://github.com/docling-project/docling) [2](https://docling-project.github.io/docling/) |
+| MinerU | 2026-09-12 | 专项来源核对 | 已核对官方资料与仓库活动，观察到默认分支于 2026-08-14 有提交。此为来源核验，不是功能或性能实测。 使用自定义许可证，未添加无条件的开源标签。 | [1](https://github.com/opendatalab/MinerU) [2](https://mineru.net/) [3](https://github.com/opendatalab/MinerU/blob/master/LICENSE.md) |
+| Marker | 2026-09-12 | 专项来源核对 | 已核对官方资料与仓库活动，观察到默认分支于 2026-09-09 有提交。此为来源核验，不是功能或性能实测。 开源标签对应代码，不概括模型权重条款。 | [1](https://github.com/datalab-to/marker) [2](https://github.com/datalab-to/marker/blob/master/LICENSE) [3](https://github.com/datalab-to/marker/blob/master/MODEL_LICENSE) |
+| Obsidian Web Clipper | 2026-09-12 | 专项来源核对 | 已核对官方资料与仓库活动，观察到默认分支于 2026-09-04 有提交。此为来源核验，不是功能或性能实测。 | [1](https://github.com/obsidianmd/obsidian-clipper) [2](https://obsidian.md/clipper) |
 | MD2Card | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://md2card.com/zh) |
 | Markdown To Image | 2026-09-08 | 专项来源核对 | 已就所述能力或修正核对列出的来源，未进行应用功能实测。 | [1](https://github.com/gcui-art/markdown-to-image) |
 | Markdown To Image Serve | 2026-09-08 | 专项来源核对 | 已就所述能力或修正核对列出的来源，未进行应用功能实测。 | [1](https://github.com/wxingheng/markdown-to-image-serve) |
@@ -149,7 +161,11 @@
 | markdownlint | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/DavidAnson/markdownlint) |
 | textlint | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/textlint/textlint) |
 | Marksman | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/artempyanykh/marksman) |
+| Prettier | 2026-09-12 | 专项来源核对 | 已核对官方资料与仓库活动，观察到默认分支于 2026-09-12 有提交。此为来源核验，不是功能或性能实测。 | [1](https://github.com/prettier/prettier) [2](https://prettier.io/docs/options#prose-wrap) |
+| lychee | 2026-09-12 | 专项来源核对 | 已核对官方资料与仓库活动，观察到默认分支于 2026-09-07 有提交。此为来源核验，不是功能或性能实测。 | [1](https://github.com/lycheeverse/lychee) [2](https://lychee.cli.rs/) |
 | ReadmeAI | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/eli64s/readme-ai) |
 | Firecrawl | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/firecrawl/firecrawl) |
 | ScrapeGraphAI | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/ScrapeGraphAI/Scrapegraph-ai) |
+| Mermaid | 2026-09-12 | 专项来源核对 | 已核对官方资料与仓库活动，观察到默认分支于 2026-09-10 有提交。此为来源核验，不是功能或性能实测。 | [1](https://github.com/mermaid-js/mermaid) [2](https://mermaid.js.org/) |
 | 《了不起的 Markdown：大语言模型时代的通用语言》 | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://book.douban.com/subject/37478156/) |
+| Markdown Guide | 2026-09-12 | 专项来源核对 | 已核对官方资料与仓库活动，观察到默认分支于 2026-07-21 有提交。此为来源核验，不是功能或性能实测。 | [1](https://github.com/mattcone/markdown-guide) [2](https://www.markdownguide.org/) |
