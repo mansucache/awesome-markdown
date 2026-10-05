@@ -1366,6 +1366,40 @@
       }
     },
     {
+      "id": "markdific",
+      "name": {
+        "en": "Markdific",
+        "zh": "Markdific"
+      },
+      "url": "https://markdific.com/",
+      "category": "dedicated-markdown-editors",
+      "parent": null,
+      "description": {
+        "en": "Opens .md files as formatted documents, with WYSIWYG editing, a source view with live preview, tabs, an outline sidebar and PDF, Word and HTML export. Viewing is free; editing, saving and export need a paid licence after a 14-day trial.",
+        "zh": "将 .md 文件作为排版文档打开，支持所见即所得编辑、源码与实时预览分栏、标签页、大纲侧栏，以及导出 PDF、Word 和 HTML。查看免费；编辑、保存和导出在 14 天试用后需要付费许可证。"
+      },
+      "tags": [
+        "macos",
+        "windows",
+        "linux",
+        "free-tier"
+      ],
+      "links": [],
+      "status": "active",
+      "review": {
+        "date": "2026-10-05",
+        "level": "source-review",
+        "sources": [
+          "https://markdific.com/",
+          "https://markdific.com/pricing/"
+        ],
+        "note": {
+          "en": "Reviewed the cited source for the stated capability or correction; application behavior was not tested. Submitted by the product's publisher.",
+          "zh": "已就所述能力或修正核对列出的来源，未进行应用功能实测。由产品发布方提交。"
+        }
+      }
+    },
+    {
       "id": "persona",
       "name": {
         "en": "Persona",
