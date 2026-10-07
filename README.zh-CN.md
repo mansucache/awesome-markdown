@@ -187,7 +187,7 @@ Markdown 原生文件、Markdown 输入快捷语法、Markdown 导入导出是�
 - [Windows 记事本](https://blogs.windows.com/windows-insider/2025/05/30/text-formatting-in-notepad-begin-rolling-out-to-windows-insiders/) - Windows 11 新版记事本支持基础 Markdown 格式及源码视图切换，适合轻量记录与简单编辑。<br>
   <span>`Windows`</span>
 
-- [Markdific](https://markdific.com/) - 将 .md 文件作为排版文档打开，支持所见即所得编辑、源码与实时预览分栏、标签页、大纲侧栏，以及导出 PDF、Word 和 HTML。查看免费；编辑、保存和导出在 14 天试用后需要付费许可证。<br>
+- [Markdific](https://markdific.com/) - 直接打开 .md 文件，支持所见即所得编辑、源码与实时预览，以及 Word、HTML 导出；PDF 导出限 macOS 和 Windows。阅读免费，编辑、保存与导出在 14 天试用后需一次性购买许可证。<br>
   <span>`macOS` · `Windows` · `Linux` · `提供免费方案`</span>
 
 ### 笔记与知识管理软件

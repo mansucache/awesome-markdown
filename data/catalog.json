@@ -1375,8 +1375,8 @@
       "category": "dedicated-markdown-editors",
       "parent": null,
       "description": {
-        "en": "Opens .md files as formatted documents, with WYSIWYG editing, a source view with live preview, tabs, an outline sidebar and PDF, Word and HTML export. Viewing is free; editing, saving and export need a paid licence after a 14-day trial.",
-        "zh": "将 .md 文件作为排版文档打开，支持所见即所得编辑、源码与实时预览分栏、标签页、大纲侧栏，以及导出 PDF、Word 和 HTML。查看免费；编辑、保存和导出在 14 天试用后需要付费许可证。"
+        "en": "Opens .md files directly, with WYSIWYG editing, a source view with live preview, and Word and HTML export; PDF export is limited to macOS and Windows. Reading is free; editing, saving and export require a one-time licence purchase after a 14-day trial.",
+        "zh": "直接打开 .md 文件，支持所见即所得编辑、源码与实时预览，以及 Word、HTML 导出；PDF 导出限 macOS 和 Windows。阅读免费，编辑、保存与导出在 14 天试用后需一次性购买许可证。"
       },
       "tags": [
         "macos",
@@ -1387,15 +1387,15 @@
       "links": [],
       "status": "active",
       "review": {
-        "date": "2026-10-05",
+        "date": "2026-10-07",
         "level": "source-review",
         "sources": [
           "https://markdific.com/",
           "https://markdific.com/pricing/"
         ],
         "note": {
-          "en": "Reviewed the cited source for the stated capability or correction; application behavior was not tested. Submitted by the product's publisher.",
-          "zh": "已就所述能力或修正核对列出的来源，未进行应用功能实测。由产品发布方提交。"
+          "en": "Reviewed the official feature and pricing pages for editing modes, free reading, paid editing/export and the macOS/Windows PDF export limit; no application test. Submitted by the product developer.",
+          "zh": "核对官方功能与定价页面中的编辑模式、免费阅读、付费编辑导出及 PDF 导出限 macOS/Windows 的说明，未进行应用实测。由产品开发者提交。"
         }
       }
     },

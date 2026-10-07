@@ -195,7 +195,7 @@ Choose source editing, WYSIWYG or a separate previewer first; then compare docum
 - [Windows Notepad](https://blogs.windows.com/windows-insider/2025/05/30/text-formatting-in-notepad-begin-rolling-out-to-windows-insiders/) - Supports basic Markdown formatting and switching between formatted and syntax views in newer Windows 11 versions, for quick notes and simple editing.<br>
   <span>`Windows`</span>
 
-- [Markdific](https://markdific.com/) - Opens .md files as formatted documents, with WYSIWYG editing, a source view with live preview, tabs, an outline sidebar and PDF, Word and HTML export. Viewing is free; editing, saving and export need a paid licence after a 14-day trial.<br>
+- [Markdific](https://markdific.com/) - Opens .md files directly, with WYSIWYG editing, a source view with live preview, and Word and HTML export; PDF export is limited to macOS and Windows. Reading is free; editing, saving and export require a one-time licence purchase after a 14-day trial.<br>
   <span>`macOS` · `Windows` · `Linux` · `Free option`</span>
 
 <a id="笔记与知识管理软件"></a>
