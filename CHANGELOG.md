@@ -1,5 +1,9 @@
 # Changelog / 更新记录
 
+## 2026-10-08
+
+- Added MacMD Viewer to both catalogs, with its read-only scope, PDF pagination boundary and direct-purchase terms. 双语清单新增 MacMD Viewer，注明只读定位、PDF 分页边界及官网直购条件。
+
 ## 2026-10-07
 
 - Added Markdific with free/paid boundaries and its PDF export platform limit; introduced the illustrated bilingual homepage banner. 新增 Markdific，注明免费与付费边界及 PDF 导出平台限制；加入双语首页横幅。

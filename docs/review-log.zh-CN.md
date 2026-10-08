@@ -36,6 +36,7 @@
 | Ghostwriter | 2026-09-08 | 专项来源核对 | 已就所述能力或修正核对列出的来源，未进行应用功能实测。 | [1](https://github.com/KDE/ghostwriter) |
 | Windows 记事本 | 2026-09-16 | 专项来源核对 | 核对官方格式功能公告中的标题、列表、链接、粗体、斜体与源码视图；公告记录 Insider 推送，不据此宣称所有 Windows 版本均支持，未进行应用实测。 | [1](https://blogs.windows.com/windows-insider/2025/05/30/text-formatting-in-notepad-begin-rolling-out-to-windows-insiders/) |
 | Markdific | 2026-10-07 | 专项来源核对 | 核对官方功能与定价页面中的编辑模式、免费阅读、付费编辑导出及 PDF 导出限 macOS/Windows 的说明，未进行应用实测。由产品开发者提交。 | [1](https://markdific.com/) [2](https://markdific.com/pricing/) |
+| MacMD Viewer | 2026-10-08 | 专项来源核对 | 核对官网首页、功能与定价页面中的只读定位、Mermaid、快速查看、自动刷新、连续长页 PDF 与打印分页的区别、macOS 14 及以上要求和官网直购条件，未进行应用实测。由产品开发者提交。引用页面未明确说明数学公式渲染和源码开放情况，因此未保留相关断言。 | [1](https://macmdviewer.com/) [2](https://macmdviewer.com/features) [3](https://macmdviewer.com/pricing) |
 | Persona | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/jayamitkatariya/personacli) |
 | Obsidian | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://obsidian.md/) |
 | Notion | 2026-09-08 | 专项来源核对 | 已就所述能力或修正核对列出的来源，未进行应用功能实测。 | [1](https://www.notion.com/zh-cn/help/notion-for-desktop) [2](https://www.notion.com/help/writing-and-editing-basics) |

@@ -196,6 +196,9 @@ Choose source editing, WYSIWYG or a separate previewer first; then compare docum
 - [Markdific](https://markdific.com/) - Opens .md files directly, with WYSIWYG editing, a source view with live preview, and Word and HTML export; PDF export is limited to macOS and Windows. Reading is free; editing, saving and export require a one-time licence purchase after a 14-day trial.<br>
   <span>`macOS` · `Windows` · `Linux` · `Free option`</span>
 
+- [MacMD Viewer](https://macmdviewer.com) - A read-only viewer for macOS 14+ with Mermaid, syntax highlighting, Finder Quick Look and live reload alongside an external editor. PDF export produces one continuous page; use Print for paper-sized pages. Direct purchase is $19.99 once for one active Mac, with no free trial.<br>
+  <span>`macOS`</span>
+
 <a id="笔记与知识管理软件"></a>
 
 ### Notes and Knowledge Management

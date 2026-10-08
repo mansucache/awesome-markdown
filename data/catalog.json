@@ -1338,6 +1338,38 @@
       }
     },
     {
+      "id": "macmd-viewer",
+      "name": {
+        "en": "MacMD Viewer",
+        "zh": "MacMD Viewer"
+      },
+      "url": "https://macmdviewer.com",
+      "category": "dedicated-markdown-editors",
+      "parent": null,
+      "description": {
+        "en": "A read-only viewer for macOS 14+ with Mermaid, syntax highlighting, Finder Quick Look and live reload alongside an external editor. PDF export produces one continuous page; use Print for paper-sized pages. Direct purchase is $19.99 once for one active Mac, with no free trial.",
+        "zh": "面向 macOS 14 及以上的只读查看器，支持 Mermaid、代码高亮、Finder 快速查看和文件变更自动刷新，可搭配现有编辑器使用。PDF 导出为连续长页，分页需使用打印功能。官网直购一次性付费 19.99 美元，限一台 Mac 同时使用，无免费试用。"
+      },
+      "tags": [
+        "macos"
+      ],
+      "links": [],
+      "status": "active",
+      "review": {
+        "date": "2026-10-08",
+        "level": "source-review",
+        "sources": [
+          "https://macmdviewer.com/",
+          "https://macmdviewer.com/features",
+          "https://macmdviewer.com/pricing"
+        ],
+        "note": {
+          "en": "Reviewed the official homepage, feature and pricing pages for read-only viewing, Mermaid, Quick Look, live reload, continuous-page PDF export versus Print, macOS 14+ and direct-purchase terms; no application test. Submitted by the product developer. Math rendering and closed-source claims were omitted because the cited pages do not establish them.",
+          "zh": "核对官网首页、功能与定价页面中的只读定位、Mermaid、快速查看、自动刷新、连续长页 PDF 与打印分页的区别、macOS 14 及以上要求和官网直购条件，未进行应用实测。由产品开发者提交。引用页面未明确说明数学公式渲染和源码开放情况，因此未保留相关断言。"
+        }
+      }
+    },
+    {
       "id": "persona",
       "name": {
         "en": "Persona",
