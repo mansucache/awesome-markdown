@@ -2,6 +2,8 @@
 
 ## 2026-10-09
 
+- Added Google Docs / Drive native Markdown collaboration with formatting limits, and linked the Typora and Obsidian companion catalogs. 新增 Google Docs / Drive 原生 Markdown 协作及格式限制说明，增加 Typora、Obsidian 专题清单入口。
+
 - Added TypeFire Markdown Editor and Tale to both catalogs, with browser-storage/export boundaries and shared knowledge-entry limits. 双语清单新增 TypeFire Markdown Editor 与 Tale，注明浏览器存储、导出边界及共享知识条目限制。
 
 ## 2026-10-08

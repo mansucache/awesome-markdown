@@ -611,8 +611,8 @@
         {
           "url": "https://github.com/mansucache/awesome-typora",
           "label": {
-            "en": "Usage guide",
-            "zh": "使用资料"
+            "en": "awesome-typora resource guide",
+            "zh": "awesome-typora 资源清单"
           }
         }
       ],
@@ -2731,6 +2731,36 @@
         "note": {
           "en": "Official page or repository metadata checked; not an application test.",
           "zh": "已检查官方页面或仓库元数据，未进行应用功能实测。"
+        }
+      }
+    },
+    {
+      "id": "google-docs",
+      "name": {
+        "en": "Google Docs / Drive",
+        "zh": "Google Docs / Drive"
+      },
+      "url": "https://support.google.com/docs/answer/18289341",
+      "category": "document-collaboration",
+      "parent": null,
+      "description": {
+        "en": "Previews Markdown in Drive and edits .md files collaboratively in Docs without converting them to Google documents, with sharing and comments. Smart chips become text or links; font colors, highlighting and alignment are removed. Requires a Google account; check Obsidian-specific syntax before sharing.",
+        "zh": "在 Drive 中预览 Markdown，通过 Docs 直接编辑、评论和协作 .md 文件，保留原文件格式。智能芯片会转为文本或链接，字体颜色、高亮与对齐格式不保留。需 Google 账号，交付带有 Obsidian 扩展语法的文件前应检查兼容性。"
+      },
+      "tags": [
+        "web"
+      ],
+      "links": [],
+      "status": "active",
+      "review": {
+        "date": "2026-10-09",
+        "level": "source-review",
+        "sources": [
+          "https://support.google.com/docs/answer/18289341"
+        ],
+        "note": {
+          "en": "Reviewed Google’s help page for Drive preview, native .md editing without conversion, sharing/comments and unsupported rich formatting. No application test, rollout-date claim, or claim of full Obsidian extension compatibility. The announcement page could not be retrieved, so this record relies on the accessible help page.",
+          "zh": "核对 Google 帮助页中的 Drive 预览、不转换格式的 .md 原生编辑、分享评论及不支持的富文本格式。未进行应用实测，不宣称具体开放日期或完整兼容 Obsidian 扩展。公告页面未能读取，本记录以可访问的帮助页为依据。"
         }
       }
     },

@@ -84,6 +84,7 @@ Markdown 原生文件、Markdown 输入快捷语法、Markdown 导入导出是�
   - [AI 相关工具](#ai-相关工具)
   - [图表与公式](#图表与公式)
 - [学习资源](#学习资源)
+- [相关清单](#相关清单)
 - [参与完善](#参与完善)
 - [更新](#更新)
 
@@ -124,7 +125,7 @@ Markdown 原生文件、Markdown 输入快捷语法、Markdown 导入导出是�
 先看你需要直接编辑源码、所见即所得，还是独立预览；再比较文档组织方式与导出能力。
 
 - [Typora](https://typora.io/) - 将 Markdown 编辑与预览合在同一界面，支持大纲、全文检索以及 PDF、HTML、Word 导出，适合以文章和文档为主的桌面写作。<br>
-  <span>`macOS` · `Windows` · `Linux` · [使用资料](https://github.com/mansucache/awesome-typora)</span>
+  <span>`macOS` · `Windows` · `Linux` · [awesome-typora 资源清单](https://github.com/mansucache/awesome-typora)</span>
 
   - [Typora Plugin](https://github.com/obgnail/typora_plugin) - 为 Typora 增加标签管理、文件搜索、自动编号和图表功能，适合需要在现有编辑器上扩展工作流的用户。<br>
     <span>`开源` · `Typora 扩展`</span>
@@ -327,6 +328,9 @@ Markdown 原生文件、Markdown 输入快捷语法、Markdown 导入导出是�
 
 - [Markdown Here](https://github.com/adam-p/markdown-here) - 在 Chrome、Firefox 和 Thunderbird 等环境中，将输入的 Markdown 渲染为富文本，适合邮件与网页编辑场景。<br>
   <span>`开源`</span>
+
+- [Google Docs / Drive](https://support.google.com/docs/answer/18289341) - 在 Drive 中预览 Markdown，通过 Docs 直接编辑、评论和协作 .md 文件，保留原文件格式。智能芯片会转为文本或链接，字体颜色、高亮与对齐格式不保留。需 Google 账号，交付带有 Obsidian 扩展语法的文件前应检查兼容性。<br>
+  <span>`Web`</span>
 
 ### 思维导图
 
@@ -702,6 +706,11 @@ Markdown 原生文件、Markdown 输入快捷语法、Markdown 导入导出是�
 
 - [Markdown Guide](https://github.com/mattcone/markdown-guide) - 提供入门教程、基础与扩展语法及速查表的学习资源；扩展语法是否可用仍取决于目标工具。<br>
   <span>`文档 / 教程` · [官网](https://www.markdownguide.org/)</span>
+
+## 相关清单
+
+- [awesome-typora](https://github.com/mansucache/awesome-typora) - 深入查找 Typora 插件、主题、模板与工具。<!-- -->
+- [awesome-obsidian](https://github.com/mansucache/awesome-obsidian) - 深入查找 Obsidian 插件、主题、知识管理与工作流。<!-- -->
 
 ## 参与完善
 
