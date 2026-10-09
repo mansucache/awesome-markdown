@@ -37,6 +37,7 @@
 | Windows 记事本 | 2026-09-16 | 专项来源核对 | 核对官方格式功能公告中的标题、列表、链接、粗体、斜体与源码视图；公告记录 Insider 推送，不据此宣称所有 Windows 版本均支持，未进行应用实测。 | [1](https://blogs.windows.com/windows-insider/2025/05/30/text-formatting-in-notepad-begin-rolling-out-to-windows-insiders/) |
 | Markdific | 2026-10-07 | 专项来源核对 | 核对官方功能与定价页面中的编辑模式、免费阅读、付费编辑导出及 PDF 导出限 macOS/Windows 的说明，未进行应用实测。由产品开发者提交。 | [1](https://markdific.com/) [2](https://markdific.com/pricing/) |
 | MacMD Viewer | 2026-10-08 | 专项来源核对 | 核对官网首页、功能与定价页面中的只读定位、Mermaid、快速查看、自动刷新、连续长页 PDF 与打印分页的区别、macOS 14 及以上要求和官网直购条件，未进行应用实测。由产品开发者提交。引用页面未明确说明数学公式渲染和源码开放情况，因此未保留相关断言。 | [1](https://macmdviewer.com/) [2](https://macmdviewer.com/features) [3](https://macmdviewer.com/pricing) |
+| TypeFire Markdown Editor | 2026-10-09 | 专项来源核对 | 核对官方编辑器及 PDF 页面中的原位格式呈现、标签、浏览器内保存、免账号访问、导出与清除文档说明。提交的 typefire.ai 链接跳转至 typefire.app。由开发者推荐，未进行应用实测；未独立确认网络隔离、不支持的语法及闭源声明，因此未作为已核验保证写入介绍。 | [1](https://typefire.app/markdown-editor-online) [2](https://typefire.app/markdown-to-pdf) [3](https://github.com/mansucache/awesome-markdown/issues/21) |
 | Persona | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/jayamitkatariya/personacli) |
 | Obsidian | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://obsidian.md/) |
 | Notion | 2026-09-08 | 专项来源核对 | 已就所述能力或修正核对列出的来源，未进行应用功能实测。 | [1](https://www.notion.com/zh-cn/help/notion-for-desktop) [2](https://www.notion.com/help/writing-and-editing-basics) |
@@ -64,6 +65,7 @@
 | Apple 备忘录 | 2026-09-16 | 专项来源核对 | 核对 Apple 导入导出文档；导入会转换为备忘录内容，不是直接编辑原始 .md 文件。本条范围为 Mac，未进行应用实测。 | [1](https://support.apple.com/en-gb/102223) [2](https://support.apple.com/en-mide/guide/notes/not201900c07/mac) |
 | Bear | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://bear.app/) |
 | Quillpad | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/quillpad/quillpad) |
+| Tale | 2026-10-09 | 专项来源核对 | 核对官方文档、仓库许可及条目视图实现中的 Markdown 渲染、当前与历史版本、不显示图片、正文 8,000 字符限制、组织共享范围、编辑者权限与异步索引。条目为应用记录，不宣称 Markdown 文件导入导出或无损往返。自托管及模型、基础设施费用与 MIT 代码许可分开。由代表所有者的助手推荐，未部署或进行应用实测。 | [1](https://docs.tale.dev/platform/knowledge/knowledge-entries) [2](https://github.com/tale-project/tale/blob/main/services/platform/app/features/knowledge-entries/components/knowledge-entry-view-dialog.tsx) [3](https://github.com/tale-project/tale) [4](https://github.com/tale-project/tale/blob/main/LICENSE) |
 | novelWriter | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/saga-soft/novelWriter) |
 | WonderPen（妙笔） | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://www.tominlab.com/wonderpen) |
 | 飞书文档 | 2026-09-08 | 专项来源核对 | 已核对 2026-05-27 官方公告：仅文本导出 .md，所有内容导出包含图片和附件下载链接；未实测。 | [1](https://www.feishu.cn/content/article/7644456827538820052) |

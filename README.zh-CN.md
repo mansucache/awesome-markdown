@@ -191,6 +191,9 @@ Markdown 原生文件、Markdown 输入快捷语法、Markdown 导入导出是�
 - [MacMD Viewer](https://macmdviewer.com) - 面向 macOS 14 及以上的只读查看器，支持 Mermaid、代码高亮、Finder 快速查看和文件变更自动刷新，可搭配现有编辑器使用。PDF 导出为连续长页，分页需使用打印功能。官网直购一次性付费 19.99 美元，限一台 Mac 同时使用，无免费试用。<br>
   <span>`macOS`</span>
 
+- [TypeFire Markdown Editor](https://typefire.app/markdown-editor-online) - 免费的浏览器 Markdown 编辑器，输入时直接呈现格式，支持多文档标签和当前浏览器内自动保存。可导出 Markdown、HTML，PDF 通过浏览器打印对话框生成，无需账号。建议下载备份，在共用电脑上使用后清除已保存文档。<br>
+  <span>`提供免费方案` · `Web`</span>
+
 ### 笔记与知识管理软件
 
 关注内容保存方式、链接组织与迁移能力。以 Markdown 输入内容，并不意味着笔记以 .md 文件保存。
@@ -272,6 +275,9 @@ Markdown 原生文件、Markdown 输入快捷语法、Markdown 导入导出是�
 
 - [Quillpad](https://github.com/quillpad/quillpad) - 面向 Android 的开源笔记应用，支持 Markdown、任务列表与附件，适合将手机端笔记和待办放在一起记录。<br>
   <span>`开源` · `Android`</span>
+
+- [Tale](https://github.com/tale-project/tale) - 团队与 AI 工作空间，可维护组织共享的 Markdown 知识条目及版本历史。正文限 8,000 字符，以应用记录保存，条目视图不显示图片。写入需编辑者权限，完成索引后才能检索。自托管代码采用 MIT 许可，需配置部署和账号，基础设施与模型费用另计。<br>
+  <span>`开源` · `Web` · [知识条目指南](https://docs.tale.dev/platform/knowledge/knowledge-entries)</span>
 
 ### 长篇写作
 
