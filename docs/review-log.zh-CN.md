@@ -79,6 +79,7 @@
 | Seafile | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/haiwen/seafile) |
 | WPS 文字 / 金山文档 | 2026-09-16 | 专项来源核对 | 核对 WPS 官方社区公告：网页版向全部用户开放，客户端分批开放；不据此推断所有 WPS 应用和平台均支持 Markdown，未进行应用实测。 | [1](https://bbs.wps.cn/topic/86502) |
 | Markdown Here | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/adam-p/markdown-here) |
+| Google Docs / Drive | 2026-10-09 | 专项来源核对 | 核对 Google 帮助页中的 Drive 预览、不转换格式的 .md 原生编辑、分享评论及不支持的富文本格式。未进行应用实测，不宣称具体开放日期或完整兼容 Obsidian 扩展。公告页面未能读取，本记录以可访问的帮助页为依据。 | [1](https://support.google.com/docs/answer/18289341) |
 | markmap | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/markmap/markmap) |
 | XMind | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://xmind.com/) |
 | Drawnix | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/plait-board/drawnix) |

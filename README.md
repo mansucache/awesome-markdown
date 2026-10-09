@@ -87,6 +87,7 @@ Start with the [scenario selection guide](guides/choosing-tools.md), then try [o
   - [AI-related Tools](#ai-related-tools)
   - [Diagrams and Math](#diagrams-and-math)
 - [Learning Resources](#learning-resources)
+- [Related collections](#related-collections)
 - [Updates](#updates)
 
 <!-- lint enable awesome-list-item -->
@@ -132,7 +133,7 @@ Check the syntax specification used by the target tool. Extensions may render di
 Choose source editing, WYSIWYG or a separate previewer first; then compare document organization and export.
 
 - [Typora](https://typora.io/) - Combines Markdown editing and preview in one interface, with outlines, search and PDF, HTML and Word export for desktop writing.<br>
-  <span>`macOS` · `Windows` · `Linux` · [Usage guide](https://github.com/mansucache/awesome-typora)</span>
+  <span>`macOS` · `Windows` · `Linux` · [awesome-typora resource guide](https://github.com/mansucache/awesome-typora)</span>
 
   - [Typora Plugin](https://github.com/obgnail/typora_plugin) - Adds tag management, file search, automatic numbering and diagrams to an existing Typora workflow.<br>
     <span>`Open source` · `Typora extension`</span>
@@ -343,6 +344,9 @@ Check collaboration and permissions, then distinguish Markdown input, import/exp
 
 - [Markdown Here](https://github.com/adam-p/markdown-here) - A browser and Thunderbird extension that renders Markdown as rich text for email and web editors.<br>
   <span>`Open source`</span>
+
+- [Google Docs / Drive](https://support.google.com/docs/answer/18289341) - Previews Markdown in Drive and edits .md files collaboratively in Docs without converting them to Google documents, with sharing and comments. Smart chips become text or links; font colors, highlighting and alignment are removed. Requires a Google account; check Obsidian-specific syntax before sharing.<br>
+  <span>`Web`</span>
 
 <a id="思维导图"></a>
 
@@ -760,6 +764,11 @@ Start with a syntax reference or follow a book-length introduction to Markdown w
 
 - [Markdown Guide](https://github.com/mattcone/markdown-guide) - A learning resource with getting-started material, basic and extended syntax, and a cheat sheet. Extension support still depends on the target tool.<br>
   <span>`Documentation` · [Website](https://www.markdownguide.org/)</span>
+
+## Related collections
+
+- [awesome-typora](https://github.com/mansucache/awesome-typora) - Typora plugins, themes, templates and tools.
+- [awesome-obsidian](https://github.com/mansucache/awesome-obsidian) - Obsidian plugins, themes, knowledge management and workflows.
 
 ## Contributing
 
