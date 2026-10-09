@@ -1370,6 +1370,39 @@
       }
     },
     {
+      "id": "typefire-markdown-editor",
+      "name": {
+        "en": "TypeFire Markdown Editor",
+        "zh": "TypeFire Markdown Editor"
+      },
+      "url": "https://typefire.app/markdown-editor-online",
+      "category": "dedicated-markdown-editors",
+      "parent": null,
+      "description": {
+        "en": "A free browser editor that formats Markdown in place, with document tabs and autosave in the current browser. Exports Markdown and HTML; PDF uses the browser print dialog. No account is required. Download backups, and clear saved documents after using a shared computer.",
+        "zh": "免费的浏览器 Markdown 编辑器，输入时直接呈现格式，支持多文档标签和当前浏览器内自动保存。可导出 Markdown、HTML，PDF 通过浏览器打印对话框生成，无需账号。建议下载备份，在共用电脑上使用后清除已保存文档。"
+      },
+      "tags": [
+        "free-tier",
+        "web"
+      ],
+      "links": [],
+      "status": "active",
+      "review": {
+        "date": "2026-10-09",
+        "level": "source-review",
+        "sources": [
+          "https://typefire.app/markdown-editor-online",
+          "https://typefire.app/markdown-to-pdf",
+          "https://github.com/mansucache/awesome-markdown/issues/21"
+        ],
+        "note": {
+          "en": "Reviewed official editor and PDF pages for in-place formatting, tabs, browser-local saving, no-account access, file exports and clearing saved documents. The submitted typefire.ai URL redirects to typefire.app. Submitted by the developer; no application test. Network isolation, unsupported syntax and closed-source claims were not independently established and are not presented as verified guarantees.",
+          "zh": "核对官方编辑器及 PDF 页面中的原位格式呈现、标签、浏览器内保存、免账号访问、导出与清除文档说明。提交的 typefire.ai 链接跳转至 typefire.app。由开发者推荐，未进行应用实测；未独立确认网络隔离、不支持的语法及闭源声明，因此未作为已核验保证写入介绍。"
+        }
+      }
+    },
+    {
       "id": "persona",
       "name": {
         "en": "Persona",
@@ -2253,6 +2286,48 @@
         "note": {
           "en": "Official page or repository metadata checked; not an application test.",
           "zh": "已检查官方页面或仓库元数据，未进行应用功能实测。"
+        }
+      }
+    },
+    {
+      "id": "tale",
+      "name": {
+        "en": "Tale",
+        "zh": "Tale"
+      },
+      "url": "https://github.com/tale-project/tale",
+      "category": "notes-and-knowledge-management",
+      "parent": null,
+      "description": {
+        "en": "A team and AI workspace with organization-wide Markdown knowledge entries and version history. Bodies are limited to 8,000 characters and stored as application records; images are omitted in the entry view. Editor access is needed to write, and retrieval waits for indexing. MIT-licensed self-hosting requires a configured deployment and account; infrastructure and model costs are separate.",
+        "zh": "团队与 AI 工作空间，可维护组织共享的 Markdown 知识条目及版本历史。正文限 8,000 字符，以应用记录保存，条目视图不显示图片。写入需编辑者权限，完成索引后才能检索。自托管代码采用 MIT 许可，需配置部署和账号，基础设施与模型费用另计。"
+      },
+      "tags": [
+        "open-source",
+        "web"
+      ],
+      "links": [
+        {
+          "url": "https://docs.tale.dev/platform/knowledge/knowledge-entries",
+          "label": {
+            "en": "Knowledge entries guide",
+            "zh": "知识条目指南"
+          }
+        }
+      ],
+      "status": "active",
+      "review": {
+        "date": "2026-10-09",
+        "level": "source-review",
+        "sources": [
+          "https://docs.tale.dev/platform/knowledge/knowledge-entries",
+          "https://github.com/tale-project/tale/blob/main/services/platform/app/features/knowledge-entries/components/knowledge-entry-view-dialog.tsx",
+          "https://github.com/tale-project/tale",
+          "https://github.com/tale-project/tale/blob/main/LICENSE"
+        ],
+        "note": {
+          "en": "Reviewed official documentation, repository license and the entry view implementation for Markdown rendering, current/historical versions, omitted images, the 8,000-character body limit, organization scope, Editor permissions and asynchronous indexing. Entries are application records; no Markdown file import/export or lossless round-trip claim. Self-hosting and model/infrastructure costs are distinct from the MIT code license. Recommended by an assistant on behalf of the owner; no deployment or application test.",
+          "zh": "核对官方文档、仓库许可及条目视图实现中的 Markdown 渲染、当前与历史版本、不显示图片、正文 8,000 字符限制、组织共享范围、编辑者权限与异步索引。条目为应用记录，不宣称 Markdown 文件导入导出或无损往返。自托管及模型、基础设施费用与 MIT 代码许可分开。由代表所有者的助手推荐，未部署或进行应用实测。"
         }
       }
     },

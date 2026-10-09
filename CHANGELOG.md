@@ -1,5 +1,9 @@
 # Changelog / 更新记录
 
+## 2026-10-09
+
+- Added TypeFire Markdown Editor and Tale to both catalogs, with browser-storage/export boundaries and shared knowledge-entry limits. 双语清单新增 TypeFire Markdown Editor 与 Tale，注明浏览器存储、导出边界及共享知识条目限制。
+
 ## 2026-10-08
 
 - Added MacMD Viewer to both catalogs, with its read-only scope, PDF pagination boundary and direct-purchase terms. 双语清单新增 MacMD Viewer，注明只读定位、PDF 分页边界及官网直购条件。

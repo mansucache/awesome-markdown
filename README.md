@@ -199,6 +199,9 @@ Choose source editing, WYSIWYG or a separate previewer first; then compare docum
 - [MacMD Viewer](https://macmdviewer.com) - A read-only viewer for macOS 14+ with Mermaid, syntax highlighting, Finder Quick Look and live reload alongside an external editor. PDF export produces one continuous page; use Print for paper-sized pages. Direct purchase is $19.99 once for one active Mac, with no free trial.<br>
   <span>`macOS`</span>
 
+- [TypeFire Markdown Editor](https://typefire.app/markdown-editor-online) - A free browser editor that formats Markdown in place, with document tabs and autosave in the current browser. Exports Markdown and HTML; PDF uses the browser print dialog. No account is required. Download backups, and clear saved documents after using a shared computer.<br>
+  <span>`Free option` · `Web`</span>
+
 <a id="笔记与知识管理软件"></a>
 
 ### Notes and Knowledge Management
@@ -282,6 +285,9 @@ Check storage, linking and migration. Markdown typing shortcuts do not mean note
 
 - [Quillpad](https://github.com/quillpad/quillpad) - An open-source Android notes app with Markdown, task lists and attachments for mobile notes and tasks.<br>
   <span>`Open source` · `Android`</span>
+
+- [Tale](https://github.com/tale-project/tale) - A team and AI workspace with organization-wide Markdown knowledge entries and version history. Bodies are limited to 8,000 characters and stored as application records; images are omitted in the entry view. Editor access is needed to write, and retrieval waits for indexing. MIT-licensed self-hosting requires a configured deployment and account; infrastructure and model costs are separate.<br>
+  <span>`Open source` · `Web` · [Knowledge entries guide](https://docs.tale.dev/platform/knowledge/knowledge-entries)</span>
 
 <a id="长篇写作"></a>
 
