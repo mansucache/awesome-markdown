@@ -4149,6 +4149,43 @@
       }
     },
     {
+      "id": "markdown-pro",
+      "name": {
+        "en": "Markdown Pro",
+        "zh": "Markdown Pro"
+      },
+      "url": "https://plugins.jetbrains.com/plugin/33400-markdown-pro",
+      "category": "programming-tools",
+      "parent": null,
+      "description": {
+        "en": "Extends the bundled Markdown editor in JetBrains IDEs with table editing, Markdown and MDX previews, Obsidian vault graphs, documentation-site navigation and inspections. Requires a paid license after the trial.",
+        "zh": "为 JetBrains IDE 内置 Markdown 编辑器增加表格编辑、Markdown 与 MDX 预览、Obsidian 笔记库图谱、文档站点导航和检查功能；试用期后需要付费许可证。"
+      },
+      "tags": [],
+      "links": [
+        {
+          "label": {
+            "en": "Website",
+            "zh": "官网"
+          },
+          "url": "https://jetplugins.dev/markdown-pro"
+        }
+      ],
+      "status": "active",
+      "review": {
+        "date": "2026-10-17",
+        "level": "source-review",
+        "sources": [
+          "https://jetplugins.dev/markdown-pro",
+          "https://plugins.jetbrains.com/plugin/33400-markdown-pro"
+        ],
+        "note": {
+          "en": "Reviewed the official product page for its JetBrains integration, editing and preview features, Obsidian vault graphs, documentation navigation and paid terms after a trial. Requires the bundled Markdown plugin; application behavior and IDE compatibility were not tested.",
+          "zh": "已核对官方产品页中的 JetBrains 集成、编辑与预览功能、Obsidian 笔记库图谱、文档导航及试用后付费条款。需要内置 Markdown 插件；未实测应用行为和 IDE 兼容性。"
+        }
+      }
+    },
+    {
       "id": "trae",
       "name": {
         "en": "Trae",

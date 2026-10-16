@@ -123,6 +123,7 @@
 | Foam | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/foambubble/foam) |
 | Markdown All in One | 2026-09-08 | 专项来源核对 | 已就所述能力或修正核对列出的来源，未进行应用功能实测。 | [1](https://github.com/yzhang-gh/vscode-markdown) |
 | Marp for VS Code | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/marp-team/marp-vscode) |
+| Markdown Pro | 2026-10-17 | 专项来源核对 | 已核对官方产品页中的 JetBrains 集成、编辑与预览功能、Obsidian 笔记库图谱、文档导航及试用后付费条款。需要内置 Markdown 插件；未实测应用行为和 IDE 兼容性。 | [1](https://jetplugins.dev/markdown-pro) [2](https://plugins.jetbrains.com/plugin/33400-markdown-pro) |
 | Trae | 2026-09-08 | 专项来源核对 | 已核对官方 SOLO 文档与下载平台；未实测高级预览和扩展兼容性。 | [1](https://docs.trae.cn/ide_tool-panel) [2](https://www.trae.cn/download) |
 | Cursor | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://cursor.com/) |
 | RStudio | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/rstudio/rstudio) |

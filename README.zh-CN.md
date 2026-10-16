@@ -497,6 +497,9 @@ Markdown 原生文件、Markdown 输入快捷语法、Markdown 导入导出是�
   - [Marp for VS Code](https://github.com/marp-team/marp-vscode) - 在 VS Code 中编写和预览 Markdown 幻灯片，并导出 PDF、PPTX 与 HTML，适合在开发环境中制作演示文稿。<br>
     <span>`开源` · `VS Code 扩展`</span>
 
+- [Markdown Pro](https://plugins.jetbrains.com/plugin/33400-markdown-pro) - 为 JetBrains IDE 内置 Markdown 编辑器增加表格编辑、Markdown 与 MDX 预览、Obsidian 笔记库图谱、文档站点导航和检查功能；试用期后需要付费许可证。<br>
+  <span>[官网](https://jetplugins.dev/markdown-pro)</span>
+
 - [Trae](https://www.trae.cn/) - AI 开发环境，SOLO 文档工具可生成和编辑 Markdown 项目文档；中国版现将编码产品标为 TraeCode。<br>
   <span>`macOS` · `Windows` · `Linux`</span>
 

@@ -1,5 +1,9 @@
 # Changelog / 更新记录
 
+## 2026-10-17
+
+- Added Markdown Pro to Programming Tools, with its JetBrains Markdown editing, previews, Obsidian vault graphs and paid-license requirement after a trial. 「编程工具」新增 Markdown Pro，注明 JetBrains Markdown 编辑、预览、Obsidian 笔记库图谱及试用后需要付费许可证。
+
 ## 2026-10-14
 
 - Added PDFtoMarkdown.ai to To Markdown, with its hosted upload, web/API/MCP access, free start and prepaid page-credit terms. 「转为 Markdown」新增 PDFtoMarkdown.ai，注明托管上传处理、网页/API/MCP 接入、免费开始及预付页数积分条款。

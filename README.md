@@ -533,6 +533,9 @@ Standalone development environments and extensions are listed separately. Start 
   - [Marp for VS Code](https://github.com/marp-team/marp-vscode) - Edits and previews Marp Markdown slides in VS Code and exports PDF, PPTX and HTML.<br>
     <span>`Open source` · `VS Code extension`</span>
 
+- [Markdown Pro](https://plugins.jetbrains.com/plugin/33400-markdown-pro) - Extends the bundled Markdown editor in JetBrains IDEs with table editing, Markdown and MDX previews, Obsidian vault graphs, documentation-site navigation and inspections. Requires a paid license after the trial.<br>
+  <span>[Website](https://jetplugins.dev/markdown-pro)</span>
+
 - [Trae](https://www.trae.cn/) - An AI development environment whose SOLO document tool generates and edits Markdown project documents. The China edition now labels the coding product TraeCode.<br>
   <span>`macOS` · `Windows` · `Linux`</span>
 
