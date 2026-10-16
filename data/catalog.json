@@ -1439,6 +1439,56 @@
       }
     },
     {
+      "id": "glim",
+      "name": {
+        "en": "Glim",
+        "zh": "Glim"
+      },
+      "url": "https://github.com/NeoPanic/Glim",
+      "category": "dedicated-markdown-editors",
+      "parent": null,
+      "description": {
+        "en": "A free macOS file viewer for local Markdown with Mermaid diagrams, LaTeX formulas and basic source editing, alongside PDFs, images, JSON and CSV in workspace tabs. Apple Silicon and Intel installers are available; the app is not yet Apple-notarized.",
+        "zh": "免费的 macOS 文件查看器，可阅读本地 Markdown 中的 Mermaid 图表与 LaTeX 公式，支持基础源码编辑，并在工作区标签中查看 PDF、图片、JSON 和 CSV。提供 Apple Silicon 与 Intel 安装包，目前尚未经过 Apple 公证。"
+      },
+      "tags": [
+        "open-source",
+        "free-tier",
+        "macos"
+      ],
+      "links": [
+        {
+          "url": "https://github.com/NeoPanic/Glim/releases/latest",
+          "label": {
+            "en": "Download for macOS",
+            "zh": "下载 macOS 版本"
+          }
+        },
+        {
+          "url": "https://github.com/NeoPanic/Glim/blob/main/docs/file-format-support.md",
+          "label": {
+            "en": "Supported formats and limitations",
+            "zh": "格式支持与限制"
+          }
+        }
+      ],
+      "status": "active",
+      "review": {
+        "date": "2026-10-16",
+        "level": "source-review",
+        "sources": [
+          "https://github.com/NeoPanic/Glim",
+          "https://github.com/NeoPanic/Glim/blob/main/LICENSE",
+          "https://github.com/NeoPanic/Glim/blob/main/docs/file-format-support.md",
+          "https://github.com/NeoPanic/Glim/releases/tag/v0.2.3"
+        ],
+        "note": {
+          "en": "Reviewed the project README, MIT license, format guide and v0.2.3 assets for rendered Markdown, Mermaid/math, source editing and macOS architectures. Editing is basic, previews have documented limits, and first launch may require macOS approval because the app is not notarized. No application test or performance measurement. Submitted by the project maintainer.",
+          "zh": "核对项目 README、MIT 许可、格式指南和 v0.2.3 安装包中的 Markdown 渲染、Mermaid 与公式、源码编辑及 Mac 芯片架构说明。编辑仅为基础功能，预览限制见文档；因未公证，首次启动可能需要在 macOS 中批准。未进行应用实测或性能测量。由项目维护者提交。"
+        }
+      }
+    },
+    {
       "id": "persona",
       "name": {
         "en": "Persona",
