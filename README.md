@@ -206,6 +206,9 @@ Choose source editing, WYSIWYG or a separate previewer first; then compare docum
 - [Ritemark](https://ritemark.app/en/) - A desktop WYSIWYG editor for local .md files, with a terminal and built-in Claude Code, Codex and OpenCode agents that edit the same files. Supports Mermaid and Word/PDF export; remote images are not embedded in exports. The app is free; AI uses your provider account or API keys, with separate costs, and sends agent-read content to that provider.<br>
   <span>`Open source` · `macOS` · `Windows`</span>
 
+- [Glim](https://github.com/NeoPanic/Glim) - A free macOS file viewer for local Markdown with Mermaid diagrams, LaTeX formulas and basic source editing, alongside PDFs, images, JSON and CSV in workspace tabs. Apple Silicon and Intel installers are available; the app is not yet Apple-notarized.<br>
+  <span>`Open source` · `Free option` · `macOS` · [Download for macOS](https://github.com/NeoPanic/Glim/releases/latest) · [Supported formats and limitations](https://github.com/NeoPanic/Glim/blob/main/docs/file-format-support.md)</span>
+
 <a id="笔记与知识管理软件"></a>
 
 ### Notes and Knowledge Management
