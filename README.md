@@ -209,6 +209,9 @@ Choose source editing, WYSIWYG or a separate previewer first; then compare docum
 - [Glim](https://github.com/NeoPanic/Glim) - A free macOS file viewer for local Markdown with Mermaid diagrams, LaTeX formulas and basic source editing, alongside PDFs, images, JSON and CSV in workspace tabs. Apple Silicon and Intel installers are available; the app is not yet Apple-notarized.<br>
   <span>`Open source` · `Free option` · `macOS` · [Download for macOS](https://github.com/NeoPanic/Glim/releases/latest) · [Supported formats and limitations](https://github.com/NeoPanic/Glim/blob/main/docs/file-format-support.md)</span>
 
+- [Markdown File Viewer](https://markdownfileviewer.com) - A free browser-based viewer for local Markdown files: open, paste or drag a .md file and it renders as formatted HTML, with Markdown-to-HTML export and public GitHub README viewing. Runs fully client-side with no upload, install or account.<br>
+  <span>`Free` · `Web` · `Client-side`</span>
+
 <a id="笔记与知识管理软件"></a>
 
 ### Notes and Knowledge Management
