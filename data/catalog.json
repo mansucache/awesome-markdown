@@ -5620,6 +5620,56 @@
       }
     },
     {
+      "id": "curlshot",
+      "name": {
+        "en": "CurlShot",
+        "zh": "CurlShot"
+      },
+      "url": "https://curlshot.com/",
+      "category": "image-generation",
+      "parent": null,
+      "description": {
+        "en": "A hosted screenshot API that also accepts Markdown: POST a markdown field and get the rendered page back as PNG, JPEG, WebP or PDF, drawn by headless Chromium. Useful when a script or AI agent needs Markdown notes or reports as images or PDFs without running a browser. Content is sent to the service for rendering, and the service is not open source. The free plan includes 100 renders a month with no card; paid plans start at $19 a month.",
+        "zh": "托管式网页截图 API，也接受 Markdown 输入：通过 POST 发送 markdown 字段，即可由无头 Chromium 渲染并返回 PNG、JPEG、WebP 或 PDF。适合脚本或 AI 代理在不自行运行浏览器的情况下，将 Markdown 笔记或报告转为图片或 PDF。内容需发送至该服务渲染，服务本身并非开源。免费方案每月 100 次渲染，无需绑卡；付费方案每月 19 美元起。"
+      },
+      "tags": [
+        "free-tier",
+        "api"
+      ],
+      "links": [
+        {
+          "url": "https://curlshot.com/docs/html-and-markdown",
+          "label": {
+            "en": "HTML and Markdown input",
+            "zh": "HTML 与 Markdown 输入"
+          }
+        },
+        {
+          "url": "https://curlshot.com/tools/markdown-to-pdf",
+          "label": {
+            "en": "Markdown to PDF",
+            "zh": "Markdown 转 PDF"
+          }
+        }
+      ],
+      "status": "active",
+      "review": {
+        "date": "2026-10-22",
+        "level": "source-review",
+        "sources": [
+          "https://curlshot.com/",
+          "https://curlshot.com/docs/html-and-markdown.md",
+          "https://curlshot.com/tools/markdown-to-pdf.md",
+          "https://curlshot.com/pricing.md",
+          "https://curlshot.com/llms.txt"
+        ],
+        "note": {
+          "en": "Reviewed the official docs, Markdown-to-PDF page, pricing and llms.txt for Markdown input over POST, PNG/JPEG/WebP/PDF output, headless Chromium rendering, the 100-render free plan and the $19 starting price. The hosted service is not open source and receives the submitted content. No application test. Submitted on behalf of the developer.",
+          "zh": "核对官方文档、Markdown 转 PDF 页面、定价与 llms.txt 中关于 POST 发送 Markdown、PNG/JPEG/WebP/PDF 输出、无头 Chromium 渲染、每月 100 次免费渲染及 19 美元起价的说明。托管服务本身并非开源，需接收提交的内容。未进行应用实测。代表开发者提交。"
+        }
+      }
+    },
+    {
       "id": "mdq",
       "name": {
         "en": "mdq",

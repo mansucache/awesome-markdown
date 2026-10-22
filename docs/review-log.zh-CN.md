@@ -167,6 +167,7 @@
 | MD2Card | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://md2card.com/zh) |
 | Markdown To Image | 2026-09-08 | 专项来源核对 | 已就所述能力或修正核对列出的来源，未进行应用功能实测。 | [1](https://github.com/gcui-art/markdown-to-image) |
 | Markdown To Image Serve | 2026-09-08 | 专项来源核对 | 已就所述能力或修正核对列出的来源，未进行应用功能实测。 | [1](https://github.com/wxingheng/markdown-to-image-serve) |
+| CurlShot | 2026-10-22 | 专项来源核对 | 核对官方文档、Markdown 转 PDF 页面、定价与 llms.txt 中关于 POST 发送 Markdown、PNG/JPEG/WebP/PDF 输出、无头 Chromium 渲染、每月 100 次免费渲染及 19 美元起价的说明。托管服务本身并非开源，需接收提交的内容。未进行应用实测。代表开发者提交。 | [1](https://curlshot.com/) [2](https://curlshot.com/docs/html-and-markdown.md) [3](https://curlshot.com/tools/markdown-to-pdf.md) [4](https://curlshot.com/pricing.md) [5](https://curlshot.com/llms.txt) |
 | mdq | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/yshavit/mdq) |
 | Glow | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/charmbracelet/glow) |
 | nb | 2026-09-08 | 专项来源核对 | 已就所述能力或修正核对列出的来源，未进行应用功能实测。 | [1](https://github.com/xwmx/nb) |

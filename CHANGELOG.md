@@ -1,5 +1,9 @@
 # Changelog / 更新记录
 
+## 2026-10-22
+
+- Added CurlShot to Image Generation, with its hosted Markdown-to-image/PDF rendering over an API, free monthly allowance and paid plans. 「图片生成」新增 CurlShot，注明通过 API 将 Markdown 托管渲染为图片/PDF、每月免费额度及付费方案。
+
 ## 2026-10-17
 
 - Added Markdown Pro to Programming Tools, with its JetBrains Markdown editing, previews, Obsidian vault graphs and paid-license requirement after a trial. 「编程工具」新增 Markdown Pro，注明 JetBrains Markdown 编辑、预览、Obsidian 笔记库图谱及试用后需要付费许可证。
