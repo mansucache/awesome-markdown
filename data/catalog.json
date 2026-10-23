@@ -5629,8 +5629,8 @@
       "category": "image-generation",
       "parent": null,
       "description": {
-        "en": "A hosted screenshot API that also accepts Markdown: POST a markdown field and get the rendered page back as PNG, JPEG, WebP or PDF, drawn by headless Chromium. Useful when a script or AI agent needs Markdown notes or reports as images or PDFs without running a browser. Content is sent to the service for rendering, and the service is not open source. The free plan includes 100 renders a month with no card; paid plans start at $19 a month.",
-        "zh": "托管式网页截图 API，也接受 Markdown 输入：通过 POST 发送 markdown 字段，即可由无头 Chromium 渲染并返回 PNG、JPEG、WebP 或 PDF。适合脚本或 AI 代理在不自行运行浏览器的情况下，将 Markdown 笔记或报告转为图片或 PDF。内容需发送至该服务渲染，服务本身并非开源。免费方案每月 100 次渲染，无需绑卡；付费方案每月 19 美元起。"
+        "en": "A hosted API that renders Markdown to PNG, JPEG, WebP or PDF for scripts and agent workflows, without managing a browser server. Content is sent to the service; Markdown input is limited to 2 MB and images need public HTTPS URLs. A free monthly allowance and paid plans are available.",
+        "zh": "通过托管 API 将 Markdown 渲染为 PNG、JPEG、WebP 或 PDF，适合脚本与代理工作流，无需自行维护浏览器服务。内容需发送至该服务；Markdown 输入上限为 2 MB，图片需使用公开 HTTPS 链接。提供每月免费额度和付费方案。"
       },
       "tags": [
         "free-tier",
@@ -5654,18 +5654,15 @@
       ],
       "status": "active",
       "review": {
-        "date": "2026-10-22",
+        "date": "2026-10-23",
         "level": "source-review",
         "sources": [
-          "https://curlshot.com/",
           "https://curlshot.com/docs/html-and-markdown.md",
-          "https://curlshot.com/tools/markdown-to-pdf.md",
-          "https://curlshot.com/pricing.md",
           "https://curlshot.com/llms.txt"
         ],
         "note": {
-          "en": "Reviewed the official docs, Markdown-to-PDF page, pricing and llms.txt for Markdown input over POST, PNG/JPEG/WebP/PDF output, headless Chromium rendering, the 100-render free plan and the $19 starting price. The hosted service is not open source and receives the submitted content. No application test. Submitted on behalf of the developer.",
-          "zh": "核对官方文档、Markdown 转 PDF 页面、定价与 llms.txt 中关于 POST 发送 Markdown、PNG/JPEG/WebP/PDF 输出、无头 Chromium 渲染、每月 100 次免费渲染及 19 美元起价的说明。托管服务本身并非开源，需接收提交的内容。未进行应用实测。代表开发者提交。"
+          "en": "Reviewed official Markdown input docs and llms.txt for POST input, image/PDF formats, the 2 MB limit, public image URLs and free/paid plans. Pricing listed 100 free renders per month and paid plans from $19/month. Source availability was not independently established. No application test. Submitted on behalf of the developer.",
+          "zh": "核对官方 Markdown 输入文档与 llms.txt 中的 POST 输入、图片/PDF 格式、2 MB 上限、公开图片链接及免费和付费方案。定价列示每月 100 次免费渲染，付费方案每月 19 美元起。未独立确认源码开放情况。未进行应用实测。代表开发者提交。"
         }
       }
     },
