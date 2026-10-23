@@ -201,6 +201,9 @@ Markdown 原生文件、Markdown 输入快捷语法、Markdown 导入导出是�
 - [Glim](https://github.com/NeoPanic/Glim) - 免费的 macOS 文件查看器，可阅读本地 Markdown 中的 Mermaid 图表与 LaTeX 公式，支持基础源码编辑，并在工作区标签中查看 PDF、图片、JSON 和 CSV。提供 Apple Silicon 与 Intel 安装包，目前尚未经过 Apple 公证。<br>
   <span>`开源` · `提供免费方案` · `macOS` · [下载 macOS 版本](https://github.com/NeoPanic/Glim/releases/latest) · [格式支持与限制](https://github.com/NeoPanic/Glim/blob/main/docs/file-format-support.md)</span>
 
+- [Markdown File Viewer](https://markdownfileviewer.com/) - 免费的浏览器 Markdown 阅读器，可打开本地文件、粘贴文本或获取公开原始文件链接，并导出 HTML。无需安装或账号。网站说明文件在浏览器内渲染；获取远程文档需要联网。<br>
+  <span>`提供免费方案` · `Web`</span>
+
 ### 笔记与知识管理软件
 
 关注内容保存方式、链接组织与迁移能力。以 Markdown 输入内容，并不意味着笔记以 .md 文件保存。

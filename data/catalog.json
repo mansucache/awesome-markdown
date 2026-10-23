@@ -1489,6 +1489,37 @@
       }
     },
     {
+      "id": "markdown-file-viewer",
+      "name": {
+        "en": "Markdown File Viewer",
+        "zh": "Markdown File Viewer"
+      },
+      "url": "https://markdownfileviewer.com/",
+      "category": "dedicated-markdown-editors",
+      "parent": null,
+      "description": {
+        "en": "A free browser-based reader for local or pasted Markdown and public raw URLs, with HTML export. No installation or account is required. The site describes file rendering as browser-local; fetching remote documents requires network access.",
+        "zh": "免费的浏览器 Markdown 阅读器，可打开本地文件、粘贴文本或获取公开原始文件链接，并导出 HTML。无需安装或账号。网站说明文件在浏览器内渲染；获取远程文档需要联网。"
+      },
+      "tags": [
+        "free-tier",
+        "web"
+      ],
+      "links": [],
+      "status": "active",
+      "review": {
+        "date": "2026-10-23",
+        "level": "source-review",
+        "sources": [
+          "https://markdownfileviewer.com/"
+        ],
+        "note": {
+          "en": "Reviewed the official homepage for local-file/paste/raw-URL input, HTML export and free no-account access. Browser-local processing is a publisher statement, not an independently verified network-isolation guarantee. No application test.",
+          "zh": "核对官网首页的本地文件、粘贴文本、原始链接输入、HTML 导出及免费免账号说明。浏览器本地处理为网站声明，未独立验证网络隔离。未进行应用实测。"
+        }
+      }
+    },
+    {
       "id": "persona",
       "name": {
         "en": "Persona",
