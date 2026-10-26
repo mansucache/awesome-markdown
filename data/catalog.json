@@ -2514,6 +2514,37 @@
       }
     },
     {
+      "id": "imagineyourbook",
+      "name": {
+        "en": "ImagineYourBook",
+        "zh": "ImagineYourBook"
+      },
+      "url": "https://www.imagineyourbook.com/",
+      "category": "long-form-writing",
+      "parent": null,
+      "description": {
+        "en": "A paid web app for planning books and drafting chapters with AI, with Word, EPUB and Markdown export. Manuscript Rewrite accepts uploaded Word, Markdown, text or HTML files for online processing. Drafts need author review. The trial requires a card and starts paid billing after seven days unless cancelled.",
+        "zh": "付费 Web 应用，用 AI 规划书籍、逐章起草，并导出 Word、EPUB 或 Markdown。Manuscript Rewrite 支持上传 Word、Markdown、纯文本或 HTML 书稿进行在线改写。初稿需作者审阅；试用需绑卡，若不取消，七天后开始收费。"
+      },
+      "tags": [
+        "web"
+      ],
+      "links": [],
+      "status": "active",
+      "review": {
+        "date": "2026-10-26",
+        "level": "source-review",
+        "sources": [
+          "https://www.imagineyourbook.com/pricing.html",
+          "https://www.imagineyourbook.com/about"
+        ],
+        "note": {
+          "en": "Reviewed official pricing and about pages for book planning, chapter drafting, manuscript uploads, Word/EPUB/Markdown export and paid access. Corrected the text-only claim: the product also provides covers. The card-required trial converts to paid billing after seven days unless cancelled. Submitted on behalf of the product by automation. No application test.",
+          "zh": "核对官方定价页与关于页的书籍规划、逐章起草、书稿上传、Word/EPUB/Markdown 导出及付费说明。修正仅生成文字的表述，产品也提供封面。试用需绑卡，若不取消，七天后转为付费。由自动化工具代表产品方提交。未进行应用实测。"
+        }
+      }
+    },
+    {
       "id": "feishu-docs",
       "name": {
         "en": "Feishu Docs",
