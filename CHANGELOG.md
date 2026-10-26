@@ -1,5 +1,9 @@
 # Changelog / 更新记录
 
+## 2026-10-26
+
+- Added Koru to Notes and Knowledge Management, with its Markdown and TextBundle import/export, local database storage and Linux nightly preview status. 「笔记与知识管理」新增 Koru，注明 Markdown 与 TextBundle 导入导出、本地数据库存储及 Linux nightly 预览状态。
+
 ## 2026-10-22
 
 - Added CurlShot to Image Generation, with its hosted Markdown-to-image/PDF rendering over an API, free monthly allowance and paid plans. 「图片生成」新增 CurlShot，注明通过 API 将 Markdown 托管渲染为图片/PDF、每月免费额度及付费方案。
