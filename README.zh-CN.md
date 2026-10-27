@@ -289,7 +289,7 @@ Markdown 原生文件、Markdown 输入快捷语法、Markdown 导入导出是�
 - [Tale](https://github.com/tale-project/tale) - 团队与 AI 工作空间，可维护组织共享的 Markdown 知识条目及版本历史。正文限 8,000 字符，以应用记录保存，条目视图不显示图片。写入需编辑者权限，完成索引后才能检索。自托管代码采用 MIT 许可，需配置部署和账号，基础设施与模型费用另计。<br>
   <span>`开源` · `Web` · [知识条目指南](https://docs.tale.dev/platform/knowledge/knowledge-entries)</span>
 
-- [Koru](https://github.com/koruworks/mono) - 开源、本地优先的笔记、文档与文件工作空间，可导入 Markdown 和 TextBundle（以及 Evernote、Notion、OneNote），并可导出为 Markdown 或 TextBundle。笔记保存在本地数据库中，而非 .md 文件；Linux 版本为 nightly 预览版。<br>
+- [Koru](https://github.com/koruworks/mono) - 开源、本地优先的笔记、文档与文件工作空间，可导入 Markdown 和 TextBundle（以及 Evernote、Notion、OneNote），并可导出为 Markdown 或 TextBundle。笔记以本地结构化工作区数据保存，而非直接存为 .md 文件；Linux 版本为 nightly 预览版。<br>
   <span>`开源` · `Windows` · `Linux`</span>
 
 ### 长篇写作

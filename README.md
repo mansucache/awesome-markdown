@@ -299,7 +299,7 @@ Check storage, linking and migration. Markdown typing shortcuts do not mean note
 - [Tale](https://github.com/tale-project/tale) - A team and AI workspace with organization-wide Markdown knowledge entries and version history. Bodies are limited to 8,000 characters and stored as application records; images are omitted in the entry view. Editor access is needed to write, and retrieval waits for indexing. MIT-licensed self-hosting requires a configured deployment and account; infrastructure and model costs are separate.<br>
   <span>`Open source` · `Web` · [Knowledge entries guide](https://docs.tale.dev/platform/knowledge/knowledge-entries)</span>
 
-- [Koru](https://github.com/koruworks/mono) - An open-source, local-first workspace for notes, docs and files that imports Markdown and TextBundle (as well as Evernote, Notion and OneNote) and exports to Markdown or TextBundle. Notes are kept in a local database rather than as .md files, and the Linux build is a nightly preview.<br>
+- [Koru](https://github.com/koruworks/mono) - An open-source, local-first workspace for notes, docs and files that imports Markdown and TextBundle (as well as Evernote, Notion and OneNote) and exports to Markdown or TextBundle. Notes are stored as structured local workspace data rather than .md files, and the Linux build is a nightly preview.<br>
   <span>`Open source` · `Windows` · `Linux`</span>
 
 <a id="长篇写作"></a>

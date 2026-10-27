@@ -2,7 +2,7 @@
 
 ## 2026-10-26
 
-- Added Koru to Notes and Knowledge Management, with its Markdown and TextBundle import/export, local database storage and Linux nightly preview status. 「笔记与知识管理」新增 Koru，注明 Markdown 与 TextBundle 导入导出、本地数据库存储及 Linux nightly 预览状态。
+- Added Koru to Notes and Knowledge Management, with its Markdown and TextBundle import/export, structured local storage and Linux nightly preview status. 「笔记与知识管理」新增 Koru，注明 Markdown 与 TextBundle 导入导出、本地结构化存储及 Linux nightly 预览状态。
 
 ## 2026-10-22
 

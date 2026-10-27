@@ -2458,8 +2458,8 @@
       "category": "notes-and-knowledge-management",
       "parent": null,
       "description": {
-        "en": "An open-source, local-first workspace for notes, docs and files that imports Markdown and TextBundle (as well as Evernote, Notion and OneNote) and exports to Markdown or TextBundle. Notes are kept in a local database rather than as .md files, and the Linux build is a nightly preview.",
-        "zh": "开源、本地优先的笔记、文档与文件工作空间，可导入 Markdown 和 TextBundle（以及 Evernote、Notion、OneNote），并可导出为 Markdown 或 TextBundle。笔记保存在本地数据库中，而非 .md 文件；Linux 版本为 nightly 预览版。"
+        "en": "An open-source, local-first workspace for notes, docs and files that imports Markdown and TextBundle (as well as Evernote, Notion and OneNote) and exports to Markdown or TextBundle. Notes are stored as structured local workspace data rather than .md files, and the Linux build is a nightly preview.",
+        "zh": "开源、本地优先的笔记、文档与文件工作空间，可导入 Markdown 和 TextBundle（以及 Evernote、Notion、OneNote），并可导出为 Markdown 或 TextBundle。笔记以本地结构化工作区数据保存，而非直接存为 .md 文件；Linux 版本为 nightly 预览版。"
       },
       "tags": [
         "open-source",
@@ -2469,14 +2469,15 @@
       "links": [],
       "status": "active",
       "review": {
-        "date": "2026-10-26",
+        "date": "2026-10-27",
         "level": "source-review",
         "sources": [
-          "https://github.com/koruworks/mono"
+          "https://github.com/koruworks/mono",
+          "https://github.com/koruworks/mono/blob/main/LICENSE"
         ],
         "note": {
-          "en": "Project README checked for Markdown and TextBundle import/export, local database storage, license and platform status (Windows supported, Linux nightly preview, macOS builds from source only). Not an application test. Submitted by the developer.",
-          "zh": "已核对项目 README 中关于 Markdown 与 TextBundle 导入导出、本地数据库存储、许可证及平台状态（Windows 已支持，Linux 为 nightly 预览版，macOS 仅可从源码构建）的说明；未进行应用实测。由开发者提交。"
+          "en": "Project README checked for Markdown and TextBundle import/export, structured local storage using Loro snapshots, MPL-2.0 license and platform status (Windows supported, Linux nightly preview, macOS builds from source only). Not an application test. Submitted by the developer.",
+          "zh": "已核对项目 README 中关于 Markdown 与 TextBundle 导入导出、使用 Loro 快照的本地结构化存储、MPL-2.0 许可证及平台状态（Windows 已支持，Linux 为 nightly 预览版，macOS 仅可从源码构建）的说明；未进行应用实测。由开发者提交。"
         }
       }
     },
