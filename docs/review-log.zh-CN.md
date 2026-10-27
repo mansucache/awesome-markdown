@@ -69,6 +69,7 @@
 | Bear | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://bear.app/) |
 | Quillpad | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/quillpad/quillpad) |
 | Tale | 2026-10-09 | 专项来源核对 | 核对官方文档、仓库许可及条目视图实现中的 Markdown 渲染、当前与历史版本、不显示图片、正文 8,000 字符限制、组织共享范围、编辑者权限与异步索引。条目为应用记录，不宣称 Markdown 文件导入导出或无损往返。自托管及模型、基础设施费用与 MIT 代码许可分开。由代表所有者的助手推荐，未部署或进行应用实测。 | [1](https://docs.tale.dev/platform/knowledge/knowledge-entries) [2](https://github.com/tale-project/tale/blob/main/services/platform/app/features/knowledge-entries/components/knowledge-entry-view-dialog.tsx) [3](https://github.com/tale-project/tale) [4](https://github.com/tale-project/tale/blob/main/LICENSE) |
+| Koru | 2026-10-27 | 专项来源核对 | 已核对项目 README 中关于 Markdown 与 TextBundle 导入导出、使用 Loro 快照的本地结构化存储、MPL-2.0 许可证及平台状态（Windows 已支持，Linux 为 nightly 预览版，macOS 仅可从源码构建）的说明；未进行应用实测。由开发者提交。 | [1](https://github.com/koruworks/mono) [2](https://github.com/koruworks/mono/blob/main/LICENSE) |
 | novelWriter | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/saga-soft/novelWriter) |
 | WonderPen（妙笔） | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://www.tominlab.com/wonderpen) |
 | ImagineYourBook | 2026-10-26 | 专项来源核对 | 核对官方定价页与关于页的书籍规划、逐章起草、书稿上传、Word/EPUB/Markdown 导出及付费说明。修正仅生成文字的表述，产品也提供封面。试用需绑卡，若不取消，七天后转为付费。由自动化工具代表产品方提交。未进行应用实测。 | [1](https://www.imagineyourbook.com/pricing.html) [2](https://www.imagineyourbook.com/about) |
