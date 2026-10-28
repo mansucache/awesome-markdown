@@ -5621,6 +5621,38 @@
       }
     },
     {
+      "id": "plainrecordlabs-docs-to-markdown",
+      "name": {
+        "en": "PDF to Markdown Converter (Plain Record Labs)",
+        "zh": "PDF to Markdown Converter（Plain Record Labs）"
+      },
+      "url": "https://apify.com/plainrecordlabs/docs-to-markdown",
+      "category": "to-markdown",
+      "parent": null,
+      "description": {
+        "en": "An Apify-hosted tool that batch-converts PDF, DOCX, PPTX, XLSX, HTML, CSV and text URLs to Markdown, with optional RAG chunks and ruled PDF tables exported to Excel. Files are fetched and processed on Apify; charges include converted documents, PDF pages and run starts. No OCR, PDF heading detection or password-protected files; unruled PDF tables remain text.",
+        "zh": "在 Apify 上批量获取 PDF、DOCX、PPTX、XLSX、HTML、CSV 和纯文本链接并转为 Markdown，可选 RAG 分块及带网格线 PDF 表格的 Excel 导出。文件由 Apify 获取并处理，按转换文档、PDF 页数和运行启动收费。不支持 OCR、PDF 标题识别或加密文件；无网格线的 PDF 表格保留为文本。"
+      },
+      "tags": [
+        "web",
+        "api"
+      ],
+      "links": [],
+      "status": "active",
+      "review": {
+        "date": "2026-10-28",
+        "level": "source-review",
+        "sources": [
+          "https://apify.com/plainrecordlabs/docs-to-markdown",
+          "https://api.apify.com/v2/acts/plainrecordlabs~docs-to-markdown"
+        ],
+        "note": {
+          "en": "Reviewed the official store README and public Actor metadata for mixed-format URL input, Markdown output, optional chunks/XLSX, hosted processing, and document/page/start charges. No OCR, PDF heading detection or password-protected files. Oversized result rows can be truncated with a link to the complete Markdown. New service created October 24, 2026; no application test or conversion-quality verification. Submitted by the developer.",
+          "zh": "核对官方商店 README 与公开 Actor 元数据中的混合格式链接输入、Markdown 输出、可选分块/XLSX、托管处理及文档/页数/启动计费。不支持 OCR、PDF 标题识别或加密文件；过大的结果行可能截断，并提供完整 Markdown 链接。服务于 2026-10-24 创建，未进行应用实测或转换质量验证。由开发者提交。"
+        }
+      }
+    },
+    {
       "id": "md2card",
       "name": {
         "en": "MD2Card",

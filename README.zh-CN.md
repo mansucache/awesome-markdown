@@ -645,6 +645,9 @@ Markdown 原生文件、Markdown 输入快捷语法、Markdown 导入导出是�
 - [PDFtoMarkdown.ai](https://pdftomarkdown.ai/) - 托管式 PDF 转 Markdown 服务，面向 Claude、ChatGPT、Obsidian、RAG 与 AI 代理工作流，扫描件可选 OCR。可通过网页、REST API，或在 MCP 客户端中借助 MIT 许可的 @happywp/pdftomarkdown-mcp 服务器使用。文件需上传至该服务进行转换。可免费开始，较大文档按页使用预付积分，积分不过期，无需订阅。重要表格与数值应对照原文核对。<br>
   <span>`提供免费方案` · `Web` · `API` · [MCP 配置](https://pdftomarkdown.ai/mcp) · [MCP 服务器](https://github.com/happywpco/pdftomarkdown-mcp)</span>
 
+- [PDF to Markdown Converter（Plain Record Labs）](https://apify.com/plainrecordlabs/docs-to-markdown) - 在 Apify 上批量获取 PDF、DOCX、PPTX、XLSX、HTML、CSV 和纯文本链接并转为 Markdown，可选 RAG 分块及带网格线 PDF 表格的 Excel 导出。文件由 Apify 获取并处理，按转换文档、PDF 页数和运行启动收费。不支持 OCR、PDF 标题识别或加密文件；无网格线的 PDF 表格保留为文本。<br>
+  <span>`Web` · `API`</span>
+
 ### 转成图片
 
 单次制作关注排版预览，批量生成关注 API、部署方式与主题定制。

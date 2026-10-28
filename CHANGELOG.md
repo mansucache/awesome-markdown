@@ -1,5 +1,9 @@
 # Changelog / 更新记录
 
+## 2026-10-28
+
+- Added Plain Record Labs’ PDF to Markdown Converter to To Markdown, with hosted processing, pricing and extraction limits. 「转为 Markdown」新增 Plain Record Labs 的 PDF to Markdown Converter，注明托管处理、计费与提取限制。
+
 ## 2026-10-26
 
 - Added Koru to Notes and Knowledge Management, with its Markdown and TextBundle import/export, structured local storage and Linux nightly preview status. 「笔记与知识管理」新增 Koru，注明 Markdown 与 TextBundle 导入导出、本地结构化存储及 Linux nightly 预览状态。
