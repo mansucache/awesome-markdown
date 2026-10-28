@@ -689,6 +689,9 @@ Choose by input format and execution environment; check headings, tables, images
 - [PDFtoMarkdown.ai](https://pdftomarkdown.ai/) - A hosted service that converts PDFs to Markdown for Claude, ChatGPT, Obsidian, RAG and agent workflows, with optional OCR for scanned files. Use it in the browser, through a REST API, or from MCP clients with the MIT-licensed @happywp/pdftomarkdown-mcp server. Files are uploaded to the service for conversion. It starts free; larger documents use prepaid pay-per-page credits that do not expire, with no subscription. Check tables and numbers against the source.<br>
   <span>`Free option` · `Web` · `API` · [MCP setup](https://pdftomarkdown.ai/mcp) · [MCP server](https://github.com/happywpco/pdftomarkdown-mcp)</span>
 
+- [PDF to Markdown Converter (Plain Record Labs)](https://apify.com/plainrecordlabs/docs-to-markdown) - An Apify-hosted tool that batch-converts PDF, DOCX, PPTX, XLSX, HTML, CSV and text URLs to Markdown, with optional RAG chunks and ruled PDF tables exported to Excel. Files are fetched and processed on Apify; charges include converted documents, PDF pages and run starts. No OCR, PDF heading detection or password-protected files; unruled PDF tables remain text.<br>
+  <span>`Web` · `API`</span>
+
 <a id="转成图片"></a>
 
 ### Image Generation
