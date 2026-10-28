@@ -1379,8 +1379,8 @@
       "category": "dedicated-markdown-editors",
       "parent": null,
       "description": {
-        "en": "A free browser editor that formats Markdown in place, with document tabs and autosave in the current browser. Exports Markdown and HTML; PDF uses the browser print dialog. No account is required. Download backups, and clear saved documents after using a shared computer.",
-        "zh": "免费的浏览器 Markdown 编辑器，输入时直接呈现格式，支持多文档标签和当前浏览器内自动保存。可导出 Markdown、HTML，PDF 通过浏览器打印对话框生成，无需账号。建议下载备份，在共用电脑上使用后清除已保存文档。"
+        "en": "A free browser editor that formats Markdown in place, with document tabs and autosave in the current browser. Exports Markdown, HTML and Word (.docx), and copies rich text; PDF uses the browser print dialog. No account is required. Download backups, and clear saved documents after using a shared computer.",
+        "zh": "免费的浏览器 Markdown 编辑器，输入时直接呈现格式，支持多文档标签和当前浏览器内自动保存。可导出 Markdown、HTML、Word（.docx）及复制富文本，PDF 通过浏览器打印对话框生成，无需账号。建议下载备份，在共用电脑上使用后清除已保存文档。"
       },
       "tags": [
         "free-tier",
@@ -1389,16 +1389,18 @@
       "links": [],
       "status": "active",
       "review": {
-        "date": "2026-10-09",
+        "date": "2026-10-28",
         "level": "source-review",
         "sources": [
           "https://typefire.app/markdown-editor-online",
           "https://typefire.app/markdown-to-pdf",
-          "https://github.com/mansucache/awesome-markdown/issues/21"
+          "https://github.com/mansucache/awesome-markdown/issues/21",
+          "https://typefire.app/markdown-converter",
+          "https://typefire.app/markdown-to-word"
         ],
         "note": {
-          "en": "Reviewed official editor and PDF pages for in-place formatting, tabs, browser-local saving, no-account access, file exports and clearing saved documents. The submitted typefire.ai URL redirects to typefire.app. Submitted by the developer; no application test. Network isolation, unsupported syntax and closed-source claims were not independently established and are not presented as verified guarantees.",
-          "zh": "核对官方编辑器及 PDF 页面中的原位格式呈现、标签、浏览器内保存、免账号访问、导出与清除文档说明。提交的 typefire.ai 链接跳转至 typefire.app。由开发者推荐，未进行应用实测；未独立确认网络隔离、不支持的语法及闭源声明，因此未作为已核验保证写入介绍。"
+          "en": "Reviewed official editor and PDF pages for in-place formatting, tabs, browser-local saving, no-account access, file exports and clearing saved documents. The submitted typefire.ai URL redirects to typefire.app. Submitted by the developer; no application test. Network isolation, unsupported syntax and closed-source claims were not independently established and are not presented as verified guarantees. Rechecked the official conversion pages for rich-text paste to Markdown, DOCX export and rich-text copying.",
+          "zh": "核对官方编辑器及 PDF 页面中的原位格式呈现、标签、浏览器内保存、免账号访问、导出与清除文档说明。提交的 typefire.ai 链接跳转至 typefire.app。由开发者推荐，未进行应用实测；未独立确认网络隔离、不支持的语法及闭源声明，因此未作为已核验保证写入介绍。 已补充核对官方转换页的富文本粘贴转 Markdown、DOCX 导出及富文本复制说明。"
         }
       }
     },
@@ -5048,6 +5050,46 @@
         "note": {
           "en": "Official page or repository metadata checked; not an application test.",
           "zh": "已检查官方页面或仓库元数据，未进行应用功能实测。"
+        }
+      }
+    },
+    {
+      "id": "typefire-markdown-conversion",
+      "name": {
+        "en": "TypeFire Markdown Conversion",
+        "zh": "TypeFire Markdown 转换"
+      },
+      "url": "https://typefire.app/markdown-converter",
+      "category": "conversion-tools",
+      "parent": null,
+      "description": {
+        "en": "Free, no-account conversion using the TypeFire web editor: paste formatted text from Word, Google Docs, web pages or email to obtain Markdown, or open Markdown and download a Word (.docx) file or copy rich text. Word-to-Markdown uses copied text, not direct DOCX import. The publisher states conversion runs in the browser.",
+        "zh": "使用 TypeFire 网页编辑器免费、免账号转换：粘贴 Word、Google Docs、网页或邮件中的富文本，转为 Markdown；也可打开 Markdown，下载 Word（.docx）或复制富文本。Word 转 Markdown 通过复制粘贴文本完成，并非直接导入 DOCX 文件。开发者说明转换在浏览器内进行。"
+      },
+      "tags": [
+        "free-tier",
+        "web"
+      ],
+      "links": [
+        {
+          "url": "https://typefire.app/markdown-to-word",
+          "label": {
+            "en": "Markdown to Word",
+            "zh": "Markdown 转 Word"
+          }
+        }
+      ],
+      "status": "active",
+      "review": {
+        "date": "2026-10-28",
+        "level": "source-review",
+        "sources": [
+          "https://typefire.app/markdown-converter",
+          "https://typefire.app/markdown-to-word"
+        ],
+        "note": {
+          "en": "Reviewed both official pages for rich-text clipboard input, Markdown download/copy, DOCX export, rich-text copying and free no-account access. Both pages use the same editor already listed. Local processing is a publisher statement; no network-isolation or conversion-fidelity test. Submitted by the developer.",
+          "zh": "核对两个官方页面中的富文本剪贴板输入、Markdown 下载/复制、DOCX 导出、富文本复制及免费免账号说明。两个页面使用已收录的同一编辑器。本地处理为开发者声明，未测试网络隔离或转换保真度。由开发者推荐。"
         }
       }
     },

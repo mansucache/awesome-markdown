@@ -192,7 +192,7 @@ Markdown 原生文件、Markdown 输入快捷语法、Markdown 导入导出是�
 - [MacMD Viewer](https://macmdviewer.com) - 面向 macOS 14 及以上的只读查看器，支持 Mermaid、代码高亮、Finder 快速查看和文件变更自动刷新，可搭配现有编辑器使用。PDF 导出为连续长页，分页需使用打印功能。官网直购一次性付费 19.99 美元，限一台 Mac 同时使用，无免费试用。<br>
   <span>`macOS`</span>
 
-- [TypeFire Markdown Editor](https://typefire.app/markdown-editor-online) - 免费的浏览器 Markdown 编辑器，输入时直接呈现格式，支持多文档标签和当前浏览器内自动保存。可导出 Markdown、HTML，PDF 通过浏览器打印对话框生成，无需账号。建议下载备份，在共用电脑上使用后清除已保存文档。<br>
+- [TypeFire Markdown Editor](https://typefire.app/markdown-editor-online) - 免费的浏览器 Markdown 编辑器，输入时直接呈现格式，支持多文档标签和当前浏览器内自动保存。可导出 Markdown、HTML、Word（.docx）及复制富文本，PDF 通过浏览器打印对话框生成，无需账号。建议下载备份，在共用电脑上使用后清除已保存文档。<br>
   <span>`提供免费方案` · `Web`</span>
 
 - [Ritemark](https://ritemark.app/en/) - 面向本地 .md 文件的桌面所见即所得编辑器，提供终端和内置的 Claude Code、Codex、OpenCode 代理，可编辑同一批文件。支持 Mermaid 与 Word、PDF 导出，导出不嵌入远程图片。应用免费；AI 需自备服务商账号或 API 密钥，费用另计，代理读取的内容会发送给对应服务商。<br>
@@ -592,6 +592,9 @@ Markdown 原生文件、Markdown 输入快捷语法、Markdown 导入导出是�
 
   - [Eisvogel](https://github.com/Wandmalfarbe/pandoc-latex-template) - 用于 Pandoc 的 LaTeX 模板，将 Markdown 输出为 PDF 或 LaTeX，适合需要统一文档版式的报告与手册。<br>
     <span>`开源`</span>
+
+- [TypeFire Markdown 转换](https://typefire.app/markdown-converter) - 使用 TypeFire 网页编辑器免费、免账号转换：粘贴 Word、Google Docs、网页或邮件中的富文本，转为 Markdown；也可打开 Markdown，下载 Word（.docx）或复制富文本。Word 转 Markdown 通过复制粘贴文本完成，并非直接导入 DOCX 文件。开发者说明转换在浏览器内进行。<br>
+  <span>`提供免费方案` · `Web` · [Markdown 转 Word](https://typefire.app/markdown-to-word)</span>
 
 ### 转成 Markdown
 

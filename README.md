@@ -200,7 +200,7 @@ Choose source editing, WYSIWYG or a separate previewer first; then compare docum
 - [MacMD Viewer](https://macmdviewer.com) - A read-only viewer for macOS 14+ with Mermaid, syntax highlighting, Finder Quick Look and live reload alongside an external editor. PDF export produces one continuous page; use Print for paper-sized pages. Direct purchase is $19.99 once for one active Mac, with no free trial.<br>
   <span>`macOS`</span>
 
-- [TypeFire Markdown Editor](https://typefire.app/markdown-editor-online) - A free browser editor that formats Markdown in place, with document tabs and autosave in the current browser. Exports Markdown and HTML; PDF uses the browser print dialog. No account is required. Download backups, and clear saved documents after using a shared computer.<br>
+- [TypeFire Markdown Editor](https://typefire.app/markdown-editor-online) - A free browser editor that formats Markdown in place, with document tabs and autosave in the current browser. Exports Markdown, HTML and Word (.docx), and copies rich text; PDF uses the browser print dialog. No account is required. Download backups, and clear saved documents after using a shared computer.<br>
   <span>`Free option` · `Web`</span>
 
 - [Ritemark](https://ritemark.app/en/) - A desktop WYSIWYG editor for local .md files, with a terminal and built-in Claude Code, Codex and OpenCode agents that edit the same files. Supports Mermaid and Word/PDF export; remote images are not embedded in exports. The app is free; AI uses your provider account or API keys, with separate costs, and sends agent-read content to that provider.<br>
@@ -634,6 +634,9 @@ Identify input and output first. Try representative files before converting a co
 
   - [Eisvogel](https://github.com/Wandmalfarbe/pandoc-latex-template) - A Pandoc LaTeX template for turning Markdown into consistently typeset PDF or LaTeX reports and handouts.<br>
     <span>`Open source`</span>
+
+- [TypeFire Markdown Conversion](https://typefire.app/markdown-converter) - Free, no-account conversion using the TypeFire web editor: paste formatted text from Word, Google Docs, web pages or email to obtain Markdown, or open Markdown and download a Word (.docx) file or copy rich text. Word-to-Markdown uses copied text, not direct DOCX import. The publisher states conversion runs in the browser.<br>
+  <span>`Free option` · `Web` · [Markdown to Word](https://typefire.app/markdown-to-word)</span>
 
 <a id="转成-markdown"></a>
 

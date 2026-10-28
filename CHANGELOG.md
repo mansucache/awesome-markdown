@@ -2,6 +2,8 @@
 
 ## 2026-10-28
 
+- Added TypeFire’s rich-text/Markdown and Word conversion workflows, and updated the editor export description. 补充 TypeFire 富文本、Markdown 与 Word 转换入口，并更新编辑器导出说明。
+
 - Added Plain Record Labs’ PDF to Markdown Converter to To Markdown, with hosted processing, pricing and extraction limits. 「转为 Markdown」新增 Plain Record Labs 的 PDF to Markdown Converter，注明托管处理、计费与提取限制。
 
 ## 2026-10-26
