@@ -2484,6 +2484,38 @@
       }
     },
     {
+      "id": "papyra",
+      "name": {
+        "en": "Papyra",
+        "zh": "Papyra"
+      },
+      "url": "https://github.com/lyfie-org/papyra",
+      "category": "notes-and-knowledge-management",
+      "parent": null,
+      "description": {
+        "en": "Self-hosted card-based notes app that stores notes as Markdown files you can edit with another editor. Run it in Docker and access it from a browser.",
+        "zh": "自托管卡片笔记工具，以 Markdown 文件保存笔记，可用其他编辑器直接修改。通过 Docker 部署，在浏览器中使用。"
+      },
+      "tags": [
+        "open-source",
+        "web"
+      ],
+      "links": [],
+      "status": "active",
+      "review": {
+        "date": "2026-10-31",
+        "level": "source-review",
+        "sources": [
+          "https://github.com/lyfie-org/papyra",
+          "https://papyra.app/docs/install/"
+        ],
+        "note": {
+          "en": "Reviewed the project README and installation guide for file storage and Docker deployment. Submitted by the developer. No application test.",
+          "zh": "核对了项目 README 和安装文档中的笔记存储方式与 Docker 部署说明。由开发者推荐，未做应用实测。"
+        }
+      }
+    },
+    {
       "id": "novelwriter",
       "name": {
         "en": "novelWriter",

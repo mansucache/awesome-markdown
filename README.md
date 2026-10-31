@@ -302,6 +302,9 @@ Check storage, linking and migration. Markdown typing shortcuts do not mean note
 - [Koru](https://github.com/koruworks/mono) - An open-source, local-first workspace for notes, docs and files that imports Markdown and TextBundle (as well as Evernote, Notion and OneNote) and exports to Markdown or TextBundle. Notes are stored as structured local workspace data rather than .md files, and the Linux build is a nightly preview.<br>
   <span>`Open source` · `Windows` · `Linux`</span>
 
+- [Papyra](https://github.com/lyfie-org/papyra) - Self-hosted card-based notes app that stores notes as Markdown files you can edit with another editor. Run it in Docker and access it from a browser.<br>
+  <span>`Open source` · `Web`</span>
+
 <a id="长篇写作"></a>
 
 ### Long-form Writing
