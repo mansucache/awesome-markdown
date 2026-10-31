@@ -292,6 +292,9 @@ Markdown 原生文件、Markdown 输入快捷语法、Markdown 导入导出是�
 - [Koru](https://github.com/koruworks/mono) - 开源、本地优先的笔记、文档与文件工作空间，可导入 Markdown 和 TextBundle（以及 Evernote、Notion、OneNote），并可导出为 Markdown 或 TextBundle。笔记以本地结构化工作区数据保存，而非直接存为 .md 文件；Linux 版本为 nightly 预览版。<br>
   <span>`开源` · `Windows` · `Linux`</span>
 
+- [Papyra](https://github.com/lyfie-org/papyra) - 自托管卡片笔记工具，以 Markdown 文件保存笔记，可用其他编辑器直接修改。通过 Docker 部署，在浏览器中使用。<br>
+  <span>`开源` · `Web`</span>
+
 ### 长篇写作
 
 重点比较章节组织、大纲、历史版本与最终导出格式。

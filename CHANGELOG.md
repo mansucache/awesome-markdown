@@ -1,5 +1,9 @@
 # Changelog / 更新记录
 
+## 2026-10-31
+
+- Added Papyra to Notes and Knowledge Management.「笔记与知识管理」新增自托管 Markdown 卡片笔记工具 Papyra。
+
 ## 2026-10-28
 
 - Added TypeFire’s rich-text/Markdown and Word conversion workflows, and updated the editor export description. 补充 TypeFire 富文本、Markdown 与 Word 转换入口，并更新编辑器导出说明。
