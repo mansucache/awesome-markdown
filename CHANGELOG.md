@@ -1,5 +1,9 @@
 # Changelog / 更新记录
 
+## 2026-11-03
+
+- Added @cognipeer/to-markdown to To Markdown.「转为 Markdown」新增 Node.js 转换库 @cognipeer/to-markdown。
+
 ## 2026-10-31
 
 - Added Papyra to Notes and Knowledge Management.「笔记与知识管理」新增自托管 Markdown 卡片笔记工具 Papyra。

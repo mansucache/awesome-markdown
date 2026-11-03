@@ -615,6 +615,9 @@ Markdown 原生文件、Markdown 输入快捷语法、Markdown 导入导出是�
 - [MarkItDown](https://github.com/microsoft/markitdown) - 微软开源的 Python 工具，将 PDF、Word、Excel 等转换为 Markdown，面向文本分析与 LLM 流程，不以原始版式的高保真还原为目标。<br>
   <span>`开源` · `CLI` · `Python`</span>
 
+- [@cognipeer/to-markdown](https://github.com/Cognipeer/to-markdown) - 在 Node.js 中将 PDF、Word、Excel 和 HTML 文件转换为 Markdown。按需启用 OCR，可提取扫描版 PDF 页面中的文字。<br>
+  <span>`开源`</span>
+
 - [Jupytext](https://github.com/jupytext/jupytext) - 将 Jupyter Notebook 与 Markdown 等纯文本格式衔接，适合通过 Git 查看差异并维护 Notebook 内容。<br>
   <span>`开源` · `CLI`</span>
 

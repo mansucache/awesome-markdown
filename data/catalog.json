@@ -5260,6 +5260,36 @@
       }
     },
     {
+      "id": "cognipeer-to-markdown",
+      "name": {
+        "en": "@cognipeer/to-markdown",
+        "zh": "@cognipeer/to-markdown"
+      },
+      "url": "https://github.com/Cognipeer/to-markdown",
+      "category": "to-markdown",
+      "parent": null,
+      "description": {
+        "en": "Node.js library that converts PDF, Word, Excel and HTML files to Markdown. Enable OCR to extract text from scanned PDF pages.",
+        "zh": "在 Node.js 中将 PDF、Word、Excel 和 HTML 文件转换为 Markdown。按需启用 OCR，可提取扫描版 PDF 页面中的文字。"
+      },
+      "tags": [
+        "open-source"
+      ],
+      "links": [],
+      "status": "active",
+      "review": {
+        "date": "2026-11-03",
+        "level": "source-review",
+        "sources": [
+          "https://github.com/Cognipeer/to-markdown"
+        ],
+        "note": {
+          "en": "Reviewed the official README for format support and optional PDF OCR. Recommended by a project maintainer.",
+          "zh": "已核对官方 README 中的格式支持与可选 PDF OCR 说明。由项目维护者推荐。"
+        }
+      }
+    },
+    {
       "id": "jupytext",
       "name": {
         "en": "Jupytext",

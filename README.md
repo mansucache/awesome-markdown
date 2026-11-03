@@ -659,6 +659,9 @@ Choose by input format and execution environment; check headings, tables, images
 - [MarkItDown](https://github.com/microsoft/markitdown) - Microsoft's Python converter for PDF, Word, Excel and other files, designed for text analysis and LLM workflows rather than high-fidelity layout reproduction.<br>
   <span>`Open source` · `CLI` · `Python`</span>
 
+- [@cognipeer/to-markdown](https://github.com/Cognipeer/to-markdown) - Node.js library that converts PDF, Word, Excel and HTML files to Markdown. Enable OCR to extract text from scanned PDF pages.<br>
+  <span>`Open source`</span>
+
 - [Jupytext](https://github.com/jupytext/jupytext) - Pairs Jupyter Notebooks with Markdown or other text formats for readable Git diffs and version control.<br>
   <span>`Open source` · `CLI`</span>
 
