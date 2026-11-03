@@ -157,6 +157,7 @@
 | feishu2md | 2026-09-08 | 专项来源核对 | 已就所述能力或修正核对列出的来源，未进行应用功能实测。 | [1](https://github.com/Wsine/feishu2md) |
 | noted.md | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/tejas-raskar/noted.md) |
 | MarkItDown | 2026-09-08 | 专项来源核对 | 已就所述能力或修正核对列出的来源，未进行应用功能实测。 | [1](https://github.com/microsoft/markitdown) |
+| @cognipeer/to-markdown | 2026-11-03 | 专项来源核对 | 已核对官方 README 中的格式支持与可选 PDF OCR 说明。由项目维护者推荐。 | [1](https://github.com/Cognipeer/to-markdown) |
 | Jupytext | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/jupytext/jupytext) |
 | keep-it-markdown (KIM) | 2026-09-08 | 专项来源核对 | 已就所述能力或修正核对列出的来源，未进行应用功能实测。 | [1](https://github.com/djsudduth/keep-it-markdown) |
 | YARLE (Yet Another RLE) | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/akosbalasko/yarle) |

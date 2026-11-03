@@ -157,6 +157,7 @@ These records describe the scope of review. A reachable page is not an applicati
 | feishu2md | 2026-09-08 | Focused source review | Reviewed the cited source for the stated capability or correction; application behavior was not tested. | [1](https://github.com/Wsine/feishu2md) |
 | noted.md | 2026-09-08 | Metadata check | Official page or repository metadata checked; not an application test. | [1](https://github.com/tejas-raskar/noted.md) |
 | MarkItDown | 2026-09-08 | Focused source review | Reviewed the cited source for the stated capability or correction; application behavior was not tested. | [1](https://github.com/microsoft/markitdown) |
+| @cognipeer/to-markdown | 2026-11-03 | Focused source review | Reviewed the official README for format support and optional PDF OCR. Recommended by a project maintainer. | [1](https://github.com/Cognipeer/to-markdown) |
 | Jupytext | 2026-09-08 | Metadata check | Official page or repository metadata checked; not an application test. | [1](https://github.com/jupytext/jupytext) |
 | keep-it-markdown (KIM) | 2026-09-08 | Focused source review | Reviewed the cited source for the stated capability or correction; application behavior was not tested. | [1](https://github.com/djsudduth/keep-it-markdown) |
 | YARLE (Yet Another RLE) | 2026-09-08 | Metadata check | Official page or repository metadata checked; not an application test. | [1](https://github.com/akosbalasko/yarle) |
