@@ -295,6 +295,9 @@ Markdown 原生文件、Markdown 输入快捷语法、Markdown 导入导出是�
 - [Papyra](https://github.com/lyfie-org/papyra) - 自托管卡片笔记工具，以 Markdown 文件保存笔记，可用其他编辑器直接修改。通过 Docker 部署，在浏览器中使用。<br>
   <span>`开源` · `Web`</span>
 
+- [Cloud Alter Ego](https://cloudalterego.cafeboon.com/) - 远程 MCP 连接器，将 AI 工作规则、个人资料与日志保存为自己 OneDrive、Google Drive、Dropbox、GitHub 或 Azure DevOps 中的 Markdown 文件。需授权云存储，文件内容经托管服务处理；所附 MIT 开源模板与连接器服务是两个独立部分。<br>
+  <span>`Web` · [记忆模板](https://github.com/SebastiaanBoon/cloud-alter-ego)</span>
+
 ### 长篇写作
 
 重点比较章节组织、大纲、历史版本与最终导出格式。

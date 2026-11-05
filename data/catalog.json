@@ -2516,6 +2516,46 @@
       }
     },
     {
+      "id": "cloud-alter-ego",
+      "name": {
+        "en": "Cloud Alter Ego",
+        "zh": "Cloud Alter Ego"
+      },
+      "url": "https://cloudalterego.cafeboon.com/",
+      "category": "notes-and-knowledge-management",
+      "parent": null,
+      "description": {
+        "en": "Remote MCP connector that keeps AI rules, profiles and journals as Markdown files in your OneDrive, Google Drive, Dropbox, GitHub or Azure DevOps. Requires storage authorization and processes file content through its hosted service; the linked MIT template is separate from the connector.",
+        "zh": "远程 MCP 连接器，将 AI 工作规则、个人资料与日志保存为自己 OneDrive、Google Drive、Dropbox、GitHub 或 Azure DevOps 中的 Markdown 文件。需授权云存储，文件内容经托管服务处理；所附 MIT 开源模板与连接器服务是两个独立部分。"
+      },
+      "tags": [
+        "web"
+      ],
+      "links": [
+        {
+          "label": {
+            "en": "Memory template",
+            "zh": "记忆模板"
+          },
+          "url": "https://github.com/SebastiaanBoon/cloud-alter-ego"
+        }
+      ],
+      "status": "active",
+      "review": {
+        "date": "2026-11-05",
+        "level": "source-review",
+        "sources": [
+          "https://cloudalterego.cafeboon.com/docs.html",
+          "https://cloudalterego.cafeboon.com/",
+          "https://github.com/SebastiaanBoon/cloud-alter-ego"
+        ],
+        "note": {
+          "en": "Reviewed official storage setup, Markdown layout, remote MCP tools and in-memory content processing claims, plus the repository description distinguishing the MIT template from the hosted connector. Client compatibility depends on remote MCP and OAuth support. Recommended by its developer; no application test.",
+          "zh": "已核对官方云存储授权、Markdown 文件布局、远程 MCP 工具及内容仅经内存处理的声明，并核对仓库对 MIT 模板与托管连接器的区分。客户端兼容性取决于远程 MCP 与 OAuth 支持。由开发者推荐，未做应用实测。"
+        }
+      }
+    },
+    {
       "id": "novelwriter",
       "name": {
         "en": "novelWriter",
