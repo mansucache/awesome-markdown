@@ -1,5 +1,9 @@
 # Changelog / 更新记录
 
+## 2026-11-05
+
+- Added Cloud Alter Ego to Notes and Knowledge Management, with its cloud storage authorization and hosted processing requirements.「笔记与知识管理」新增 Cloud Alter Ego，注明云存储授权和托管处理要求。
+
 ## 2026-11-03
 
 - Added @cognipeer/to-markdown to To Markdown.「转为 Markdown」新增 Node.js 转换库 @cognipeer/to-markdown。

@@ -305,6 +305,9 @@ Check storage, linking and migration. Markdown typing shortcuts do not mean note
 - [Papyra](https://github.com/lyfie-org/papyra) - Self-hosted card-based notes app that stores notes as Markdown files you can edit with another editor. Run it in Docker and access it from a browser.<br>
   <span>`Open source` · `Web`</span>
 
+- [Cloud Alter Ego](https://cloudalterego.cafeboon.com/) - Remote MCP connector that keeps AI rules, profiles and journals as Markdown files in your OneDrive, Google Drive, Dropbox, GitHub or Azure DevOps. Requires storage authorization and processes file content through its hosted service; the linked MIT template is separate from the connector.<br>
+  <span>`Web` · [Memory template](https://github.com/SebastiaanBoon/cloud-alter-ego)</span>
+
 <a id="长篇写作"></a>
 
 ### Long-form Writing
