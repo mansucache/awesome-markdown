@@ -308,6 +308,9 @@ Check storage, linking and migration. Markdown typing shortcuts do not mean note
 - [Cloud Alter Ego](https://cloudalterego.cafeboon.com/) - Remote MCP connector that keeps AI rules, profiles and journals as Markdown files in your OneDrive, Google Drive, Dropbox, GitHub or Azure DevOps. Requires storage authorization and processes file content through its hosted service; the linked MIT template is separate from the connector.<br>
   <span>`Web` · [Memory template](https://github.com/SebastiaanBoon/cloud-alter-ego)</span>
 
+- [sqlite-graph-memory](https://github.com/tonydzi/sqlite-graph-memory) - Python CLI and MCP server for searching Markdown folders, including Obsidian vaults, with vector retrieval and graph expansion along existing `[[wikilinks]]`. Reads notes without editing them; currently a pilot requiring local embedding models, with Python 3.12 recommended on Intel Macs.<br>
+  <span>`Open source` · `Python` · `CLI`</span>
+
 <a id="长篇写作"></a>
 
 ### Long-form Writing

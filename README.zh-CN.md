@@ -298,6 +298,9 @@ Markdown 原生文件、Markdown 输入快捷语法、Markdown 导入导出是�
 - [Cloud Alter Ego](https://cloudalterego.cafeboon.com/) - 远程 MCP 连接器，将 AI 工作规则、个人资料与日志保存为自己 OneDrive、Google Drive、Dropbox、GitHub 或 Azure DevOps 中的 Markdown 文件。需授权云存储，文件内容经托管服务处理；所附 MIT 开源模板与连接器服务是两个独立部分。<br>
   <span>`Web` · [记忆模板](https://github.com/SebastiaanBoon/cloud-alter-ego)</span>
 
+- [sqlite-graph-memory](https://github.com/tonydzi/sqlite-graph-memory) - 通过 Python CLI 或 MCP 服务检索 Markdown 文件夹（包括 Obsidian 仓库），结合向量检索与已有 `[[wikilinks]]` 的图扩展。只读笔记，不修改原文；目前为试点项目，需要本地嵌入模型，Intel Mac 推荐使用 Python 3.12。<br>
+  <span>`开源` · `Python` · `CLI`</span>
+
 ### 长篇写作
 
 重点比较章节组织、大纲、历史版本与最终导出格式。
