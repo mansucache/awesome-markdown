@@ -1,5 +1,9 @@
 # Changelog / 更新记录
 
+## 2026-11-07
+
+- Added sqlite-graph-memory to Notes and Knowledge Management, noting its read-only Markdown retrieval and pilot status.「笔记与知识管理」新增 sqlite-graph-memory，注明 Markdown 只读检索用途与试点状态。
+
 ## 2026-11-05
 
 - Added Cloud Alter Ego to Notes and Knowledge Management, with its cloud storage authorization and hosted processing requirements.「笔记与知识管理」新增 Cloud Alter Ego，注明云存储授权和托管处理要求。

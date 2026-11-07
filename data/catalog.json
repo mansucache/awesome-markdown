@@ -2556,6 +2556,38 @@
       }
     },
     {
+      "id": "sqlite-graph-memory",
+      "name": {
+        "en": "sqlite-graph-memory",
+        "zh": "sqlite-graph-memory"
+      },
+      "url": "https://github.com/tonydzi/sqlite-graph-memory",
+      "category": "notes-and-knowledge-management",
+      "parent": null,
+      "description": {
+        "en": "Python CLI and MCP server for searching Markdown folders, including Obsidian vaults, with vector retrieval and graph expansion along existing `[[wikilinks]]`. Reads notes without editing them; currently a pilot requiring local embedding models, with Python 3.12 recommended on Intel Macs.",
+        "zh": "通过 Python CLI 或 MCP 服务检索 Markdown 文件夹（包括 Obsidian 仓库），结合向量检索与已有 `[[wikilinks]]` 的图扩展。只读笔记，不修改原文；目前为试点项目，需要本地嵌入模型，Intel Mac 推荐使用 Python 3.12。"
+      },
+      "tags": [
+        "open-source",
+        "python",
+        "cli"
+      ],
+      "links": [],
+      "status": "active",
+      "review": {
+        "date": "2026-11-07",
+        "level": "source-review",
+        "sources": [
+          "https://github.com/tonydzi/sqlite-graph-memory"
+        ],
+        "note": {
+          "en": "Reviewed current official README and repository metadata for Markdown-folder retrieval, CLI/MCP setup, read-only note access, pilot status, local model dependencies and Intel Mac Python guidance. Repository metadata reports MIT and active maintenance. Did not repeat the single-SQLite-index claim: the README architecture also lists .npy/.pkl index files. Recommended by its maintainer; no application test or independent benchmark.",
+          "zh": "核对了当前官方 README 和仓库元数据中的 Markdown 文件夹检索、CLI/MCP 配置、笔记只读访问、试点状态、本地模型依赖与 Intel Mac Python 版本建议。仓库元数据显示 MIT 许可且仍在维护。未采用单一 SQLite 索引的说法，因 README 架构还列有 .npy/.pkl 索引文件。由维护者推荐，未做应用实测或独立性能评测。"
+        }
+      }
+    },
+    {
       "id": "novelwriter",
       "name": {
         "en": "novelWriter",
