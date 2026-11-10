@@ -2588,6 +2588,37 @@
       }
     },
     {
+      "id": "weknora",
+      "name": {
+        "en": "WeKnora",
+        "zh": "WeKnora"
+      },
+      "url": "https://github.com/Tencent/WeKnora",
+      "category": "notes-and-knowledge-management",
+      "parent": null,
+      "description": {
+        "en": "Knowledge platform that supports retrieval and Q&A over Markdown documents and generates interlinked Markdown wiki pages with source citations. Includes page editing and revision rollback; requires model configuration and a running service environment.",
+        "zh": "支持 Markdown 文档检索问答，并可将资料组织为带来源引用、相互链接的 Markdown Wiki 的知识平台。提供页面编辑与版本回滚，使用前需配置模型及运行环境。"
+      },
+      "tags": [
+        "open-source",
+        "web"
+      ],
+      "links": [],
+      "status": "active",
+      "review": {
+        "date": "2026-11-10",
+        "level": "source-review",
+        "sources": [
+          "https://github.com/Tencent/WeKnora"
+        ],
+        "note": {
+          "en": "Reviewed the official README for Markdown input, agent-generated Markdown wiki pages, source citations, editing, revision rollback and deployment/model requirements. No application test; native Markdown-folder storage or Obsidian round-trip compatibility was not established.",
+          "zh": "已核对官方 README 中的 Markdown 输入、代理生成 Markdown Wiki、来源引用、页面编辑、版本回滚及部署和模型要求。未进行应用实测，未确认原生 Markdown 文件夹存储或 Obsidian 往返兼容性。"
+        }
+      }
+    },
+    {
       "id": "novelwriter",
       "name": {
         "en": "novelWriter",

@@ -2,6 +2,8 @@
 
 ## 2026-11-10
 
+- Added WeKnora to Notes and Knowledge Management for Markdown retrieval and generated wikis, with model and deployment requirements.「笔记与知识管理」新增 WeKnora，说明 Markdown 检索、Wiki 生成及模型和部署要求。
+
 - Added BrewPage for temporary Markdown web publishing, with retention and rendering limits. 新增用于临时发布 Markdown 网页的 BrewPage，注明有效期与渲染限制。
 
 ## 2026-11-07
