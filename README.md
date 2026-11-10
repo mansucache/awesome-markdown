@@ -311,6 +311,9 @@ Check storage, linking and migration. Markdown typing shortcuts do not mean note
 - [sqlite-graph-memory](https://github.com/tonydzi/sqlite-graph-memory) - Python CLI and MCP server for searching Markdown folders, including Obsidian vaults, with vector retrieval and graph expansion along existing `[[wikilinks]]`. Reads notes without editing them; currently a pilot requiring local embedding models, with Python 3.12 recommended on Intel Macs.<br>
   <span>`Open source` · `Python` · `CLI`</span>
 
+- [WeKnora](https://github.com/Tencent/WeKnora) - Knowledge platform that supports retrieval and Q&A over Markdown documents and generates interlinked Markdown wiki pages with source citations. Includes page editing and revision rollback; requires model configuration and a running service environment.<br>
+  <span>`Open source` · `Web`</span>
+
 <a id="长篇写作"></a>
 
 ### Long-form Writing

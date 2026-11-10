@@ -73,6 +73,7 @@
 | Papyra | 2026-10-31 | 专项来源核对 | 核对了项目 README 和安装文档中的笔记存储方式与 Docker 部署说明。由开发者推荐，未做应用实测。 | [1](https://github.com/lyfie-org/papyra) [2](https://papyra.app/docs/install/) |
 | Cloud Alter Ego | 2026-11-05 | 专项来源核对 | 已核对官方云存储授权、Markdown 文件布局、远程 MCP 工具及内容仅经内存处理的声明，并核对仓库对 MIT 模板与托管连接器的区分。客户端兼容性取决于远程 MCP 与 OAuth 支持。由开发者推荐，未做应用实测。 | [1](https://cloudalterego.cafeboon.com/docs.html) [2](https://cloudalterego.cafeboon.com/) [3](https://github.com/SebastiaanBoon/cloud-alter-ego) |
 | sqlite-graph-memory | 2026-11-07 | 专项来源核对 | 核对了当前官方 README 和仓库元数据中的 Markdown 文件夹检索、CLI/MCP 配置、笔记只读访问、试点状态、本地模型依赖与 Intel Mac Python 版本建议。仓库元数据显示 MIT 许可且仍在维护。未采用单一 SQLite 索引的说法，因 README 架构还列有 .npy/.pkl 索引文件。由维护者推荐，未做应用实测或独立性能评测。 | [1](https://github.com/tonydzi/sqlite-graph-memory) |
+| WeKnora | 2026-11-10 | 专项来源核对 | 已核对官方 README 中的 Markdown 输入、代理生成 Markdown Wiki、来源引用、页面编辑、版本回滚及部署和模型要求。未进行应用实测，未确认原生 Markdown 文件夹存储或 Obsidian 往返兼容性。 | [1](https://github.com/Tencent/WeKnora) |
 | novelWriter | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/saga-soft/novelWriter) |
 | WonderPen（妙笔） | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://www.tominlab.com/wonderpen) |
 | ImagineYourBook | 2026-10-26 | 专项来源核对 | 核对官方定价页与关于页的书籍规划、逐章起草、书稿上传、Word/EPUB/Markdown 导出及付费说明。修正仅生成文字的表述，产品也提供封面。试用需绑卡，若不取消，七天后转为付费。由自动化工具代表产品方提交。未进行应用实测。 | [1](https://www.imagineyourbook.com/pricing.html) [2](https://www.imagineyourbook.com/about) |

@@ -301,6 +301,9 @@ Markdown 原生文件、Markdown 输入快捷语法、Markdown 导入导出是�
 - [sqlite-graph-memory](https://github.com/tonydzi/sqlite-graph-memory) - 通过 Python CLI 或 MCP 服务检索 Markdown 文件夹（包括 Obsidian 仓库），结合向量检索与已有 `[[wikilinks]]` 的图扩展。只读笔记，不修改原文；目前为试点项目，需要本地嵌入模型，Intel Mac 推荐使用 Python 3.12。<br>
   <span>`开源` · `Python` · `CLI`</span>
 
+- [WeKnora](https://github.com/Tencent/WeKnora) - 支持 Markdown 文档检索问答，并可将资料组织为带来源引用、相互链接的 Markdown Wiki 的知识平台。提供页面编辑与版本回滚，使用前需配置模型及运行环境。<br>
+  <span>`开源` · `Web`</span>
+
 ### 长篇写作
 
 重点比较章节组织、大纲、历史版本与最终导出格式。
