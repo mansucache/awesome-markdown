@@ -102,6 +102,7 @@
 | flomo | 2026-09-08 | 专项来源核对 | 官方帮助明确不支持 Markdown 语法，退出当前推荐清单。 | [1](https://help.flomoapp.com/basic/quick-input.html) |
 | 滴答清单 | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://dida365.com/webapp) |
 | Tasks.md | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/BaldissaraMatheus/Tasks.md) |
+| BrewPage | 2026-11-10 | 专项来源核对 | 已核对官方 Markdown 托管页与代理文档中的浏览器/API/MCP 发布、有效期、上传限制和不支持语法。API 默认保留 15 天，编辑器默认值随可见性和个人资料状态变化。到期内容永久删除；未列出链接若无密码，持有链接者均可访问。由开发者推荐，未实测发布。公开 API/MCP 资源不能证明托管服务本身开源。 | [1](https://brewpage.app/markdown-hosting) [2](https://brewpage.app/llms.txt) |
 | Docsify | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/docsifyjs/docsify) |
 | MkDocs | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/mkdocs/mkdocs) |
 | Zola | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/getzola/zola) |

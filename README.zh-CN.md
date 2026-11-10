@@ -409,6 +409,9 @@ Markdown 原生文件、Markdown 输入快捷语法、Markdown 导入导出是�
 
 ## 网站生成与排版
 
+- [BrewPage](https://brewpage.app/) - 通过浏览器编辑器、REST API 或 MCP，将 Markdown 发布为可分享网页的托管服务，无需账号。无个人资料时页面最多保留 30 天，关联个人资料后最多 90 天，单页上限 5 MB；不渲染 Mermaid、数学公式等部分扩展语法。<br>
+  <span>`Web`</span>
+
 ### 静态网站
 
 本节包含静态构建工具与浏览器动态加载工具。按构建环境、主题需求和交互能力选择。
