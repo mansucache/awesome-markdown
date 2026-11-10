@@ -3485,6 +3485,37 @@
       }
     },
     {
+      "id": "brewpage",
+      "name": {
+        "en": "BrewPage",
+        "zh": "BrewPage"
+      },
+      "url": "https://brewpage.app/",
+      "category": "website-generation-and-typesetting",
+      "parent": null,
+      "description": {
+        "en": "Hosted service for publishing Markdown as a shareable web page through a browser editor, REST API or MCP. No account required; pages expire after at most 30 days without a profile or 90 with one, with a 5 MB page limit. Mermaid, math and some other Markdown extensions are not rendered.",
+        "zh": "通过浏览器编辑器、REST API 或 MCP，将 Markdown 发布为可分享网页的托管服务，无需账号。无个人资料时页面最多保留 30 天，关联个人资料后最多 90 天，单页上限 5 MB；不渲染 Mermaid、数学公式等部分扩展语法。"
+      },
+      "tags": [
+        "web"
+      ],
+      "links": [],
+      "status": "active",
+      "review": {
+        "date": "2026-11-10",
+        "level": "source-review",
+        "sources": [
+          "https://brewpage.app/markdown-hosting",
+          "https://brewpage.app/llms.txt"
+        ],
+        "note": {
+          "en": "Reviewed official Markdown hosting and agent documentation for browser/API/MCP publishing, temporary retention, upload limits and unsupported syntax. API defaults to 15 days; editor defaults vary by visibility/profile. Expired content is deleted permanently; unlisted URLs are accessible to anyone holding the link unless password-protected. Recommended by its maker; no publishing test. Public API/MCP resources do not establish that the hosted service is open source.",
+          "zh": "已核对官方 Markdown 托管页与代理文档中的浏览器/API/MCP 发布、有效期、上传限制和不支持语法。API 默认保留 15 天，编辑器默认值随可见性和个人资料状态变化。到期内容永久删除；未列出链接若无密码，持有链接者均可访问。由开发者推荐，未实测发布。公开 API/MCP 资源不能证明托管服务本身开源。"
+        }
+      }
+    },
+    {
       "id": "docsify",
       "name": {
         "en": "Docsify",

@@ -433,6 +433,9 @@ Prioritize capture and task management, and check Markdown export if migration m
 
 ## Website Generation and Typesetting
 
+- [BrewPage](https://brewpage.app/) - Hosted service for publishing Markdown as a shareable web page through a browser editor, REST API or MCP. No account required; pages expire after at most 30 days without a profile or 90 with one, with a 5 MB page limit. Mermaid, math and some other Markdown extensions are not rendered.<br>
+  <span>`Web`</span>
+
 <a id="静态网站"></a>
 
 ### Static Site Generators

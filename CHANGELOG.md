@@ -1,5 +1,9 @@
 # Changelog / 更新记录
 
+## 2026-11-10
+
+- Added BrewPage for temporary Markdown web publishing, with retention and rendering limits. 新增用于临时发布 Markdown 网页的 BrewPage，注明有效期与渲染限制。
+
 ## 2026-11-07
 
 - Added sqlite-graph-memory to Notes and Knowledge Management, noting its read-only Markdown retrieval and pilot status.「笔记与知识管理」新增 sqlite-graph-memory，注明 Markdown 只读检索用途与试点状态。
