@@ -669,6 +669,9 @@ Markdown 原生文件、Markdown 输入快捷语法、Markdown 导入导出是�
 - [PDF to Markdown Converter（Plain Record Labs）](https://apify.com/plainrecordlabs/docs-to-markdown) - 在 Apify 上批量获取 PDF、DOCX、PPTX、XLSX、HTML、CSV 和纯文本链接并转为 Markdown，可选 RAG 分块及带网格线 PDF 表格的 Excel 导出。文件由 Apify 获取并处理，按转换文档、PDF 页数和运行启动收费。不支持 OCR、PDF 标题识别或加密文件；无网格线的 PDF 表格保留为文本。<br>
   <span>`Web` · `API`</span>
 
+- [doc2md-lite](https://github.com/tidybytetools/doc2md-lite) - 在本机将含文本层的 PDF 和已保存的 HTML 转为 Markdown（包括表格）的 Python CLI 与 MCP 服务，无需 API 密钥。需 Python 3.10+；不支持 OCR、Word 转换或直接抓取网页。<br>
+  <span>`开源` · `CLI` · `Python` · [PyPI](https://pypi.org/project/doc2md-lite/)</span>
+
 ### 转成图片
 
 单次制作关注排版预览，批量生成关注 API、部署方式与主题定制。

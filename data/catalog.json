@@ -6541,6 +6541,47 @@
           "zh": "已核对官方资料与仓库活动，观察到默认分支于 2026-07-21 有提交。此为来源核验，不是功能或性能实测。"
         }
       }
+    },
+    {
+      "id": "doc2md-lite",
+      "name": {
+        "en": "doc2md-lite",
+        "zh": "doc2md-lite"
+      },
+      "url": "https://github.com/tidybytetools/doc2md-lite",
+      "category": "to-markdown",
+      "parent": null,
+      "description": {
+        "en": "Local Python CLI and MCP server that converts text PDFs and saved HTML files to Markdown, including tables, without an API key. Requires Python 3.10+; no OCR, Word conversion or direct web-page fetching.",
+        "zh": "在本机将含文本层的 PDF 和已保存的 HTML 转为 Markdown（包括表格）的 Python CLI 与 MCP 服务，无需 API 密钥。需 Python 3.10+；不支持 OCR、Word 转换或直接抓取网页。"
+      },
+      "tags": [
+        "open-source",
+        "cli",
+        "python"
+      ],
+      "links": [
+        {
+          "url": "https://pypi.org/project/doc2md-lite/",
+          "label": {
+            "en": "PyPI",
+            "zh": "PyPI"
+          }
+        }
+      ],
+      "status": "active",
+      "review": {
+        "date": "2026-11-11",
+        "level": "source-review",
+        "sources": [
+          "https://github.com/tidybytetools/doc2md-lite",
+          "https://pypi.org/project/doc2md-lite/"
+        ],
+        "note": {
+          "en": "Reviewed official README and PyPI package metadata for Python requirements, local CLI/MCP setup, PDF/saved HTML conversion and table output. No OCR, Word input or direct web fetching. MIT license. Submitted by the maintainer; no application test.",
+          "zh": "核对了官方 README 与 PyPI 包元数据中的 Python 要求、本地 CLI/MCP 配置、PDF/已保存 HTML 转换与表格输出。不支持 OCR、Word 输入或直接抓取网页。MIT 许可。由维护者提交，未进行应用实测。"
+        }
+      }
     }
   ]
 }

@@ -713,6 +713,9 @@ Choose by input format and execution environment; check headings, tables, images
 - [PDF to Markdown Converter (Plain Record Labs)](https://apify.com/plainrecordlabs/docs-to-markdown) - An Apify-hosted tool that batch-converts PDF, DOCX, PPTX, XLSX, HTML, CSV and text URLs to Markdown, with optional RAG chunks and ruled PDF tables exported to Excel. Files are fetched and processed on Apify; charges include converted documents, PDF pages and run starts. No OCR, PDF heading detection or password-protected files; unruled PDF tables remain text.<br>
   <span>`Web` · `API`</span>
 
+- [doc2md-lite](https://github.com/tidybytetools/doc2md-lite) - Local Python CLI and MCP server that converts text PDFs and saved HTML files to Markdown, including tables, without an API key. Requires Python 3.10+; no OCR, Word conversion or direct web-page fetching.<br>
+  <span>`Open source` · `CLI` · `Python` · [PyPI](https://pypi.org/project/doc2md-lite/)</span>
+
 <a id="转成图片"></a>
 
 ### Image Generation

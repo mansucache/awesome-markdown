@@ -1,5 +1,9 @@
 # Changelog / 更新记录
 
+## 2026-11-11
+
+- Added doc2md-lite to To Markdown for local text PDF and saved HTML conversion, with input and OCR limits.「转为 Markdown」新增本地转换工具 doc2md-lite，注明输入格式与 OCR 限制。
+
 ## 2026-11-10
 
 - Added WeKnora to Notes and Knowledge Management for Markdown retrieval and generated wikis, with model and deployment requirements.「笔记与知识管理」新增 WeKnora，说明 Markdown 检索、Wiki 生成及模型和部署要求。
