@@ -6552,8 +6552,8 @@
       "category": "to-markdown",
       "parent": null,
       "description": {
-        "en": "A local Python CLI and MCP server that turns PDFs and saved web pages into Markdown, keeping tables as real Markdown tables. It runs on your computer with no API key. Scanned image-only PDFs are not supported.",
-        "zh": "本地 Python 命令行工具和 MCP 服务器，将 PDF 与已保存的网页转为 Markdown，并保留表格。在本机运行，无需 API 密钥。不支持仅含扫描图片的 PDF。"
+        "en": "Local Python CLI and MCP server that converts text PDFs and saved HTML files to Markdown, including tables, without an API key. Requires Python 3.10+; no OCR, Word conversion or direct web-page fetching.",
+        "zh": "在本机将含文本层的 PDF 和已保存的 HTML 转为 Markdown（包括表格）的 Python CLI 与 MCP 服务，无需 API 密钥。需 Python 3.10+；不支持 OCR、Word 转换或直接抓取网页。"
       },
       "tags": [
         "open-source",
@@ -6571,15 +6571,15 @@
       ],
       "status": "active",
       "review": {
-        "date": "2026-11-10",
+        "date": "2026-11-11",
         "level": "source-review",
         "sources": [
           "https://github.com/tidybytetools/doc2md-lite",
           "https://pypi.org/project/doc2md-lite/"
         ],
         "note": {
-          "en": "Reviewed the official README and PyPI page for local CLI/MCP install, PDF and saved HTML input, Markdown tables, no API key, and the scanned-PDF limit. MIT license. Submitted by the maintainer. Not an application test.",
-          "zh": "已核对官方 README 与 PyPI 页面中的本地命令行/MCP 安装、PDF 与已保存 HTML 输入、Markdown 表格、无需 API 密钥以及扫描版 PDF 限制。MIT 许可。由维护者提交。未进行应用实测。"
+          "en": "Reviewed official README and PyPI package metadata for Python requirements, local CLI/MCP setup, PDF/saved HTML conversion and table output. No OCR, Word input or direct web fetching. MIT license. Submitted by the maintainer; no application test.",
+          "zh": "核对了官方 README 与 PyPI 包元数据中的 Python 要求、本地 CLI/MCP 配置、PDF/已保存 HTML 转换与表格输出。不支持 OCR、Word 输入或直接抓取网页。MIT 许可。由维护者提交，未进行应用实测。"
         }
       }
     }

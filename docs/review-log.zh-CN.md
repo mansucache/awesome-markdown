@@ -194,4 +194,4 @@
 | Mermaid | 2026-09-12 | 专项来源核对 | 已核对官方资料与仓库活动，观察到默认分支于 2026-09-10 有提交。此为来源核验，不是功能或性能实测。 | [1](https://github.com/mermaid-js/mermaid) [2](https://mermaid.js.org/) |
 | 《了不起的 Markdown：大语言模型时代的通用语言》 | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://book.douban.com/subject/37478156/) |
 | Markdown Guide | 2026-09-12 | 专项来源核对 | 已核对官方资料与仓库活动，观察到默认分支于 2026-07-21 有提交。此为来源核验，不是功能或性能实测。 | [1](https://github.com/mattcone/markdown-guide) [2](https://www.markdownguide.org/) |
-| doc2md-lite | 2026-11-10 | 专项来源核对 | 已核对官方 README 与 PyPI 页面中的本地命令行/MCP 安装、PDF 与已保存 HTML 输入、Markdown 表格、无需 API 密钥以及扫描版 PDF 限制。MIT 许可。由维护者提交。未进行应用实测。 | [1](https://github.com/tidybytetools/doc2md-lite) [2](https://pypi.org/project/doc2md-lite/) |
+| doc2md-lite | 2026-11-11 | 专项来源核对 | 核对了官方 README 与 PyPI 包元数据中的 Python 要求、本地 CLI/MCP 配置、PDF/已保存 HTML 转换与表格输出。不支持 OCR、Word 输入或直接抓取网页。MIT 许可。由维护者提交，未进行应用实测。 | [1](https://github.com/tidybytetools/doc2md-lite) [2](https://pypi.org/project/doc2md-lite/) |
