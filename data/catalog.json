@@ -2619,6 +2619,37 @@
       }
     },
     {
+      "id": "youtube-transcript-obsidian",
+      "name": {
+        "en": "YouTube Transcript for Obsidian",
+        "zh": "YouTube Transcript for Obsidian"
+      },
+      "url": "https://github.com/tubeagentkit/youtube-transcript-obsidian",
+      "category": "notes-and-knowledge-management",
+      "parent": null,
+      "description": {
+        "en": "Obsidian plugin that inserts YouTube transcripts into a note or creates Markdown notes with YAML properties and optional clickable timestamps. Requires an account and API key for getyoutubetranscript.com, which receives the video link; usage beyond the free credits is paid.",
+        "zh": "将 YouTube 字幕插入当前笔记，或创建带 YAML 属性和可点击时间戳的 Markdown 笔记的 Obsidian 插件。需注册 getyoutubetranscript.com 并配置 API 密钥，视频链接会发送至该服务；超出免费额度后需付费。"
+      },
+      "tags": [
+        "open-source"
+      ],
+      "links": [],
+      "status": "active",
+      "review": {
+        "date": "2026-11-16",
+        "level": "source-review",
+        "sources": [
+          "https://github.com/tubeagentkit/youtube-transcript-obsidian",
+          "https://getyoutubetranscript.com/pricing"
+        ],
+        "note": {
+          "en": "Reviewed official README and service pricing for insertion/new-note commands, YAML properties, timestamps, desktop/mobile support and API dependency. Service offers 100 signup credits, one per successful transcript, with paid plans. API key is saved in vault plugin data. MIT plugin licensing does not cover the hosted service. Maintainer recommendation; no application test.",
+          "zh": "核对官方 README 与服务价格页中的插入/新建笔记命令、YAML 属性、时间戳、桌面/移动端支持及 API 依赖。服务注册提供 100 积分，每次成功获取字幕使用 1 积分，另有付费方案。API 密钥保存在仓库插件数据中。插件 MIT 许可不涵盖托管服务。由维护者推荐，未进行应用实测。"
+        }
+      }
+    },
+    {
       "id": "novelwriter",
       "name": {
         "en": "novelWriter",

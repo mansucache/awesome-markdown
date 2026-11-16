@@ -314,6 +314,9 @@ Check storage, linking and migration. Markdown typing shortcuts do not mean note
 - [WeKnora](https://github.com/Tencent/WeKnora) - Knowledge platform that supports retrieval and Q&A over Markdown documents and generates interlinked Markdown wiki pages with source citations. Includes page editing and revision rollback; requires model configuration and a running service environment.<br>
   <span>`Open source` · `Web`</span>
 
+- [YouTube Transcript for Obsidian](https://github.com/tubeagentkit/youtube-transcript-obsidian) - Obsidian plugin that inserts YouTube transcripts into a note or creates Markdown notes with YAML properties and optional clickable timestamps. Requires an account and API key for getyoutubetranscript.com, which receives the video link; usage beyond the free credits is paid.<br>
+  <span>`Open source`</span>
+
 <a id="长篇写作"></a>
 
 ### Long-form Writing

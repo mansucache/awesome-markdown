@@ -304,6 +304,9 @@ Markdown 原生文件、Markdown 输入快捷语法、Markdown 导入导出是�
 - [WeKnora](https://github.com/Tencent/WeKnora) - 支持 Markdown 文档检索问答，并可将资料组织为带来源引用、相互链接的 Markdown Wiki 的知识平台。提供页面编辑与版本回滚，使用前需配置模型及运行环境。<br>
   <span>`开源` · `Web`</span>
 
+- [YouTube Transcript for Obsidian](https://github.com/tubeagentkit/youtube-transcript-obsidian) - 将 YouTube 字幕插入当前笔记，或创建带 YAML 属性和可点击时间戳的 Markdown 笔记的 Obsidian 插件。需注册 getyoutubetranscript.com 并配置 API 密钥，视频链接会发送至该服务；超出免费额度后需付费。<br>
+  <span>`开源`</span>
+
 ### 长篇写作
 
 重点比较章节组织、大纲、历史版本与最终导出格式。

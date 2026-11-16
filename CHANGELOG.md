@@ -1,5 +1,9 @@
 # Changelog / 更新记录
 
+## 2026-11-16
+
+- Added YouTube Transcript for Obsidian to Notes and Knowledge Management, with its third-party API and paid usage requirements.「笔记与知识管理」新增 YouTube Transcript for Obsidian，注明第三方 API 与付费使用要求。
+
 ## 2026-11-11
 
 - Added doc2md-lite to To Markdown for local text PDF and saved HTML conversion, with input and OCR limits.「转为 Markdown」新增本地转换工具 doc2md-lite，注明输入格式与 OCR 限制。
