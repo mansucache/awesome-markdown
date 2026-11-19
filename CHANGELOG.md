@@ -1,5 +1,9 @@
 # Changelog / 更新记录
 
+## 2026-11-19
+
+- Added Scrinium to Notes and Knowledge Management and MySkills AI Answer to Word to Conversion Tools.「笔记与知识管理」新增 Scrinium，「转换工具」新增 MySkills AI 回答转 Word。
+
 ## 2026-11-16
 
 - Added YouTube Transcript for Obsidian to Notes and Knowledge Management, with its third-party API and paid usage requirements.「笔记与知识管理」新增 YouTube Transcript for Obsidian，注明第三方 API 与付费使用要求。

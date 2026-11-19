@@ -304,6 +304,9 @@ Markdown 原生文件、Markdown 输入快捷语法、Markdown 导入导出是�
 - [WeKnora](https://github.com/Tencent/WeKnora) - 支持 Markdown 文档检索问答，并可将资料组织为带来源引用、相互链接的 Markdown Wiki 的知识平台。提供页面编辑与版本回滚，使用前需配置模型及运行环境。<br>
   <span>`开源` · `Web`</span>
 
+- [Scrinium](https://scrinium-note.com/) - 在浏览器中编辑并即时显示 Markdown 格式的笔记工具，免费方案包含加密同步。可导入 Markdown 文件，导出为含笔记正文的明文 JSON 或 Scrinium 加密备份。附件和版本历史需付费。<br>
+  <span>`Web`</span>
+
 - [YouTube Transcript for Obsidian](https://github.com/tubeagentkit/youtube-transcript-obsidian) - 将 YouTube 字幕插入当前笔记，或创建带 YAML 属性和可点击时间戳的 Markdown 笔记的 Obsidian 插件。需注册 getyoutubetranscript.com 并配置 API 密钥，视频链接会发送至该服务；超出免费额度后需付费。<br>
   <span>`开源`</span>
 
@@ -607,6 +610,9 @@ Markdown 原生文件、Markdown 输入快捷语法、Markdown 导入导出是�
 
 - [pandoc](https://github.com/jgm/pandoc) - 在 Markdown、HTML、Word 等文档格式之间转换，并借助额外排版引擎生成 PDF，适合多格式文档发布；PDF 提取与 OCR 应另选工具。<br>
   <span>`开源` · `CLI`</span>
+
+- [MySkills AI 回答转 Word](https://myskills.info/guides/ai-answer-to-word.html) - 中文网页工具，可粘贴 Markdown 或导入 .md/.txt 文件，在浏览器本地生成带标题和简单表格的可编辑 DOCX，无需登录。LaTeX 保留源码，图片仅保留说明或链接。<br>
+  <span>`Web`</span>
 
   - [Eisvogel](https://github.com/Wandmalfarbe/pandoc-latex-template) - 用于 Pandoc 的 LaTeX 模板，将 Markdown 输出为 PDF 或 LaTeX，适合需要统一文档版式的报告与手册。<br>
     <span>`开源`</span>

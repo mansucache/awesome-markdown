@@ -2619,6 +2619,37 @@
       }
     },
     {
+      "id": "scrinium",
+      "name": {
+        "en": "Scrinium",
+        "zh": "Scrinium"
+      },
+      "url": "https://scrinium-note.com/",
+      "category": "notes-and-knowledge-management",
+      "parent": null,
+      "description": {
+        "en": "Browser notebook with inline Markdown formatting and encrypted sync on the free plan. Imports Markdown files and exports note bodies in plaintext JSON or a Scrinium encrypted backup. Attachments and revision history require a paid plan.",
+        "zh": "在浏览器中编辑并即时显示 Markdown 格式的笔记工具，免费方案包含加密同步。可导入 Markdown 文件，导出为含笔记正文的明文 JSON 或 Scrinium 加密备份。附件和版本历史需付费。"
+      },
+      "tags": [
+        "web"
+      ],
+      "links": [],
+      "status": "active",
+      "review": {
+        "date": "2026-11-19",
+        "level": "source-review",
+        "sources": [
+          "https://scrinium-note.com/features/encrypted-markdown",
+          "https://scrinium-note.com/blog/back-up-and-restore-encrypted-notes"
+        ],
+        "note": {
+          "en": "Reviewed official documentation for inline editing, sync, plan limits, and JSON export. The encryption description is a vendor claim, with no independent audit or application test in this review. Recommended by its developer.",
+          "zh": "已核对官方文档中的即时排版、同步、付费限制和 JSON 导出。加密说明来自厂商，本次未进行独立审计或功能实测。由开发者推荐。"
+        }
+      }
+    },
+    {
       "id": "youtube-transcript-obsidian",
       "name": {
         "en": "YouTube Transcript for Obsidian",
@@ -5217,6 +5248,36 @@
         "note": {
           "en": "Checked the official input-format list and PDF output engine requirements; PDF is not a built-in input reader. No application test.",
           "zh": "核对官方输入格式列表与 PDF 输出引擎要求；PDF 不属于内置输入读取格式，未进行应用实测。"
+        }
+      }
+    },
+    {
+      "id": "myskills-ai-answer-to-word",
+      "name": {
+        "en": "MySkills AI Answer to Word",
+        "zh": "MySkills AI 回答转 Word"
+      },
+      "url": "https://myskills.info/guides/ai-answer-to-word.html",
+      "category": "conversion-tools",
+      "parent": null,
+      "description": {
+        "en": "Chinese-language browser tool that converts pasted Markdown or .md/.txt files to editable DOCX with headings and simple tables. Conversion runs in the browser without an account. LaTeX stays as source, and images are described or linked rather than embedded.",
+        "zh": "中文网页工具，可粘贴 Markdown 或导入 .md/.txt 文件，在浏览器本地生成带标题和简单表格的可编辑 DOCX，无需登录。LaTeX 保留源码，图片仅保留说明或链接。"
+      },
+      "tags": [
+        "web"
+      ],
+      "links": [],
+      "status": "active",
+      "review": {
+        "date": "2026-11-19",
+        "level": "source-review",
+        "sources": [
+          "https://myskills.info/guides/ai-answer-to-word.html"
+        ],
+        "note": {
+          "en": "Reviewed the official tool page for browser-local conversion, editable DOCX, and rendering limits. Merged cells and complex HTML are unsupported. Affiliated recommendation; no DOCX generation or Word/WPS compatibility testing in this review.",
+          "zh": "已核对官方工具页中的浏览器本地转换、可编辑 DOCX 和渲染限制。不支持合并单元格或复杂 HTML。由项目相关方推荐，本次未生成 DOCX 或实测 Word/WPS 兼容性。"
         }
       }
     },
