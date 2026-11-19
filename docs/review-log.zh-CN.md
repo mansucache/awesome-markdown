@@ -74,6 +74,7 @@
 | Cloud Alter Ego | 2026-11-05 | 专项来源核对 | 已核对官方云存储授权、Markdown 文件布局、远程 MCP 工具及内容仅经内存处理的声明，并核对仓库对 MIT 模板与托管连接器的区分。客户端兼容性取决于远程 MCP 与 OAuth 支持。由开发者推荐，未做应用实测。 | [1](https://cloudalterego.cafeboon.com/docs.html) [2](https://cloudalterego.cafeboon.com/) [3](https://github.com/SebastiaanBoon/cloud-alter-ego) |
 | sqlite-graph-memory | 2026-11-07 | 专项来源核对 | 核对了当前官方 README 和仓库元数据中的 Markdown 文件夹检索、CLI/MCP 配置、笔记只读访问、试点状态、本地模型依赖与 Intel Mac Python 版本建议。仓库元数据显示 MIT 许可且仍在维护。未采用单一 SQLite 索引的说法，因 README 架构还列有 .npy/.pkl 索引文件。由维护者推荐，未做应用实测或独立性能评测。 | [1](https://github.com/tonydzi/sqlite-graph-memory) |
 | WeKnora | 2026-11-10 | 专项来源核对 | 已核对官方 README 中的 Markdown 输入、代理生成 Markdown Wiki、来源引用、页面编辑、版本回滚及部署和模型要求。未进行应用实测，未确认原生 Markdown 文件夹存储或 Obsidian 往返兼容性。 | [1](https://github.com/Tencent/WeKnora) |
+| Scrinium | 2026-11-19 | 专项来源核对 | 已核对官方文档中的即时排版、同步、付费限制和 JSON 导出。加密说明来自厂商，本次未进行独立审计或功能实测。由开发者推荐。 | [1](https://scrinium-note.com/features/encrypted-markdown) [2](https://scrinium-note.com/blog/back-up-and-restore-encrypted-notes) |
 | YouTube Transcript for Obsidian | 2026-11-16 | 专项来源核对 | 核对官方 README 与服务价格页中的插入/新建笔记命令、YAML 属性、时间戳、桌面/移动端支持及 API 依赖。服务注册提供 100 积分，每次成功获取字幕使用 1 积分，另有付费方案。API 密钥保存在仓库插件数据中。插件 MIT 许可不涵盖托管服务。由维护者推荐，未进行应用实测。 | [1](https://github.com/tubeagentkit/youtube-transcript-obsidian) [2](https://getyoutubetranscript.com/pricing) |
 | novelWriter | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/saga-soft/novelWriter) |
 | WonderPen（妙笔） | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://www.tominlab.com/wonderpen) |
@@ -156,6 +157,7 @@
 | react-markdown | 2026-09-12 | 专项来源核对 | 已核对官方资料与仓库活动，观察到默认分支于 2026-09-01 有提交。此为来源核验，不是功能或性能实测。 | [1](https://github.com/remarkjs/react-markdown) |
 | Streamdown | 2026-09-12 | 专项来源核对 | 已核对官方资料与仓库活动，观察到默认分支于 2026-09-10 有提交。此为来源核验，不是功能或性能实测。 | [1](https://github.com/vercel/streamdown) [2](https://streamdown.ai/) |
 | pandoc | 2026-10-07 | 专项来源核对 | 核对官方输入格式列表与 PDF 输出引擎要求；PDF 不属于内置输入读取格式，未进行应用实测。 | [1](https://pandoc.org/MANUAL.html) |
+| MySkills AI 回答转 Word | 2026-11-19 | 专项来源核对 | 已核对官方工具页中的浏览器本地转换、可编辑 DOCX 和渲染限制。不支持合并单元格或复杂 HTML。由项目相关方推荐，本次未生成 DOCX 或实测 Word/WPS 兼容性。 | [1](https://myskills.info/guides/ai-answer-to-word.html) |
 | Eisvogel | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/Wandmalfarbe/pandoc-latex-template) |
 | TypeFire Markdown 转换 | 2026-10-28 | 专项来源核对 | 核对两个官方页面中的富文本剪贴板输入、Markdown 下载/复制、DOCX 导出、富文本复制及免费免账号说明。两个页面使用已收录的同一编辑器。本地处理为开发者声明，未测试网络隔离或转换保真度。由开发者推荐。 | [1](https://typefire.app/markdown-converter) [2](https://typefire.app/markdown-to-word) |
 | doc2md | 2026-09-08 | 专项来源核对 | 已核对本地转换、离线资源缓存与 PDF 版式限制；未进行应用级隐私实测。 | [1](https://github.com/sakuraqqq/doc2md) |

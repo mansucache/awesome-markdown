@@ -314,6 +314,9 @@ Check storage, linking and migration. Markdown typing shortcuts do not mean note
 - [WeKnora](https://github.com/Tencent/WeKnora) - Knowledge platform that supports retrieval and Q&A over Markdown documents and generates interlinked Markdown wiki pages with source citations. Includes page editing and revision rollback; requires model configuration and a running service environment.<br>
   <span>`Open source` · `Web`</span>
 
+- [Scrinium](https://scrinium-note.com/) - Browser notebook with inline Markdown formatting and encrypted sync on the free plan. Imports Markdown files and exports note bodies in plaintext JSON or a Scrinium encrypted backup. Attachments and revision history require a paid plan.<br>
+  <span>`Web`</span>
+
 - [YouTube Transcript for Obsidian](https://github.com/tubeagentkit/youtube-transcript-obsidian) - Obsidian plugin that inserts YouTube transcripts into a note or creates Markdown notes with YAML properties and optional clickable timestamps. Requires an account and API key for getyoutubetranscript.com, which receives the video link; usage beyond the free credits is paid.<br>
   <span>`Open source`</span>
 
@@ -649,6 +652,9 @@ Identify input and output first. Try representative files before converting a co
 
 - [pandoc](https://github.com/jgm/pandoc) - Converts Markdown, HTML, Word and other document formats in CLI publishing workflows; PDF output needs an additional rendering engine. Use a separate extractor for PDF input or OCR.<br>
   <span>`Open source` · `CLI`</span>
+
+- [MySkills AI Answer to Word](https://myskills.info/guides/ai-answer-to-word.html) - Chinese-language browser tool that converts pasted Markdown or .md/.txt files to editable DOCX with headings and simple tables. Conversion runs in the browser without an account. LaTeX stays as source, and images are described or linked rather than embedded.<br>
+  <span>`Web`</span>
 
   - [Eisvogel](https://github.com/Wandmalfarbe/pandoc-latex-template) - A Pandoc LaTeX template for turning Markdown into consistently typeset PDF or LaTeX reports and handouts.<br>
     <span>`Open source`</span>
