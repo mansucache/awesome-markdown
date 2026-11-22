@@ -653,8 +653,8 @@ Identify input and output first. Try representative files before converting a co
 - [pandoc](https://github.com/jgm/pandoc) - Converts Markdown, HTML, Word and other document formats in CLI publishing workflows; PDF output needs an additional rendering engine. Use a separate extractor for PDF input or OCR.<br>
   <span>`Open source` · `CLI`</span>
 
-- [MySkills AI Answer to Word](https://myskills.info/guides/ai-answer-to-word.html) - Chinese-language browser tool that converts pasted Markdown or .md/.txt files to editable DOCX with headings and simple tables. Conversion runs in the browser without an account. LaTeX stays as source, and images are described or linked rather than embedded.<br>
-  <span>`Web`</span>
+- [MySkills Markdown to Word](https://myskills.info/markdown-to-word.html) - Browser tool with English and Chinese interfaces that converts pasted Markdown or .md/.txt files to editable DOCX with heading styles and native Word tables. Conversion runs locally without an account. LaTeX stays as source text, and image files are not embedded.<br>
+  <span>`Web` · [Chinese interface](https://myskills.info/guides/ai-answer-to-word.html)</span>
 
   - [Eisvogel](https://github.com/Wandmalfarbe/pandoc-latex-template) - A Pandoc LaTeX template for turning Markdown into consistently typeset PDF or LaTeX reports and handouts.<br>
     <span>`Open source`</span>

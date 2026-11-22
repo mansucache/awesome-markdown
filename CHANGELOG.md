@@ -1,5 +1,9 @@
 # Changelog / 更新记录
 
+## 2026-11-22
+
+- Updated MySkills Markdown to Word with its English interface and native DOCX table and heading support. 更新 MySkills Markdown 转 Word 条目，补充英文入口及 DOCX 原生表格与标题样式说明。
+
 ## 2026-11-19
 
 - Added Scrinium to Notes and Knowledge Management and MySkills AI Answer to Word to Conversion Tools.「笔记与知识管理」新增 Scrinium，「转换工具」新增 MySkills AI 回答转 Word。
