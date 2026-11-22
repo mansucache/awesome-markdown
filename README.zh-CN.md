@@ -611,8 +611,8 @@ Markdown 原生文件、Markdown 输入快捷语法、Markdown 导入导出是�
 - [pandoc](https://github.com/jgm/pandoc) - 在 Markdown、HTML、Word 等文档格式之间转换，并借助额外排版引擎生成 PDF，适合多格式文档发布；PDF 提取与 OCR 应另选工具。<br>
   <span>`开源` · `CLI`</span>
 
-- [MySkills AI 回答转 Word](https://myskills.info/guides/ai-answer-to-word.html) - 中文网页工具，可粘贴 Markdown 或导入 .md/.txt 文件，在浏览器本地生成带标题和简单表格的可编辑 DOCX，无需登录。LaTeX 保留源码，图片仅保留说明或链接。<br>
-  <span>`Web`</span>
+- [MySkills Markdown 转 Word](https://myskills.info/markdown-to-word.html) - 提供中英文界面，可粘贴 Markdown 或导入 .md/.txt 文件，在浏览器本地生成带标题样式和原生 Word 表格的可编辑 DOCX，无需登录。LaTeX 保留源码，图片仅保留说明或链接。<br>
+  <span>`Web` · [中文界面](https://myskills.info/guides/ai-answer-to-word.html)</span>
 
   - [Eisvogel](https://github.com/Wandmalfarbe/pandoc-latex-template) - 用于 Pandoc 的 LaTeX 模板，将 Markdown 输出为 PDF 或 LaTeX，适合需要统一文档版式的报告与手册。<br>
     <span>`开源`</span>

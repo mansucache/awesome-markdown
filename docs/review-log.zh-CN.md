@@ -157,7 +157,7 @@
 | react-markdown | 2026-09-12 | 专项来源核对 | 已核对官方资料与仓库活动，观察到默认分支于 2026-09-01 有提交。此为来源核验，不是功能或性能实测。 | [1](https://github.com/remarkjs/react-markdown) |
 | Streamdown | 2026-09-12 | 专项来源核对 | 已核对官方资料与仓库活动，观察到默认分支于 2026-09-10 有提交。此为来源核验，不是功能或性能实测。 | [1](https://github.com/vercel/streamdown) [2](https://streamdown.ai/) |
 | pandoc | 2026-10-07 | 专项来源核对 | 核对官方输入格式列表与 PDF 输出引擎要求；PDF 不属于内置输入读取格式，未进行应用实测。 | [1](https://pandoc.org/MANUAL.html) |
-| MySkills AI 回答转 Word | 2026-11-19 | 专项来源核对 | 已核对官方工具页中的浏览器本地转换、可编辑 DOCX 和渲染限制。不支持合并单元格或复杂 HTML。由项目相关方推荐，本次未生成 DOCX 或实测 Word/WPS 兼容性。 | [1](https://myskills.info/guides/ai-answer-to-word.html) |
+| MySkills Markdown 转 Word | 2026-11-22 | 专项来源核对 | 核对了官方中英文界面，并检查公开 DOCX 示例中的原生 Word 表格和标题样式。不支持合并单元格或复杂 HTML。由项目相关方提交更新，未现场导出或实测 Word/WPS 排版。 | [1](https://myskills.info/markdown-to-word.html) [2](https://myskills.info/guides/ai-answer-to-word.html) [3](https://myskills.info/examples/markdown-to-word-report.docx) |
 | Eisvogel | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/Wandmalfarbe/pandoc-latex-template) |
 | TypeFire Markdown 转换 | 2026-10-28 | 专项来源核对 | 核对两个官方页面中的富文本剪贴板输入、Markdown 下载/复制、DOCX 导出、富文本复制及免费免账号说明。两个页面使用已收录的同一编辑器。本地处理为开发者声明，未测试网络隔离或转换保真度。由开发者推荐。 | [1](https://typefire.app/markdown-converter) [2](https://typefire.app/markdown-to-word) |
 | doc2md | 2026-09-08 | 专项来源核对 | 已核对本地转换、离线资源缓存与 PDF 版式限制；未进行应用级隐私实测。 | [1](https://github.com/sakuraqqq/doc2md) |

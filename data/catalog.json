@@ -5254,30 +5254,40 @@
     {
       "id": "myskills-ai-answer-to-word",
       "name": {
-        "en": "MySkills AI Answer to Word",
-        "zh": "MySkills AI 回答转 Word"
+        "en": "MySkills Markdown to Word",
+        "zh": "MySkills Markdown 转 Word"
       },
-      "url": "https://myskills.info/guides/ai-answer-to-word.html",
+      "url": "https://myskills.info/markdown-to-word.html",
       "category": "conversion-tools",
       "parent": null,
       "description": {
-        "en": "Chinese-language browser tool that converts pasted Markdown or .md/.txt files to editable DOCX with headings and simple tables. Conversion runs in the browser without an account. LaTeX stays as source, and images are described or linked rather than embedded.",
-        "zh": "中文网页工具，可粘贴 Markdown 或导入 .md/.txt 文件，在浏览器本地生成带标题和简单表格的可编辑 DOCX，无需登录。LaTeX 保留源码，图片仅保留说明或链接。"
+        "en": "Browser tool with English and Chinese interfaces that converts pasted Markdown or .md/.txt files to editable DOCX with heading styles and native Word tables. Conversion runs locally without an account. LaTeX stays as source text, and image files are not embedded.",
+        "zh": "提供中英文界面，可粘贴 Markdown 或导入 .md/.txt 文件，在浏览器本地生成带标题样式和原生 Word 表格的可编辑 DOCX，无需登录。LaTeX 保留源码，图片仅保留说明或链接。"
       },
       "tags": [
         "web"
       ],
-      "links": [],
+      "links": [
+        {
+          "url": "https://myskills.info/guides/ai-answer-to-word.html",
+          "label": {
+            "en": "Chinese interface",
+            "zh": "中文界面"
+          }
+        }
+      ],
       "status": "active",
       "review": {
-        "date": "2026-11-19",
+        "date": "2026-11-22",
         "level": "source-review",
         "sources": [
-          "https://myskills.info/guides/ai-answer-to-word.html"
+          "https://myskills.info/markdown-to-word.html",
+          "https://myskills.info/guides/ai-answer-to-word.html",
+          "https://myskills.info/examples/markdown-to-word-report.docx"
         ],
         "note": {
-          "en": "Reviewed the official tool page for browser-local conversion, editable DOCX, and rendering limits. Merged cells and complex HTML are unsupported. Affiliated recommendation; no DOCX generation or Word/WPS compatibility testing in this review.",
-          "zh": "已核对官方工具页中的浏览器本地转换、可编辑 DOCX 和渲染限制。不支持合并单元格或复杂 HTML。由项目相关方推荐，本次未生成 DOCX 或实测 Word/WPS 兼容性。"
+          "en": "Reviewed both official interfaces and inspected the published DOCX sample for native Word tables and heading styles. Merged cells and complex HTML are unsupported. The update was submitted by a project affiliate. Live export and Word/WPS rendering were not tested.",
+          "zh": "核对了官方中英文界面，并检查公开 DOCX 示例中的原生 Word 表格和标题样式。不支持合并单元格或复杂 HTML。由项目相关方提交更新，未现场导出或实测 Word/WPS 排版。"
         }
       }
     },
