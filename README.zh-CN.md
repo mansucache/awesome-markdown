@@ -283,6 +283,9 @@ Markdown 原生文件、Markdown 输入快捷语法、Markdown 导入导出是�
 - [Bear](https://bear.app/) - 面向 Apple 设备的笔记应用，通过标签组织 Markdown 笔记并在设备间同步，适合将日常记录与文章素材放在一起管理。<br>
   <span>`macOS` · `iOS`</span>
 
+- [LocArk](https://locark.com/) - 本地优先的个人工作区，可免费离线编辑和预览 Markdown、导入 Markdown 文件，并导出可读的 ZIP。工作区目录由用户选择，新建工作区在本地加密。ZIP 用于迁移或查看，不能用来恢复完整工作区。<br>
+  <span>`提供免费方案` · `macOS` · `Windows` · `iOS` · `Android` · `跨平台`</span>
+
 - [Quillpad](https://github.com/quillpad/quillpad) - 面向 Android 的开源笔记应用，支持 Markdown、任务列表与附件，适合将手机端笔记和待办放在一起记录。<br>
   <span>`开源` · `Android`</span>
 

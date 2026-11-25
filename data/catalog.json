@@ -2378,6 +2378,44 @@
       }
     },
     {
+      "id": "locark",
+      "name": {
+        "en": "LocArk",
+        "zh": "LocArk"
+      },
+      "url": "https://locark.com/",
+      "category": "notes-and-knowledge-management",
+      "parent": null,
+      "description": {
+        "en": "Local-first personal workspace with free offline Markdown editing and preview, Markdown file import, and readable ZIP exports. You choose the workspace folder; new workspaces are encrypted locally. The ZIP is a portability copy, not a restorable workspace backup.",
+        "zh": "本地优先的个人工作区，可免费离线编辑和预览 Markdown、导入 Markdown 文件，并导出可读的 ZIP。工作区目录由用户选择，新建工作区在本地加密。ZIP 用于迁移或查看，不能用来恢复完整工作区。"
+      },
+      "tags": [
+        "free-tier",
+        "macos",
+        "windows",
+        "ios",
+        "android",
+        "cross-platform"
+      ],
+      "links": [],
+      "status": "active",
+      "review": {
+        "date": "2026-11-25",
+        "level": "source-review",
+        "sources": [
+          "https://locark.com/encrypted-notes/",
+          "https://locark.com/locark-workspace-setup-guide/",
+          "https://locark.com/locark-introduction/",
+          "https://locark.com/press/"
+        ],
+        "note": {
+          "en": "Checked publisher documentation for offline editing and preview, Markdown import, ZIP export limits, the free notes tier and platforms. Publisher submission on behalf of SELFARK LTD; no application test.",
+          "zh": "核对了发行方关于离线编辑与预览、Markdown 导入、ZIP 导出限制、免费笔记和平台支持的文档。由 SELFARK LTD 发行方提交，未进行应用实测。"
+        }
+      }
+    },
+    {
       "id": "quillpad",
       "name": {
         "en": "Quillpad",
