@@ -725,6 +725,9 @@ Choose by input format and execution environment; check headings, tables, images
 - [doc2md-lite](https://github.com/tidybytetools/doc2md-lite) - Local Python CLI and MCP server that converts text PDFs and saved HTML files to Markdown, including tables, without an API key. Requires Python 3.10+; no OCR, Word conversion or direct web-page fetching.<br>
   <span>`Open source` · `CLI` · `Python` · [PyPI](https://pypi.org/project/doc2md-lite/)</span>
 
+- [Best Latest Apps PDF to Markdown](https://bestlatestapps.com/tools/pdf-to-markdown/) - Free browser page that reads a text PDF with pdf.js and writes Markdown: larger lines become # to ### headings, bullet and numbered lines become lists, and close lines are joined into paragraphs, with optional --- page breaks and a .md download. The file is not uploaded. Tables, images, links and footnotes are not converted, two-column layouts can come out in the wrong order, and scanned PDFs without a text layer are not supported. The site shows ads.<br>
+  <span>`Free option` · `Web`</span>
+
 <a id="转成图片"></a>
 
 ### Image Generation

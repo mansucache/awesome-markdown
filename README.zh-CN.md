@@ -681,6 +681,9 @@ Markdown 原生文件、Markdown 输入快捷语法、Markdown 导入导出是�
 - [doc2md-lite](https://github.com/tidybytetools/doc2md-lite) - 在本机将含文本层的 PDF 和已保存的 HTML 转为 Markdown（包括表格）的 Python CLI 与 MCP 服务，无需 API 密钥。需 Python 3.10+；不支持 OCR、Word 转换或直接抓取网页。<br>
   <span>`开源` · `CLI` · `Python` · [PyPI](https://pypi.org/project/doc2md-lite/)</span>
 
+- [Best Latest Apps PDF 转 Markdown](https://bestlatestapps.com/tools/pdf-to-markdown/) - 免费的浏览器页面，用 pdf.js 读取含文本层的 PDF 并生成 Markdown：较大的文字行转为 # 至 ### 标题，项目符号和编号行转为列表，相邻行合并为段落，可选用 --- 标记分页并下载 .md 文件。文件不会上传。表格、图片、链接和脚注不会转换，双栏版式可能顺序错乱，不支持没有文本层的扫描件。网站展示广告。<br>
+  <span>`提供免费方案` · `Web`</span>
+
 ### 转成图片
 
 单次制作关注排版预览，批量生成关注 API、部署方式与主题定制。
