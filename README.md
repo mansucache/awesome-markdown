@@ -296,6 +296,9 @@ Check storage, linking and migration. Markdown typing shortcuts do not mean note
 - [Bear](https://bear.app/) - An Apple-platform notes app that organizes Markdown notes with tags and syncs across devices for everyday notes and writing material.<br>
   <span>`macOS` · `iOS`</span>
 
+- [LocArk](https://locark.com/) - Local-first personal workspace with free offline Markdown editing and preview, Markdown file import, and readable ZIP exports. You choose the workspace folder; new workspaces are encrypted locally. The ZIP is a portability copy, not a restorable workspace backup.<br>
+  <span>`Free option` · `macOS` · `Windows` · `iOS` · `Android` · `Cross-platform`</span>
+
 - [Quillpad](https://github.com/quillpad/quillpad) - An open-source Android notes app with Markdown, task lists and attachments for mobile notes and tasks.<br>
   <span>`Open source` · `Android`</span>
 
