@@ -204,3 +204,4 @@
 | PDF Fan PDF 转 Markdown | 2026-11-27 | 专项来源核对 | 核对官方工具页中的本地转换、OCR 和文件限制。样例结果由维护者报告，本次未复现实测。 | [1](https://pdf.fan/pdf-to-markdown/) |
 | JustMarkdown | 2026-11-27 | 专项来源核对 | 核对官方 PDF 工具页中的默认本地处理、可选托管 OCR、计费与输出限制。由维护者推荐，未实测或复核基准。 | [1](https://justmarkdown.com/pdf-to-markdown) |
 | Best Latest Apps PDF 转 Markdown | 2026-11-26 | 专项来源核对 | 核对了官方工具页面中的浏览器内 pdf.js 转换、标题/列表/段落规则、分页选项、.md 下载以及所述限制（不支持表格、图片、链接、脚注或扫描件）。非开源。由作者提交，未进行应用实测。 | [1](https://bestlatestapps.com/tools/pdf-to-markdown/) |
+| ChatGPT & Claude JSON to Markdown | 2026-11-27 | 专项来源核对 | 已核对单文件 MIT HTML/JS 源码（基于浏览器 DecompressionStream 解压 .zip，零外部网络请求）；由作者提交。 | [1](https://github.com/oneguo-boop/chatgpt-claude-json-to-markdown) [2](https://lukaslabs.top/tools/chatgpt-json-to-markdown) |

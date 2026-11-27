@@ -743,6 +743,9 @@ Choose by input format and execution environment; check headings, tables, images
 - [Best Latest Apps PDF to Markdown](https://bestlatestapps.com/tools/pdf-to-markdown/) - Free browser page that reads a text PDF with pdf.js and writes Markdown: larger lines become # to ### headings, bullet and numbered lines become lists, and close lines are joined into paragraphs, with optional --- page breaks and a .md download. The file is not uploaded. Tables, images, links and footnotes are not converted, two-column layouts can come out in the wrong order, and scanned PDFs without a text layer are not supported. The site shows ads.<br>
   <span>`Free option` · `Web`</span>
 
+- [ChatGPT & Claude JSON to Markdown](https://github.com/oneguo-boop/chatgpt-claude-json-to-markdown) - Single-file MIT browser tool that converts ChatGPT export .zip or conversations.json and Claude conversations.json into clean Markdown with optional Obsidian YAML frontmatter, processed locally in the browser without uploading files.<br>
+  <span>`Open source` · `Web` · [Try online](https://lukaslabs.top/tools/chatgpt-json-to-markdown)</span>
+
 <a id="转成图片"></a>
 
 ### Image Generation

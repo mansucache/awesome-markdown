@@ -2,6 +2,7 @@
 
 ## 2026-11-27
 
+- Added ChatGPT & Claude JSON to Markdown to To Markdown. 在「转为 Markdown」新增本地转换工具 ChatGPT & Claude JSON to Markdown。
 - Added MDA, Plainer, PDF Fan and JustMarkdown. 新增 MDA、Plainer、PDF Fan 和 JustMarkdown。
 
 ## 2026-11-22
