@@ -699,6 +699,9 @@ Markdown 原生文件、Markdown 输入快捷语法、Markdown 导入导出是�
 - [Best Latest Apps PDF 转 Markdown](https://bestlatestapps.com/tools/pdf-to-markdown/) - 免费的浏览器页面，用 pdf.js 读取含文本层的 PDF 并生成 Markdown：较大的文字行转为 # 至 ### 标题，项目符号和编号行转为列表，相邻行合并为段落，可选用 --- 标记分页并下载 .md 文件。文件不会上传。表格、图片、链接和脚注不会转换，双栏版式可能顺序错乱，不支持没有文本层的扫描件。网站展示广告。<br>
   <span>`提供免费方案` · `Web`</span>
 
+- [ChatGPT & Claude JSON to Markdown](https://github.com/oneguo-boop/chatgpt-claude-json-to-markdown) - 单文件 MIT 开源浏览器工具，可在浏览器本地将 ChatGPT 导出的 .zip / conversations.json 与 Claude conversations.json 转为带可选 Obsidian YAML frontmatter 的 Markdown，无需上传文件。<br>
+  <span>`开源` · `Web` · [在线使用](https://lukaslabs.top/tools/chatgpt-json-to-markdown)</span>
+
 ### 转成图片
 
 单次制作关注排版预览，批量生成关注 API、部署方式与主题定制。

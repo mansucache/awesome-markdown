@@ -6877,6 +6877,46 @@
           "zh": "核对了官方工具页面中的浏览器内 pdf.js 转换、标题/列表/段落规则、分页选项、.md 下载以及所述限制（不支持表格、图片、链接、脚注或扫描件）。非开源。由作者提交，未进行应用实测。"
         }
       }
+    },
+    {
+      "id": "chatgpt-claude-json-to-markdown",
+      "name": {
+        "en": "ChatGPT & Claude JSON to Markdown",
+        "zh": "ChatGPT & Claude JSON to Markdown"
+      },
+      "url": "https://github.com/oneguo-boop/chatgpt-claude-json-to-markdown",
+      "category": "to-markdown",
+      "parent": null,
+      "description": {
+        "en": "Single-file MIT browser tool that converts ChatGPT export .zip or conversations.json and Claude conversations.json into clean Markdown with optional Obsidian YAML frontmatter, processed locally in the browser without uploading files.",
+        "zh": "单文件 MIT 开源浏览器工具，可在浏览器本地将 ChatGPT 导出的 .zip / conversations.json 与 Claude conversations.json 转为带可选 Obsidian YAML frontmatter 的 Markdown，无需上传文件。"
+      },
+      "tags": [
+        "open-source",
+        "web"
+      ],
+      "links": [
+        {
+          "url": "https://lukaslabs.top/tools/chatgpt-json-to-markdown",
+          "label": {
+            "en": "Try online",
+            "zh": "在线使用"
+          }
+        }
+      ],
+      "status": "active",
+      "review": {
+        "date": "2026-11-27",
+        "level": "source-review",
+        "sources": [
+          "https://github.com/oneguo-boop/chatgpt-claude-json-to-markdown",
+          "https://lukaslabs.top/tools/chatgpt-json-to-markdown"
+        ],
+        "note": {
+          "en": "Source review: single-file MIT HTML/JS implementation using browser DecompressionStream for .zip archives, zero external network requests. Submitted by the author.",
+          "zh": "已核对单文件 MIT HTML/JS 源码（基于浏览器 DecompressionStream 解压 .zip，零外部网络请求）；由作者提交。"
+        }
+      }
     }
   ]
 }
