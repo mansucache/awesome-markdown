@@ -740,6 +740,9 @@ Choose by input format and execution environment; check headings, tables, images
 - [JustMarkdown](https://justmarkdown.com/pdf-to-markdown) - Browser PDF converter with local text extraction and OCR by default. Optional hosted OCR uploads the PDF and charges credits per page. Copy or download Markdown and review complex tables, formulas and reading order.<br>
   <span>`Web` · `Free option`</span>
 
+- [Best Latest Apps PDF to Markdown](https://bestlatestapps.com/tools/pdf-to-markdown/) - Free browser page that reads a text PDF with pdf.js and writes Markdown: larger lines become # to ### headings, bullet and numbered lines become lists, and close lines are joined into paragraphs, with optional --- page breaks and a .md download. The file is not uploaded. Tables, images, links and footnotes are not converted, two-column layouts can come out in the wrong order, and scanned PDFs without a text layer are not supported. The site shows ads.<br>
+  <span>`Free option` · `Web`</span>
+
 <a id="转成图片"></a>
 
 ### Image Generation

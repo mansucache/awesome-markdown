@@ -696,6 +696,9 @@ Markdown 原生文件、Markdown 输入快捷语法、Markdown 导入导出是�
 - [JustMarkdown](https://justmarkdown.com/pdf-to-markdown) - 浏览器 PDF 转 Markdown 工具，默认在本机提取文字或执行 OCR。可选托管 OCR 会上传 PDF 并按页消耗积分。结果可复制或下载，复杂表格、公式及阅读顺序需复核。<br>
   <span>`Web` · `提供免费方案`</span>
 
+- [Best Latest Apps PDF 转 Markdown](https://bestlatestapps.com/tools/pdf-to-markdown/) - 免费的浏览器页面，用 pdf.js 读取含文本层的 PDF 并生成 Markdown：较大的文字行转为 # 至 ### 标题，项目符号和编号行转为列表，相邻行合并为段落，可选用 --- 标记分页并下载 .md 文件。文件不会上传。表格、图片、链接和脚注不会转换，双栏版式可能顺序错乱，不支持没有文本层的扫描件。网站展示广告。<br>
+  <span>`提供免费方案` · `Web`</span>
+
 ### 转成图片
 
 单次制作关注排版预览，批量生成关注 API、部署方式与主题定制。

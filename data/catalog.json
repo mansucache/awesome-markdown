@@ -6846,6 +6846,37 @@
           "zh": "核对官方 PDF 工具页中的默认本地处理、可选托管 OCR、计费与输出限制。由维护者推荐，未实测或复核基准。"
         }
       }
+    },
+    {
+      "id": "best-latest-apps-pdf-to-markdown",
+      "name": {
+        "en": "Best Latest Apps PDF to Markdown",
+        "zh": "Best Latest Apps PDF 转 Markdown"
+      },
+      "url": "https://bestlatestapps.com/tools/pdf-to-markdown/",
+      "category": "to-markdown",
+      "parent": null,
+      "description": {
+        "en": "Free browser page that reads a text PDF with pdf.js and writes Markdown: larger lines become # to ### headings, bullet and numbered lines become lists, and close lines are joined into paragraphs, with optional --- page breaks and a .md download. The file is not uploaded. Tables, images, links and footnotes are not converted, two-column layouts can come out in the wrong order, and scanned PDFs without a text layer are not supported. The site shows ads.",
+        "zh": "免费的浏览器页面，用 pdf.js 读取含文本层的 PDF 并生成 Markdown：较大的文字行转为 # 至 ### 标题，项目符号和编号行转为列表，相邻行合并为段落，可选用 --- 标记分页并下载 .md 文件。文件不会上传。表格、图片、链接和脚注不会转换，双栏版式可能顺序错乱，不支持没有文本层的扫描件。网站展示广告。"
+      },
+      "tags": [
+        "free-tier",
+        "web"
+      ],
+      "links": [],
+      "status": "active",
+      "review": {
+        "date": "2026-11-26",
+        "level": "source-review",
+        "sources": [
+          "https://bestlatestapps.com/tools/pdf-to-markdown/"
+        ],
+        "note": {
+          "en": "Reviewed the official tool page for in-browser pdf.js conversion, heading/list/paragraph rules, page-break option, .md download and the stated limits (no tables, images, links, footnotes or scanned PDFs). Not open source. Submitted by the author; no application test.",
+          "zh": "核对了官方工具页面中的浏览器内 pdf.js 转换、标题/列表/段落规则、分页选项、.md 下载以及所述限制（不支持表格、图片、链接、脚注或扫描件）。非开源。由作者提交，未进行应用实测。"
+        }
+      }
     }
   ]
 }
