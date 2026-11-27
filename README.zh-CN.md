@@ -204,6 +204,9 @@ Markdown 原生文件、Markdown 输入快捷语法、Markdown 导入导出是�
 - [Markdown File Viewer](https://markdownfileviewer.com/) - 免费的浏览器 Markdown 阅读器，可打开本地文件、粘贴文本或获取公开原始文件链接，并导出 HTML。无需安装或账号。网站说明文件在浏览器内渲染；获取远程文档需要联网。<br>
   <span>`提供免费方案` · `Web`</span>
 
+- [MDA（Markdown 工作台）](https://github.com/ShuiYunYueKeeper/mda-l2) - 可在预览中直接编辑的本地工作台，用链接引用定义将段落或选区批注写入 Markdown 文件，便于随文件交接和通过 Git 跟踪。支持导出 Word、PDF 和公众号格式。提供 Windows x64 安装包，macOS 和 Linux 需从源码运行或构建。<br>
+  <span>`开源` · `Windows` · `CLI`</span>
+
 ### 笔记与知识管理软件
 
 关注内容保存方式、链接组织与迁移能力。以 Markdown 输入内容，并不意味着笔记以 .md 文件保存。
@@ -309,6 +312,9 @@ Markdown 原生文件、Markdown 输入快捷语法、Markdown 导入导出是�
 
 - [YouTube Transcript for Obsidian](https://github.com/tubeagentkit/youtube-transcript-obsidian) - 将 YouTube 字幕插入当前笔记，或创建带 YAML 属性和可点击时间戳的 Markdown 笔记的 Obsidian 插件。需注册 getyoutubetranscript.com 并配置 API 密钥，视频链接会发送至该服务；超出免费额度后需付费。<br>
   <span>`开源`</span>
+
+- [Plainer](https://plainer.app/) - 提供访客编辑器的浏览器笔记工作区，访客改动保存在当前浏览器。维护者提供了 Markdown 文件导入、编辑后再下载的案例；新建的原生笔记下载为含 Markdown 正文的 .plainer JSON。<br>
+  <span>`Web`</span>
 
 ### 长篇写作
 
@@ -680,6 +686,12 @@ Markdown 原生文件、Markdown 输入快捷语法、Markdown 导入导出是�
 
 - [doc2md-lite](https://github.com/tidybytetools/doc2md-lite) - 在本机将含文本层的 PDF 和已保存的 HTML 转为 Markdown（包括表格）的 Python CLI 与 MCP 服务，无需 API 密钥。需 Python 3.10+；不支持 OCR、Word 转换或直接抓取网页。<br>
   <span>`开源` · `CLI` · `Python` · [PyPI](https://pypi.org/project/doc2md-lite/)</span>
+
+- [PDF Fan PDF 转 Markdown](https://pdf.fan/pdf-to-markdown/) - 无需账号，在浏览器中把单个 PDF 转成可下载的 Markdown。可提取文本，对纯图片页面尝试 OCR。上限为 25 MB 和 200 页，复杂版面与表格需复核。<br>
+  <span>`Web`</span>
+
+- [JustMarkdown](https://justmarkdown.com/pdf-to-markdown) - 浏览器 PDF 转 Markdown 工具，默认在本机提取文字或执行 OCR。可选托管 OCR 会上传 PDF 并按页消耗积分。结果可复制或下载，复杂表格、公式及阅读顺序需复核。<br>
+  <span>`Web` · `提供免费方案`</span>
 
 ### 转成图片
 

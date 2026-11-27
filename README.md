@@ -212,6 +212,9 @@ Choose source editing, WYSIWYG or a separate previewer first; then compare docum
 - [Markdown File Viewer](https://markdownfileviewer.com/) - A free browser-based reader for local or pasted Markdown and public raw URLs, with HTML export. No installation or account is required. The site describes file rendering as browser-local; fetching remote documents requires network access.<br>
   <span>`Free option` · `Web`</span>
 
+- [MDA (Markdown Workbench)](https://github.com/ShuiYunYueKeeper/mda-l2) - Local editor with in-preview editing and paragraph or selection annotations stored in the Markdown file as link reference definitions. Exports to Word, PDF and WeChat. Windows x64 builds are available; macOS and Linux require building or running from source.<br>
+  <span>`Open source` · `Windows` · `CLI`</span>
+
 <a id="笔记与知识管理软件"></a>
 
 ### Notes and Knowledge Management
@@ -319,6 +322,9 @@ Check storage, linking and migration. Markdown typing shortcuts do not mean note
 
 - [YouTube Transcript for Obsidian](https://github.com/tubeagentkit/youtube-transcript-obsidian) - Obsidian plugin that inserts YouTube transcripts into a note or creates Markdown notes with YAML properties and optional clickable timestamps. Requires an account and API key for getyoutubetranscript.com, which receives the video link; usage beyond the free credits is paid.<br>
   <span>`Open source`</span>
+
+- [Plainer](https://plainer.app/) - Browser workspace with a guest editor that saves edits in the current browser. The maintainer documents an import-edit-download workflow for Markdown files; new native notes download as .plainer JSON with Markdown content.<br>
+  <span>`Web`</span>
 
 <a id="长篇写作"></a>
 
@@ -724,6 +730,12 @@ Choose by input format and execution environment; check headings, tables, images
 
 - [doc2md-lite](https://github.com/tidybytetools/doc2md-lite) - Local Python CLI and MCP server that converts text PDFs and saved HTML files to Markdown, including tables, without an API key. Requires Python 3.10+; no OCR, Word conversion or direct web-page fetching.<br>
   <span>`Open source` · `CLI` · `Python` · [PyPI](https://pypi.org/project/doc2md-lite/)</span>
+
+- [PDF Fan PDF to Markdown](https://pdf.fan/pdf-to-markdown/) - Converts one PDF at a time to downloadable Markdown in the browser without an account. Extracts selectable text and attempts OCR on image-only pages. Up to 25 MB and 200 pages; check reading order and complex tables.<br>
+  <span>`Web`</span>
+
+- [JustMarkdown](https://justmarkdown.com/pdf-to-markdown) - Browser PDF converter with local text extraction and OCR by default. Optional hosted OCR uploads the PDF and charges credits per page. Copy or download Markdown and review complex tables, formulas and reading order.<br>
+  <span>`Web` · `Free option`</span>
 
 <a id="转成图片"></a>
 
