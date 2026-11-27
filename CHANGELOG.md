@@ -1,5 +1,9 @@
 # Changelog / 更新记录
 
+## 2026-11-27
+
+- Added MDA, Plainer, PDF Fan and JustMarkdown. 新增 MDA、Plainer、PDF Fan 和 JustMarkdown。
+
 ## 2026-11-22
 
 - Updated MySkills Markdown to Word with its English interface and native DOCX table and heading support. 更新 MySkills Markdown 转 Word 条目，补充英文入口及 DOCX 原生表格与标题样式说明。

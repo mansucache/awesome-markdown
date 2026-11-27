@@ -1522,6 +1522,39 @@
       }
     },
     {
+      "id": "mda",
+      "name": {
+        "en": "MDA (Markdown Workbench)",
+        "zh": "MDA（Markdown 工作台）"
+      },
+      "url": "https://github.com/ShuiYunYueKeeper/mda-l2",
+      "category": "dedicated-markdown-editors",
+      "parent": null,
+      "description": {
+        "en": "Local editor with in-preview editing and paragraph or selection annotations stored in the Markdown file as link reference definitions. Exports to Word, PDF and WeChat. Windows x64 builds are available; macOS and Linux require building or running from source.",
+        "zh": "可在预览中直接编辑的本地工作台，用链接引用定义将段落或选区批注写入 Markdown 文件，便于随文件交接和通过 Git 跟踪。支持导出 Word、PDF 和公众号格式。提供 Windows x64 安装包，macOS 和 Linux 需从源码运行或构建。"
+      },
+      "tags": [
+        "open-source",
+        "windows",
+        "cli"
+      ],
+      "links": [],
+      "status": "active",
+      "review": {
+        "date": "2026-11-27",
+        "level": "source-review",
+        "sources": [
+          "https://github.com/ShuiYunYueKeeper/mda-l2",
+          "https://github.com/ShuiYunYueKeeper/mda-l2/releases/latest"
+        ],
+        "note": {
+          "en": "Reviewed the README and release assets for in-file annotations, export and platform packaging. Maintainer submission. No application test.",
+          "zh": "核对官方 README 和发行文件中的文内批注、导出及平台支持。由维护者推荐，未实测。"
+        }
+      }
+    },
+    {
       "id": "persona",
       "name": {
         "en": "Persona",
@@ -2677,6 +2710,36 @@
         "note": {
           "en": "Reviewed official README and service pricing for insertion/new-note commands, YAML properties, timestamps, desktop/mobile support and API dependency. Service offers 100 signup credits, one per successful transcript, with paid plans. API key is saved in vault plugin data. MIT plugin licensing does not cover the hosted service. Maintainer recommendation; no application test.",
           "zh": "核对官方 README 与服务价格页中的插入/新建笔记命令、YAML 属性、时间戳、桌面/移动端支持及 API 依赖。服务注册提供 100 积分，每次成功获取字幕使用 1 积分，另有付费方案。API 密钥保存在仓库插件数据中。插件 MIT 许可不涵盖托管服务。由维护者推荐，未进行应用实测。"
+        }
+      }
+    },
+    {
+      "id": "plainer",
+      "name": {
+        "en": "Plainer",
+        "zh": "Plainer"
+      },
+      "url": "https://plainer.app/",
+      "category": "notes-and-knowledge-management",
+      "parent": null,
+      "description": {
+        "en": "Browser workspace with a guest editor that saves edits in the current browser. The maintainer documents an import-edit-download workflow for Markdown files; new native notes download as .plainer JSON with Markdown content.",
+        "zh": "提供访客编辑器的浏览器笔记工作区，访客改动保存在当前浏览器。维护者提供了 Markdown 文件导入、编辑后再下载的案例；新建的原生笔记下载为含 Markdown 正文的 .plainer JSON。"
+      },
+      "tags": [
+        "web"
+      ],
+      "links": [],
+      "status": "active",
+      "review": {
+        "date": "2026-11-27",
+        "level": "source-review",
+        "sources": [
+          "https://plainer.app/try"
+        ],
+        "note": {
+          "en": "Confirmed the guest workspace, browser storage notice and visible .plainer files. The Markdown round trip and native download format are reported by an affiliated submitter in issue #61 and were not independently tested.",
+          "zh": "核对了访客工作区、本浏览器存储提示及界面中的 .plainer 文件。Markdown 导入后重新下载和原生笔记导出格式来自项目相关方在 #61 的报告，本次未独立实测。"
         }
       }
     },
@@ -6682,6 +6745,67 @@
         "note": {
           "en": "Reviewed official README and PyPI package metadata for Python requirements, local CLI/MCP setup, PDF/saved HTML conversion and table output. No OCR, Word input or direct web fetching. MIT license. Submitted by the maintainer; no application test.",
           "zh": "核对了官方 README 与 PyPI 包元数据中的 Python 要求、本地 CLI/MCP 配置、PDF/已保存 HTML 转换与表格输出。不支持 OCR、Word 输入或直接抓取网页。MIT 许可。由维护者提交，未进行应用实测。"
+        }
+      }
+    },
+    {
+      "id": "pdf-fan-pdf-to-markdown",
+      "name": {
+        "en": "PDF Fan PDF to Markdown",
+        "zh": "PDF Fan PDF 转 Markdown"
+      },
+      "url": "https://pdf.fan/pdf-to-markdown/",
+      "category": "to-markdown",
+      "parent": null,
+      "description": {
+        "en": "Converts one PDF at a time to downloadable Markdown in the browser without an account. Extracts selectable text and attempts OCR on image-only pages. Up to 25 MB and 200 pages; check reading order and complex tables.",
+        "zh": "无需账号，在浏览器中把单个 PDF 转成可下载的 Markdown。可提取文本，对纯图片页面尝试 OCR。上限为 25 MB 和 200 页，复杂版面与表格需复核。"
+      },
+      "tags": [
+        "web"
+      ],
+      "links": [],
+      "status": "active",
+      "review": {
+        "date": "2026-11-27",
+        "level": "source-review",
+        "sources": [
+          "https://pdf.fan/pdf-to-markdown/"
+        ],
+        "note": {
+          "en": "Reviewed the official tool page for local conversion, OCR and file limits. The sample result was reported by the maintainer and was not independently reproduced.",
+          "zh": "核对官方工具页中的本地转换、OCR 和文件限制。样例结果由维护者报告，本次未复现实测。"
+        }
+      }
+    },
+    {
+      "id": "justmarkdown",
+      "name": {
+        "en": "JustMarkdown",
+        "zh": "JustMarkdown"
+      },
+      "url": "https://justmarkdown.com/pdf-to-markdown",
+      "category": "to-markdown",
+      "parent": null,
+      "description": {
+        "en": "Browser PDF converter with local text extraction and OCR by default. Optional hosted OCR uploads the PDF and charges credits per page. Copy or download Markdown and review complex tables, formulas and reading order.",
+        "zh": "浏览器 PDF 转 Markdown 工具，默认在本机提取文字或执行 OCR。可选托管 OCR 会上传 PDF 并按页消耗积分。结果可复制或下载，复杂表格、公式及阅读顺序需复核。"
+      },
+      "tags": [
+        "web",
+        "free-tier"
+      ],
+      "links": [],
+      "status": "active",
+      "review": {
+        "date": "2026-11-27",
+        "level": "source-review",
+        "sources": [
+          "https://justmarkdown.com/pdf-to-markdown"
+        ],
+        "note": {
+          "en": "Reviewed the official PDF tool page for default local processing, optional hosted OCR, billing and output limits. Maintainer submission. No application or benchmark test.",
+          "zh": "核对官方 PDF 工具页中的默认本地处理、可选托管 OCR、计费与输出限制。由维护者推荐，未实测或复核基准。"
         }
       }
     }

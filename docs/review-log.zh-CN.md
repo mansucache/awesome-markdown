@@ -41,6 +41,7 @@
 | Ritemark | 2026-10-13 | 专项来源核对 | 核对官网、MIT 许可与功能文档中的 macOS/Windows、可视化 Markdown 编辑、终端与代理集成、Mermaid 及 Word/PDF 导出及文档注明的远程图片导出限制。应用免费，AI 使用用户自己的服务商账号或 API 密钥，代理读取的内容会发送给对应服务商。未进行应用实测。由开发者提交。 | [1](https://ritemark.app/en/) [2](https://github.com/ProductoryHQ/ritemark-native) [3](https://github.com/ProductoryHQ/ritemark-native/blob/main/docs/user/features/README.md) [4](https://github.com/ProductoryHQ/ritemark-native/blob/main/docs/user/features/export.md) [5](https://github.com/ProductoryHQ/ritemark-native/blob/main/extensions/ritemark/webview/src/lib/mermaid.ts) |
 | Glim | 2026-10-16 | 专项来源核对 | 核对项目 README、MIT 许可、格式指南和 v0.2.3 安装包中的 Markdown 渲染、Mermaid 与公式、源码编辑及 Mac 芯片架构说明。编辑仅为基础功能，预览限制见文档；因未公证，首次启动可能需要在 macOS 中批准。未进行应用实测或性能测量。由项目维护者提交。 | [1](https://github.com/NeoPanic/Glim) [2](https://github.com/NeoPanic/Glim/blob/main/LICENSE) [3](https://github.com/NeoPanic/Glim/blob/main/docs/file-format-support.md) [4](https://github.com/NeoPanic/Glim/releases/tag/v0.2.3) |
 | Markdown File Viewer | 2026-10-23 | 专项来源核对 | 核对官网首页的本地文件、粘贴文本、原始链接输入、HTML 导出及免费免账号说明。浏览器本地处理为网站声明，未独立验证网络隔离。未进行应用实测。 | [1](https://markdownfileviewer.com/) |
+| MDA（Markdown 工作台） | 2026-11-27 | 专项来源核对 | 核对官方 README 和发行文件中的文内批注、导出及平台支持。由维护者推荐，未实测。 | [1](https://github.com/ShuiYunYueKeeper/mda-l2) [2](https://github.com/ShuiYunYueKeeper/mda-l2/releases/latest) |
 | Persona | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/jayamitkatariya/personacli) |
 | Obsidian | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://obsidian.md/) |
 | Notion | 2026-09-08 | 专项来源核对 | 已就所述能力或修正核对列出的来源，未进行应用功能实测。 | [1](https://www.notion.com/zh-cn/help/notion-for-desktop) [2](https://www.notion.com/help/writing-and-editing-basics) |
@@ -76,6 +77,7 @@
 | WeKnora | 2026-11-10 | 专项来源核对 | 已核对官方 README 中的 Markdown 输入、代理生成 Markdown Wiki、来源引用、页面编辑、版本回滚及部署和模型要求。未进行应用实测，未确认原生 Markdown 文件夹存储或 Obsidian 往返兼容性。 | [1](https://github.com/Tencent/WeKnora) |
 | Scrinium | 2026-11-19 | 专项来源核对 | 已核对官方文档中的即时排版、同步、付费限制和 JSON 导出。加密说明来自厂商，本次未进行独立审计或功能实测。由开发者推荐。 | [1](https://scrinium-note.com/features/encrypted-markdown) [2](https://scrinium-note.com/blog/back-up-and-restore-encrypted-notes) |
 | YouTube Transcript for Obsidian | 2026-11-16 | 专项来源核对 | 核对官方 README 与服务价格页中的插入/新建笔记命令、YAML 属性、时间戳、桌面/移动端支持及 API 依赖。服务注册提供 100 积分，每次成功获取字幕使用 1 积分，另有付费方案。API 密钥保存在仓库插件数据中。插件 MIT 许可不涵盖托管服务。由维护者推荐，未进行应用实测。 | [1](https://github.com/tubeagentkit/youtube-transcript-obsidian) [2](https://getyoutubetranscript.com/pricing) |
+| Plainer | 2026-11-27 | 专项来源核对 | 核对了访客工作区、本浏览器存储提示及界面中的 .plainer 文件。Markdown 导入后重新下载和原生笔记导出格式来自项目相关方在 #61 的报告，本次未独立实测。 | [1](https://plainer.app/try) |
 | novelWriter | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://github.com/saga-soft/novelWriter) |
 | WonderPen（妙笔） | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://www.tominlab.com/wonderpen) |
 | ImagineYourBook | 2026-10-26 | 专项来源核对 | 核对官方定价页与关于页的书籍规划、逐章起草、书稿上传、Word/EPUB/Markdown 导出及付费说明。修正仅生成文字的表述，产品也提供封面。试用需绑卡，若不取消，七天后转为付费。由自动化工具代表产品方提交。未进行应用实测。 | [1](https://www.imagineyourbook.com/pricing.html) [2](https://www.imagineyourbook.com/about) |
@@ -198,3 +200,5 @@
 | 《了不起的 Markdown：大语言模型时代的通用语言》 | 2026-09-08 | 基础来源检查 | 已检查官方页面或仓库元数据，未进行应用功能实测。 | [1](https://book.douban.com/subject/37478156/) |
 | Markdown Guide | 2026-09-12 | 专项来源核对 | 已核对官方资料与仓库活动，观察到默认分支于 2026-07-21 有提交。此为来源核验，不是功能或性能实测。 | [1](https://github.com/mattcone/markdown-guide) [2](https://www.markdownguide.org/) |
 | doc2md-lite | 2026-11-11 | 专项来源核对 | 核对了官方 README 与 PyPI 包元数据中的 Python 要求、本地 CLI/MCP 配置、PDF/已保存 HTML 转换与表格输出。不支持 OCR、Word 输入或直接抓取网页。MIT 许可。由维护者提交，未进行应用实测。 | [1](https://github.com/tidybytetools/doc2md-lite) [2](https://pypi.org/project/doc2md-lite/) |
+| PDF Fan PDF 转 Markdown | 2026-11-27 | 专项来源核对 | 核对官方工具页中的本地转换、OCR 和文件限制。样例结果由维护者报告，本次未复现实测。 | [1](https://pdf.fan/pdf-to-markdown/) |
+| JustMarkdown | 2026-11-27 | 专项来源核对 | 核对官方 PDF 工具页中的默认本地处理、可选托管 OCR、计费与输出限制。由维护者推荐，未实测或复核基准。 | [1](https://justmarkdown.com/pdf-to-markdown) |
